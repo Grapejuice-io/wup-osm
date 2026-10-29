@@ -1,0 +1,2276 @@
+{
+  "version": 1,
+  "city": "bruges",
+  "country": "BE",
+  "region": "europe/belgium",
+  "extract_timestamp": "2026-10-27T21:23:59Z",
+  "radius_km": 10,
+  "bbox": [
+    3.08078,
+    51.11906,
+    3.36756,
+    51.29872
+  ],
+  "venues": [
+    {
+      "osm_type": "node",
+      "osm_id": 470512865,
+      "name": "Assiette Blanche",
+      "names": {},
+      "lat": 51.209642,
+      "lng": 3.226335,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2024-08-17"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1187702551,
+      "name": "Hawaiian Poké Bowl",
+      "names": {},
+      "lat": 51.2068,
+      "lng": 3.222917,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2025-05-27"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1187790220,
+      "name": "Ellis",
+      "names": {},
+      "lat": 51.206302,
+      "lng": 3.22269,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2023-09-14"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1203374441,
+      "name": "Quick Pizza",
+      "names": {},
+      "lat": 51.20545,
+      "lng": 3.214456,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2379296838,
+      "name": "Trium Trattoria",
+      "names": {},
+      "lat": 51.211514,
+      "lng": 3.225138,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3634558545,
+      "name": "Domino's",
+      "names": {},
+      "lat": 51.197662,
+      "lng": 3.219511,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4332247714,
+      "name": "B&B AM/PM",
+      "names": {},
+      "lat": 51.203307,
+      "lng": 3.211888,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "tourism=guest_house",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5148602922,
+      "name": "De Snuffel",
+      "names": {},
+      "lat": 51.213182,
+      "lng": 3.21869,
+      "tags": {
+        "dog": "unleashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=bar",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5273655821,
+      "name": "‘t Brugs Pitahuis",
+      "names": {},
+      "lat": 51.209666,
+      "lng": 3.226764,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5869342907,
+      "name": "The Potato Bar",
+      "names": {},
+      "lat": 51.208344,
+      "lng": 3.222064,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5920416789,
+      "name": "Patrick Devos",
+      "names": {},
+      "lat": 51.206629,
+      "lng": 3.220877,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6452473786,
+      "name": "Bohemian Burgers",
+      "names": {},
+      "lat": 51.208529,
+      "lng": 3.222466,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7091104335,
+      "name": "Hondenwasserette De Snorhaard",
+      "names": {},
+      "lat": 51.198742,
+      "lng": 3.272501,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "shop=pet_grooming",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7096549824,
+      "name": "Amunì",
+      "names": {},
+      "lat": 51.209482,
+      "lng": 3.227064,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7677991485,
+      "name": "Otomat",
+      "names": {},
+      "lat": 51.206217,
+      "lng": 3.222751,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7714677448,
+      "name": "Atelier Flori",
+      "names": {},
+      "lat": 51.206877,
+      "lng": 3.229477,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8960168517,
+      "name": "De Brugsche tafel",
+      "names": {},
+      "lat": 51.209571,
+      "lng": 3.227393,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9003386930,
+      "name": "Bistrobar Boreas",
+      "names": {},
+      "lat": 51.2028,
+      "lng": 3.224558,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2025-10-19"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9391850373,
+      "name": "Wild Foodz",
+      "names": {},
+      "lat": 51.189128,
+      "lng": 3.211568,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9709519417,
+      "name": "Cropains",
+      "names": {
+        "en": "Cropains"
+      },
+      "lat": 51.208814,
+      "lng": 3.2221,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9848556559,
+      "name": "Kaffee Kamiel",
+      "names": {},
+      "lat": 51.206839,
+      "lng": 3.220067,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9848581664,
+      "name": "Paradise",
+      "names": {},
+      "lat": 51.205178,
+      "lng": 3.223587,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9848715303,
+      "name": "Garlic'n'green",
+      "names": {},
+      "lat": 51.209716,
+      "lng": 3.224757,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10001518802,
+      "name": "Sprout",
+      "names": {},
+      "lat": 51.192323,
+      "lng": 3.232016,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10016550617,
+      "name": "Fritbar",
+      "names": {
+        "en": "Fritbar"
+      },
+      "lat": 51.203774,
+      "lng": 3.224763,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10310507378,
+      "name": "Puur",
+      "names": {},
+      "lat": 51.160179,
+      "lng": 3.235825,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=vending_machine",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10873192001,
+      "name": null,
+      "names": {},
+      "lat": 51.21992,
+      "lng": 3.249095,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10916570066,
+      "name": "Groot Vlaenderen",
+      "names": {},
+      "lat": 51.212244,
+      "lng": 3.223124,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=bar",
+      "check_date": "2025-07-20"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10926726353,
+      "name": "Oyya",
+      "names": {},
+      "lat": 51.208278,
+      "lng": 3.221231,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=ice_cream",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11240859909,
+      "name": "Passion for Food",
+      "names": {},
+      "lat": 51.209695,
+      "lng": 3.226977,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11338225769,
+      "name": "Dunkin'",
+      "names": {},
+      "lat": 51.208405,
+      "lng": 3.223878,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11534576266,
+      "name": "Stera - Plantenbar",
+      "names": {},
+      "lat": 51.205326,
+      "lng": 3.211011,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11608068444,
+      "name": "Domino's",
+      "names": {},
+      "lat": 51.225232,
+      "lng": 3.206146,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11832939532,
+      "name": "Bayu Brugge",
+      "names": {},
+      "lat": 51.208729,
+      "lng": 3.221953,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12227647401,
+      "name": "Thai Zen",
+      "names": {},
+      "lat": 51.2029,
+      "lng": 3.225255,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12760452201,
+      "name": "Pannenhuis Social Bar",
+      "names": {},
+      "lat": 51.203427,
+      "lng": 3.205001,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=bar",
+      "check_date": "2025-04-16"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12898270592,
+      "name": "Jack & Jones",
+      "names": {},
+      "lat": 51.207135,
+      "lng": 3.222877,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "shop=clothes",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 14177655074,
+      "name": "De Bühne",
+      "names": {},
+      "lat": 51.206049,
+      "lng": 3.2225,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 16813533,
+      "name": "Provinciedomein Tillegembos",
+      "names": {},
+      "lat": 51.174807,
+      "lng": 3.189019,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 17780153,
+      "name": "Gevaerts Noord",
+      "names": {},
+      "lat": 51.141601,
+      "lng": 3.313448,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=nature_reserve",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 22326977,
+      "name": "Doeveren",
+      "names": {},
+      "lat": 51.125299,
+      "lng": 3.191012,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=nature_reserve",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 23792225,
+      "name": null,
+      "names": {},
+      "lat": 51.216669,
+      "lng": 3.189717,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 23792226,
+      "name": null,
+      "names": {},
+      "lat": 51.217166,
+      "lng": 3.190387,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 23792227,
+      "name": "Waggelwaterpark",
+      "names": {},
+      "lat": 51.216856,
+      "lng": 3.194668,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 47584454,
+      "name": "Waggelwaterpark",
+      "names": {},
+      "lat": 51.216856,
+      "lng": 3.194668,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 49218799,
+      "name": null,
+      "names": {},
+      "lat": 51.118456,
+      "lng": 3.233473,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 74215986,
+      "name": null,
+      "names": {},
+      "lat": 51.199611,
+      "lng": 3.272589,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 169900116,
+      "name": "Vasedreef",
+      "names": {},
+      "lat": 51.12634,
+      "lng": 3.183511,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 176828645,
+      "name": "Bistro Zevenkerken",
+      "names": {},
+      "lat": 51.160917,
+      "lng": 3.161913,
+      "tags": {
+        "dog": "unleashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 180837013,
+      "name": "Duivekeetbos",
+      "names": {},
+      "lat": 51.238023,
+      "lng": 3.209253,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 197812589,
+      "name": null,
+      "names": {},
+      "lat": 51.222862,
+      "lng": 3.146881,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 197813383,
+      "name": null,
+      "names": {},
+      "lat": 51.214992,
+      "lng": 3.148924,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 223674422,
+      "name": null,
+      "names": {},
+      "lat": 51.167796,
+      "lng": 3.171532,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 223674432,
+      "name": null,
+      "names": {},
+      "lat": 51.168088,
+      "lng": 3.170378,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 253459248,
+      "name": "De Bosrand",
+      "names": {},
+      "lat": 51.187981,
+      "lng": 3.209249,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 261890414,
+      "name": null,
+      "names": {},
+      "lat": 51.205186,
+      "lng": 3.293442,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 272353480,
+      "name": null,
+      "names": {},
+      "lat": 51.236023,
+      "lng": 3.248924,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 273229476,
+      "name": "The Olive Streetfood",
+      "names": {},
+      "lat": 51.207542,
+      "lng": 3.225957,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-04-14"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 314531418,
+      "name": "Miseriebocht",
+      "names": {},
+      "lat": 51.129451,
+      "lng": 3.35413,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=nature_reserve",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 328960496,
+      "name": "Vero Caffè",
+      "names": {},
+      "lat": 51.210762,
+      "lng": 3.225654,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 353657290,
+      "name": "Bistro Zevenkerken",
+      "names": {},
+      "lat": 51.160917,
+      "lng": 3.161913,
+      "tags": {
+        "dog": "unleashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 361674026,
+      "name": "Duivekeetbos",
+      "names": {},
+      "lat": 51.238023,
+      "lng": 3.209253,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 361783113,
+      "name": null,
+      "names": {},
+      "lat": 51.204447,
+      "lng": 3.301645,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 377866671,
+      "name": "Middendreef",
+      "names": {},
+      "lat": 51.155037,
+      "lng": 3.117792,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 377866672,
+      "name": "Doorndreef",
+      "names": {},
+      "lat": 51.15181,
+      "lng": 3.121366,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 377866674,
+      "name": null,
+      "names": {},
+      "lat": 51.149838,
+      "lng": 3.121641,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 377866675,
+      "name": "Sneppedreef",
+      "names": {},
+      "lat": 51.149715,
+      "lng": 3.118532,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 377866815,
+      "name": null,
+      "names": {},
+      "lat": 51.14869,
+      "lng": 3.120176,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 435859900,
+      "name": "Sneppedreef",
+      "names": {},
+      "lat": 51.151056,
+      "lng": 3.116808,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 435859901,
+      "name": null,
+      "names": {},
+      "lat": 51.148733,
+      "lng": 3.122667,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 435859903,
+      "name": null,
+      "names": {},
+      "lat": 51.151952,
+      "lng": 3.12217,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 435859904,
+      "name": "Middendreef",
+      "names": {},
+      "lat": 51.153876,
+      "lng": 3.119122,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 435859905,
+      "name": "Bromdreef",
+      "names": {},
+      "lat": 51.152289,
+      "lng": 3.112297,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 435859906,
+      "name": null,
+      "names": {},
+      "lat": 51.151049,
+      "lng": 3.111288,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 449124822,
+      "name": null,
+      "names": {},
+      "lat": 51.216774,
+      "lng": 3.19543,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 449124824,
+      "name": null,
+      "names": {},
+      "lat": 51.217317,
+      "lng": 3.198618,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 483629830,
+      "name": null,
+      "names": {},
+      "lat": 51.254814,
+      "lng": 3.200803,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 506918496,
+      "name": "De Bosrand",
+      "names": {},
+      "lat": 51.187981,
+      "lng": 3.209249,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 523780828,
+      "name": null,
+      "names": {},
+      "lat": 51.205186,
+      "lng": 3.293442,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 544706960,
+      "name": null,
+      "names": {},
+      "lat": 51.236023,
+      "lng": 3.248924,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 546458952,
+      "name": "The Olive Streetfood",
+      "names": {},
+      "lat": 51.207542,
+      "lng": 3.225957,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-04-14"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 564635379,
+      "name": null,
+      "names": {},
+      "lat": 51.187342,
+      "lng": 3.27781,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 568312019,
+      "name": null,
+      "names": {},
+      "lat": 51.216914,
+      "lng": 3.198601,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 568312020,
+      "name": null,
+      "names": {},
+      "lat": 51.216789,
+      "lng": 3.197297,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 568312021,
+      "name": null,
+      "names": {},
+      "lat": 51.216637,
+      "lng": 3.19636,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 568312023,
+      "name": null,
+      "names": {},
+      "lat": 51.21676,
+      "lng": 3.196903,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 568312024,
+      "name": null,
+      "names": {},
+      "lat": 51.216827,
+      "lng": 3.197939,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 568312025,
+      "name": null,
+      "names": {},
+      "lat": 51.216972,
+      "lng": 3.198242,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 568312026,
+      "name": null,
+      "names": {},
+      "lat": 51.216767,
+      "lng": 3.200447,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 568332080,
+      "name": null,
+      "names": {},
+      "lat": 51.216918,
+      "lng": 3.197068,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 568332081,
+      "name": null,
+      "names": {},
+      "lat": 51.216807,
+      "lng": 3.196869,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 568350615,
+      "name": null,
+      "names": {},
+      "lat": 51.217316,
+      "lng": 3.190457,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 629062836,
+      "name": "Miseriebocht",
+      "names": {},
+      "lat": 51.129451,
+      "lng": 3.35413,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=nature_reserve",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 657920992,
+      "name": "Vero Caffè",
+      "names": {},
+      "lat": 51.210762,
+      "lng": 3.225654,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 678917877,
+      "name": null,
+      "names": {},
+      "lat": 51.203681,
+      "lng": 3.179514,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 699642011,
+      "name": "Beukenlaanbos",
+      "names": {},
+      "lat": 51.209264,
+      "lng": 3.278817,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 723566226,
+      "name": null,
+      "names": {},
+      "lat": 51.204447,
+      "lng": 3.301645,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 741685469,
+      "name": "Verbrand Fort",
+      "names": {},
+      "lat": 51.267405,
+      "lng": 3.289742,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=nature_reserve",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 741739520,
+      "name": null,
+      "names": {},
+      "lat": 51.217991,
+      "lng": 3.148594,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 741739523,
+      "name": null,
+      "names": {},
+      "lat": 51.218253,
+      "lng": 3.149743,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 741739524,
+      "name": null,
+      "names": {},
+      "lat": 51.220662,
+      "lng": 3.148894,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 793029077,
+      "name": null,
+      "names": {},
+      "lat": 51.235578,
+      "lng": 3.254292,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 793638138,
+      "name": null,
+      "names": {},
+      "lat": 51.148652,
+      "lng": 3.116242,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 793638139,
+      "name": "Legedreef",
+      "names": {},
+      "lat": 51.151418,
+      "lng": 3.119378,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 793638143,
+      "name": "Muschdreef",
+      "names": {},
+      "lat": 51.156031,
+      "lng": 3.119046,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 796664464,
+      "name": "Oude Schaapskooi",
+      "names": {},
+      "lat": 51.254455,
+      "lng": 3.280383,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=nature_reserve",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 821935783,
+      "name": "De Meetkerkse Moeren",
+      "names": {},
+      "lat": 51.219982,
+      "lng": 3.144482,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=nature_reserve",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 834926570,
+      "name": "Sint-Jansdreef",
+      "names": {},
+      "lat": 51.154997,
+      "lng": 3.119739,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 834926571,
+      "name": null,
+      "names": {},
+      "lat": 51.149978,
+      "lng": 3.123305,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 834926572,
+      "name": "Legedreef",
+      "names": {},
+      "lat": 51.14966,
+      "lng": 3.120218,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 863561424,
+      "name": null,
+      "names": {},
+      "lat": 51.147402,
+      "lng": 3.119262,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 863561425,
+      "name": null,
+      "names": {},
+      "lat": 51.148219,
+      "lng": 3.119904,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 875217160,
+      "name": null,
+      "names": {},
+      "lat": 51.143262,
+      "lng": 3.241709,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 881762249,
+      "name": "Houtdreef",
+      "names": {},
+      "lat": 51.123953,
+      "lng": 3.18244,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 957589941,
+      "name": null,
+      "names": {},
+      "lat": 51.222896,
+      "lng": 3.14688,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 958192234,
+      "name": "Muschdreef",
+      "names": {},
+      "lat": 51.155039,
+      "lng": 3.115834,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 967259660,
+      "name": null,
+      "names": {},
+      "lat": 51.254814,
+      "lng": 3.200803,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1000472161,
+      "name": null,
+      "names": {},
+      "lat": 51.147757,
+      "lng": 3.125003,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1045113971,
+      "name": null,
+      "names": {},
+      "lat": 51.149237,
+      "lng": 3.120396,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1045120402,
+      "name": "Bromdreef",
+      "names": {},
+      "lat": 51.15387,
+      "lng": 3.116967,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1050102653,
+      "name": null,
+      "names": {},
+      "lat": 51.231771,
+      "lng": 3.194747,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1054284560,
+      "name": null,
+      "names": {},
+      "lat": 51.149566,
+      "lng": 3.116536,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1054284561,
+      "name": null,
+      "names": {},
+      "lat": 51.149815,
+      "lng": 3.116784,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1096126356,
+      "name": "Leiemeersen-Noord",
+      "names": {},
+      "lat": 51.154304,
+      "lng": 3.275655,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=nature_reserve",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1120838281,
+      "name": null,
+      "names": {},
+      "lat": 51.16771,
+      "lng": 3.171447,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1134392711,
+      "name": null,
+      "names": {},
+      "lat": 51.225772,
+      "lng": 3.204382,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1357835754,
+      "name": null,
+      "names": {},
+      "lat": 51.203681,
+      "lng": 3.179514,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1359885317,
+      "name": null,
+      "names": {},
+      "lat": 51.21101,
+      "lng": 3.211488,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1399284022,
+      "name": "Beukenlaanbos",
+      "names": {},
+      "lat": 51.209264,
+      "lng": 3.278817,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1483370938,
+      "name": "Verbrand Fort",
+      "names": {},
+      "lat": 51.267405,
+      "lng": 3.289742,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=nature_reserve",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1484361556,
+      "name": null,
+      "names": {},
+      "lat": 51.216775,
+      "lng": 3.190313,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1484361557,
+      "name": null,
+      "names": {},
+      "lat": 51.216721,
+      "lng": 3.190011,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1586058154,
+      "name": null,
+      "names": {},
+      "lat": 51.235578,
+      "lng": 3.254292,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1593328928,
+      "name": "Oude Schaapskooi",
+      "names": {},
+      "lat": 51.254455,
+      "lng": 3.280383,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=nature_reserve",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1643871566,
+      "name": "De Meetkerkse Moeren",
+      "names": {},
+      "lat": 51.219982,
+      "lng": 3.144482,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=nature_reserve",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1750434320,
+      "name": null,
+      "names": {},
+      "lat": 51.143262,
+      "lng": 3.241709,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2000944322,
+      "name": null,
+      "names": {},
+      "lat": 51.147757,
+      "lng": 3.125003,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2100205306,
+      "name": null,
+      "names": {},
+      "lat": 51.231771,
+      "lng": 3.194747,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2192252712,
+      "name": "Leiemeersen-Noord",
+      "names": {},
+      "lat": 51.154304,
+      "lng": 3.275655,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=nature_reserve",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2268785422,
+      "name": null,
+      "names": {},
+      "lat": 51.225772,
+      "lng": 3.204382,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2719770634,
+      "name": null,
+      "names": {},
+      "lat": 51.21101,
+      "lng": 3.211488,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    }
+  ]
+}

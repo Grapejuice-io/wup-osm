@@ -1,0 +1,15 @@
+{
+  "note": "B44 item 1. The box cut around each city from its Geofabrik extract: a square of radius_km on each side of the city's point. A city in radius_km_by_city gets its own. Changing a radius changes that city's file at the next run.",
+  "radius_km": 10,
+  "radius_km_by_city": {
+    "london": 18,
+    "paris": 12,
+    "berlin": 15,
+    "new-york": 15,
+    "tokyo": 18,
+    "beijing": 20,
+    "istanbul": 18,
+    "madrid": 12,
+    "rome": 12
+  }
+}

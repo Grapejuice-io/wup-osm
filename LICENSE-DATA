@@ -1,0 +1,17 @@
+The data in the osm/ directory of this repository
+
+  © OpenStreetMap contributors
+  https://www.openstreetmap.org/copyright
+
+is made available under the Open Database License (ODbL) 1.0:
+https://opendatacommons.org/licenses/odbl/1-0/
+
+Each osm/<city>.json is a derivative database of OpenStreetMap, made by WUP
+Travel (https://wuptravel.com) with the method in README.md, from
+Geofabrik's extracts (https://download.geofabrik.de/). Any rights in the
+individual contents of the database are licensed under the Database Contents
+License: https://opendatacommons.org/licenses/dbcl/1-0/
+
+docs/osm-coverage.md counts the same data and carries the same notice. The
+code in this repository (src/, scripts/, tests/, .github/) is not data and is
+not covered by this file.

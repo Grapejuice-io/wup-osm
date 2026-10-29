@@ -1,0 +1,518 @@
+{
+ "note": "Exported by Claude from public.destinations (kind = city) on 28 Oct 2026 for B44's OSM extract job. Regenerate from the database when cities are added; never edit by hand.",
+ "cities": [
+  {
+   "slug": "dubai",
+   "name": "Dubai",
+   "country_code": "AE",
+   "country_slug": "united-arab-emirates",
+   "lat": 25.269722222222,
+   "lng": 55.309444444444,
+   "wikidata_id": "Q612"
+  },
+  {
+   "slug": "salzburg",
+   "name": "Salzburg",
+   "country_code": "AT",
+   "country_slug": "austria",
+   "lat": 47.8,
+   "lng": 13.045,
+   "wikidata_id": "Q34713"
+  },
+  {
+   "slug": "vienna",
+   "name": "Vienna",
+   "country_code": "AT",
+   "country_slug": "austria",
+   "lat": 48.2083333333333,
+   "lng": 16.3725,
+   "wikidata_id": "Q1741"
+  },
+  {
+   "slug": "bruges",
+   "name": "Bruges",
+   "country_code": "BE",
+   "country_slug": "belgium",
+   "lat": 51.2088888888889,
+   "lng": 3.22416666666667,
+   "wikidata_id": "Q12994"
+  },
+  {
+   "slug": "brussels",
+   "name": "Brussels",
+   "country_code": "BE",
+   "country_slug": "belgium",
+   "lat": 50.8466666666667,
+   "lng": 4.35166666666667,
+   "wikidata_id": "Q239"
+  },
+  {
+   "slug": "brig",
+   "name": "Brig",
+   "country_code": "CH",
+   "country_slug": "switzerland",
+   "lat": 46.315916666667,
+   "lng": 7.9876194444444,
+   "wikidata_id": "Q15583"
+  },
+  {
+   "slug": "zurich",
+   "name": "Zurich",
+   "country_code": "CH",
+   "country_slug": "switzerland",
+   "lat": 47.3744444444444,
+   "lng": 8.54111111111111,
+   "wikidata_id": "Q72"
+  },
+  {
+   "slug": "beijing",
+   "name": "Beijing",
+   "country_code": "CN",
+   "country_slug": "china",
+   "lat": 39.90403,
+   "lng": 116.407526,
+   "wikidata_id": "Q956"
+  },
+  {
+   "slug": "paphos",
+   "name": "Paphos",
+   "country_code": "CY",
+   "country_slug": "cyprus",
+   "lat": 34.77612852,
+   "lng": 32.42651039,
+   "wikidata_id": "Q180918"
+  },
+  {
+   "slug": "prague",
+   "name": "Prague",
+   "country_code": "CZ",
+   "country_slug": "czechia",
+   "lat": 50.0875,
+   "lng": 14.4213888888889,
+   "wikidata_id": "Q1085"
+  },
+  {
+   "slug": "berlin",
+   "name": "Berlin",
+   "country_code": "DE",
+   "country_slug": "germany",
+   "lat": 52.516666666667,
+   "lng": 13.383333333333,
+   "wikidata_id": "Q64"
+  },
+  {
+   "slug": "hamburg",
+   "name": "Hamburg",
+   "country_code": "DE",
+   "country_slug": "germany",
+   "lat": 53.55,
+   "lng": 10,
+   "wikidata_id": "Q1055"
+  },
+  {
+   "slug": "munich",
+   "name": "Munich",
+   "country_code": "DE",
+   "country_slug": "germany",
+   "lat": 48.1375,
+   "lng": 11.575,
+   "wikidata_id": "Q1726"
+  },
+  {
+   "slug": "copenhagen",
+   "name": "Copenhagen",
+   "country_code": "DK",
+   "country_slug": "denmark",
+   "lat": 55.676111111111,
+   "lng": 12.568888888889,
+   "wikidata_id": "Q1748"
+  },
+  {
+   "slug": "tallinn",
+   "name": "Tallinn",
+   "country_code": "EE",
+   "country_slug": "estonia",
+   "lat": 59.437222222222,
+   "lng": 24.745,
+   "wikidata_id": "Q1770"
+  },
+  {
+   "slug": "barcelona",
+   "name": "Barcelona",
+   "country_code": "ES",
+   "country_slug": "spain",
+   "lat": 41.3825,
+   "lng": 2.1769444444444,
+   "wikidata_id": "Q1492"
+  },
+  {
+   "slug": "madrid",
+   "name": "Madrid",
+   "country_code": "ES",
+   "country_slug": "spain",
+   "lat": 40.4169444444444,
+   "lng": -3.70333333333333,
+   "wikidata_id": "Q2807"
+  },
+  {
+   "slug": "seville",
+   "name": "Seville",
+   "country_code": "ES",
+   "country_slug": "spain",
+   "lat": 37.3886111111111,
+   "lng": -5.995,
+   "wikidata_id": "Q8717"
+  },
+  {
+   "slug": "helsinki",
+   "name": "Helsinki",
+   "country_code": "FI",
+   "country_slug": "finland",
+   "lat": 60.1708333333333,
+   "lng": 24.9375,
+   "wikidata_id": "Q1757"
+  },
+  {
+   "slug": "rovaniemi",
+   "name": "Rovaniemi",
+   "country_code": "FI",
+   "country_slug": "finland",
+   "lat": 66.5027903,
+   "lng": 25.7284789,
+   "wikidata_id": "Q103717"
+  },
+  {
+   "slug": "angers",
+   "name": "Angers",
+   "country_code": "FR",
+   "country_slug": "france",
+   "lat": 47.472777777778,
+   "lng": -0.55555555555556,
+   "wikidata_id": "Q38380"
+  },
+  {
+   "slug": "lyon",
+   "name": "Lyon",
+   "country_code": "FR",
+   "country_slug": "france",
+   "lat": 45.7675,
+   "lng": 4.835,
+   "wikidata_id": "Q456"
+  },
+  {
+   "slug": "nice",
+   "name": "Nice",
+   "country_code": "FR",
+   "country_slug": "france",
+   "lat": 43.701944444444,
+   "lng": 7.2683333333333,
+   "wikidata_id": "Q33959"
+  },
+  {
+   "slug": "paris",
+   "name": "Paris",
+   "country_code": "FR",
+   "country_slug": "france",
+   "lat": 48.8566666666667,
+   "lng": 2.35222222222222,
+   "wikidata_id": "Q90"
+  },
+  {
+   "slug": "edinburgh",
+   "name": "Edinburgh",
+   "country_code": "GB",
+   "country_slug": "united-kingdom",
+   "lat": 55.9533333333333,
+   "lng": -3.18916666666667,
+   "wikidata_id": "Q23436"
+  },
+  {
+   "slug": "london",
+   "name": "London",
+   "country_code": "GB",
+   "country_slug": "united-kingdom",
+   "lat": 51.507222222222,
+   "lng": -0.1275,
+   "wikidata_id": "Q84"
+  },
+  {
+   "slug": "athens",
+   "name": "Athens",
+   "country_code": "GR",
+   "country_slug": "greece",
+   "lat": 37.9841666666667,
+   "lng": 23.7280555555556,
+   "wikidata_id": "Q1524"
+  },
+  {
+   "slug": "heraklion",
+   "name": "Heraklion",
+   "country_code": "GR",
+   "country_slug": "greece",
+   "lat": 35.3402777777778,
+   "lng": 25.1344444444444,
+   "wikidata_id": "Q160544"
+  },
+  {
+   "slug": "santorini",
+   "name": "Santorini",
+   "country_code": "GR",
+   "country_slug": "greece",
+   "lat": 36.415,
+   "lng": 25.4325,
+   "wikidata_id": "Q129296"
+  },
+  {
+   "slug": "dubrovnik",
+   "name": "Dubrovnik",
+   "country_code": "HR",
+   "country_slug": "croatia",
+   "lat": 42.640277777778,
+   "lng": 18.108333333333,
+   "wikidata_id": "Q1722"
+  },
+  {
+   "slug": "split",
+   "name": "Split",
+   "country_code": "HR",
+   "country_slug": "croatia",
+   "lat": 43.51,
+   "lng": 16.44,
+   "wikidata_id": "Q1663"
+  },
+  {
+   "slug": "budapest",
+   "name": "Budapest",
+   "country_code": "HU",
+   "country_slug": "hungary",
+   "lat": 47.498333333333,
+   "lng": 19.040833333333,
+   "wikidata_id": "Q1781"
+  },
+  {
+   "slug": "dublin",
+   "name": "Dublin",
+   "country_code": "IE",
+   "country_slug": "ireland",
+   "lat": 53.3497222222222,
+   "lng": -6.26027777777778,
+   "wikidata_id": "Q1761"
+  },
+  {
+   "slug": "reykjavik",
+   "name": "Reykjavík",
+   "country_code": "IS",
+   "country_slug": "iceland",
+   "lat": 64.1475,
+   "lng": -21.935,
+   "wikidata_id": "Q1764"
+  },
+  {
+   "slug": "florence",
+   "name": "Florence",
+   "country_code": "IT",
+   "country_slug": "italy",
+   "lat": 43.771388888889,
+   "lng": 11.254166666667,
+   "wikidata_id": "Q2044"
+  },
+  {
+   "slug": "milan",
+   "name": "Milan",
+   "country_code": "IT",
+   "country_slug": "italy",
+   "lat": 45.466944444444,
+   "lng": 9.19,
+   "wikidata_id": "Q490"
+  },
+  {
+   "slug": "rome",
+   "name": "Rome",
+   "country_code": "IT",
+   "country_slug": "italy",
+   "lat": 41.893055555556,
+   "lng": 12.482777777778,
+   "wikidata_id": "Q220"
+  },
+  {
+   "slug": "venice",
+   "name": "Venice",
+   "country_code": "IT",
+   "country_slug": "italy",
+   "lat": 45.439722222222,
+   "lng": 12.331944444444,
+   "wikidata_id": "Q641"
+  },
+  {
+   "slug": "tokyo",
+   "name": "Tokyo",
+   "country_code": "JP",
+   "country_slug": "japan",
+   "lat": 35.683889,
+   "lng": 139.774444,
+   "wikidata_id": "Q7473516"
+  },
+  {
+   "slug": "riga",
+   "name": "Riga",
+   "country_code": "LV",
+   "country_slug": "latvia",
+   "lat": 56.9475,
+   "lng": 24.106944444444,
+   "wikidata_id": "Q1773"
+  },
+  {
+   "slug": "marrakech",
+   "name": "Marrakech",
+   "country_code": "MA",
+   "country_slug": "morocco",
+   "lat": 31.62947,
+   "lng": -7.98108,
+   "wikidata_id": "Q101625"
+  },
+  {
+   "slug": "valletta",
+   "name": "Valletta",
+   "country_code": "MT",
+   "country_slug": "malta",
+   "lat": 35.897777777778,
+   "lng": 14.5125,
+   "wikidata_id": "Q23800"
+  },
+  {
+   "slug": "amsterdam",
+   "name": "Amsterdam",
+   "country_code": "NL",
+   "country_slug": "netherlands",
+   "lat": 52.3666666666667,
+   "lng": 4.88333333333333,
+   "wikidata_id": "Q727"
+  },
+  {
+   "slug": "oslo",
+   "name": "Oslo",
+   "country_code": "NO",
+   "country_slug": "norway",
+   "lat": 59.9133333333333,
+   "lng": 10.7388888888889,
+   "wikidata_id": "Q585"
+  },
+  {
+   "slug": "tromso",
+   "name": "Tromsø",
+   "country_code": "NO",
+   "country_slug": "norway",
+   "lat": 69.64961,
+   "lng": 18.95701,
+   "wikidata_id": "Q26087"
+  },
+  {
+   "slug": "gdansk",
+   "name": "Gdańsk",
+   "country_code": "PL",
+   "country_slug": "poland",
+   "lat": 54.3482907,
+   "lng": 18.6540233,
+   "wikidata_id": "Q1792"
+  },
+  {
+   "slug": "krakow",
+   "name": "Kraków",
+   "country_code": "PL",
+   "country_slug": "poland",
+   "lat": 50.061388888889,
+   "lng": 19.937222222222,
+   "wikidata_id": "Q31487"
+  },
+  {
+   "slug": "warsaw",
+   "name": "Warsaw",
+   "country_code": "PL",
+   "country_slug": "poland",
+   "lat": 52.23,
+   "lng": 21.0111111111111,
+   "wikidata_id": "Q270"
+  },
+  {
+   "slug": "faro",
+   "name": "Faro",
+   "country_code": "PT",
+   "country_slug": "portugal",
+   "lat": 37.0161111111111,
+   "lng": -7.935,
+   "wikidata_id": "Q159457"
+  },
+  {
+   "slug": "lisbon",
+   "name": "Lisbon",
+   "country_code": "PT",
+   "country_slug": "portugal",
+   "lat": 38.708042,
+   "lng": -9.139016,
+   "wikidata_id": "Q597"
+  },
+  {
+   "slug": "porto",
+   "name": "Porto",
+   "country_code": "PT",
+   "country_slug": "portugal",
+   "lat": 41.15,
+   "lng": -8.61083333333333,
+   "wikidata_id": "Q36433"
+  },
+  {
+   "slug": "stockholm",
+   "name": "Stockholm",
+   "country_code": "SE",
+   "country_slug": "sweden",
+   "lat": 59.329444444444,
+   "lng": 18.068611111111,
+   "wikidata_id": "Q1754"
+  },
+  {
+   "slug": "istanbul",
+   "name": "Istanbul",
+   "country_code": "TR",
+   "country_slug": "turkiye",
+   "lat": 41.01,
+   "lng": 28.960277777778,
+   "wikidata_id": "Q406"
+  },
+  {
+   "slug": "healdsburg",
+   "name": "Healdsburg",
+   "country_code": "US",
+   "country_slug": "united-states",
+   "lat": 38.6175,
+   "lng": -122.86638888889,
+   "wikidata_id": "Q852598"
+  },
+  {
+   "slug": "knoxville",
+   "name": "Knoxville",
+   "country_code": "US",
+   "country_slug": "united-states",
+   "lat": 35.9616666666667,
+   "lng": -83.9233333333333,
+   "wikidata_id": "Q185582"
+  },
+  {
+   "slug": "memphis",
+   "name": "Memphis",
+   "country_code": "US",
+   "country_slug": "united-states",
+   "lat": 35.1461111111111,
+   "lng": -90.0519444444444,
+   "wikidata_id": "Q16563"
+  },
+  {
+   "slug": "new-york",
+   "name": "New York",
+   "country_code": "US",
+   "country_slug": "united-states",
+   "lat": 40.7127777777778,
+   "lng": -74.0061111111111,
+   "wikidata_id": "Q60"
+  }
+ ]
+}

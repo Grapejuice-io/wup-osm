@@ -1,0 +1,5128 @@
+{
+  "version": 1,
+  "city": "tokyo",
+  "country": "JP",
+  "region": "asia/japan/kanto",
+  "extract_timestamp": "2026-10-27T21:23:59Z",
+  "radius_km": 18,
+  "bbox": [
+    139.57537,
+    35.52219,
+    139.97352,
+    35.84559
+  ],
+  "venues": [
+    {
+      "osm_type": "node",
+      "osm_id": 1145077216,
+      "name": "Maison Landmaine",
+      "names": {},
+      "lat": 35.660862,
+      "lng": 139.73839,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=bakery",
+      "check_date": "2026-09-23"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1238927205,
+      "name": "Olu olu cafe",
+      "names": {},
+      "lat": 35.644337,
+      "lng": 139.679681,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1417267528,
+      "name": "CoCo壱番屋",
+      "names": {
+        "en": "CoCo ICHIBANYA",
+        "ja": "CoCo壱番屋"
+      },
+      "lat": 35.647142,
+      "lng": 139.744143,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-07-19"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1509876356,
+      "name": "AFURI",
+      "names": {
+        "en": "Afuri",
+        "ja": "AFURI"
+      },
+      "lat": 35.663646,
+      "lng": 139.732626,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1658573955,
+      "name": "ドトールコーヒーショップ",
+      "names": {
+        "en": "Doutor Coffee Shop",
+        "ja": "ドトールコーヒーショップ"
+      },
+      "lat": 35.668788,
+      "lng": 139.650053,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1671916464,
+      "name": "マクドナルド",
+      "names": {
+        "en": "McDonald's",
+        "ja": "マクドナルド",
+        "ko": "맥도날드"
+      },
+      "lat": 35.651035,
+      "lng": 139.636866,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1872408052,
+      "name": "スターバックス",
+      "names": {
+        "en": "Starbucks",
+        "ja": "スターバックス"
+      },
+      "lat": 35.651357,
+      "lng": 139.636405,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1928253649,
+      "name": "フレッシュネスバーガー",
+      "names": {
+        "en": "Freshness Burger",
+        "ja": "フレッシュネスバーガー"
+      },
+      "lat": 35.707589,
+      "lng": 139.778414,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1965109838,
+      "name": "アネックス (The Annex)",
+      "names": {
+        "en": "The Annex",
+        "ja": "アネックス"
+      },
+      "lat": 35.690827,
+      "lng": 139.708898,
+      "tags": {
+        "lgbtq": "primary"
+      },
+      "themes": [
+        "lgbtq"
+      ],
+      "category": "amenity=nightclub",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1965109852,
+      "name": "ココロ カフェ",
+      "names": {
+        "en": "CoCoLo cafe",
+        "it": "Cocolo Café",
+        "ja": "ココロカフェ"
+      },
+      "lat": 35.69064,
+      "lng": 139.708637,
+      "tags": {
+        "lgbtq": "welcome"
+      },
+      "themes": [
+        "lgbtq"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1965109880,
+      "name": "ドラゴンメン",
+      "names": {
+        "en": "Dragon Men",
+        "ja": "ドラゴンメン"
+      },
+      "lat": 35.69026,
+      "lng": 139.70725,
+      "tags": {
+        "lgbtq": "primary"
+      },
+      "themes": [
+        "lgbtq"
+      ],
+      "category": "amenity=bar",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1966302960,
+      "name": "レヴアリー",
+      "names": {
+        "en": "Revuari",
+        "es": "Revuari"
+      },
+      "lat": 35.661119,
+      "lng": 139.715016,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2108042546,
+      "name": "ナタラジ (Nataraj)",
+      "names": {},
+      "lat": 35.703869,
+      "lng": 139.621447,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2273573463,
+      "name": "自由が丘スイーツフォレスト",
+      "names": {
+        "en": "Jiyugaoka Sweets Forest",
+        "ja": "自由が丘スイーツフォレスト",
+        "zh": "自由之丘"
+      },
+      "lat": 35.607841,
+      "lng": 139.671674,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=food_court",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2286588158,
+      "name": "スターバックス",
+      "names": {
+        "en": "Starbucks",
+        "es": "Starbucks",
+        "ja": "スターバックス"
+      },
+      "lat": 35.699054,
+      "lng": 139.765085,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2356706340,
+      "name": "Green dog",
+      "names": {},
+      "lat": 35.649463,
+      "lng": 139.700499,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2356706362,
+      "name": "Dog Garden",
+      "names": {},
+      "lat": 35.649494,
+      "lng": 139.700219,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2452372126,
+      "name": "タリーズコーヒー",
+      "names": {
+        "en": "Tully's Coffee",
+        "ja": "タリーズコーヒー"
+      },
+      "lat": 35.696575,
+      "lng": 139.764937,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2558150633,
+      "name": "ペットパーキング",
+      "names": {},
+      "lat": 35.779432,
+      "lng": 139.725263,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2724689539,
+      "name": "こまきしょくどう -鎌倉不識庵",
+      "names": {},
+      "lat": 35.699642,
+      "lng": 139.773211,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2806120101,
+      "name": "スターバックス",
+      "names": {
+        "en": "Starbucks",
+        "ja": "スターバックス"
+      },
+      "lat": 35.666587,
+      "lng": 139.710831,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2837196711,
+      "name": "なぎ食堂",
+      "names": {
+        "en": "Nagi Shokudo"
+      },
+      "lat": 35.654166,
+      "lng": 139.700905,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3174328605,
+      "name": "箱根そば",
+      "names": {
+        "en": "Hakone Soba",
+        "ja": "箱根そば"
+      },
+      "lat": 35.651231,
+      "lng": 139.636971,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3182565721,
+      "name": "ゴピナータ",
+      "names": {},
+      "lat": 35.706957,
+      "lng": 139.670369,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3692911384,
+      "name": "Eastside",
+      "names": {
+        "en": "Eastside Cafe",
+        "ja": "イーストサイド・カフェ"
+      },
+      "lat": 35.634559,
+      "lng": 139.880146,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3692911385,
+      "name": "センターストリート・コーヒーハウス",
+      "names": {
+        "en": "Center Street Coffeehouse",
+        "es": "Center Street Coffeehouse",
+        "ja": "センターストリート・コーヒーハウス"
+      },
+      "lat": 35.634203,
+      "lng": 139.879132,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3694774739,
+      "name": "カフェ・ポルトフィーノ",
+      "names": {
+        "en": "Cafe Portofino",
+        "es": "Cafe Portofino",
+        "ja": "カフェ・ポルトフィーノ"
+      },
+      "lat": 35.627025,
+      "lng": 139.887054,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3694786843,
+      "name": "リストランテ・ディ・カナレット",
+      "names": {
+        "en": "Ristorante di Canaletto",
+        "es": "Ristorante di Canaletto",
+        "ja": "リストランテ・ディ・カナレット"
+      },
+      "lat": 35.625687,
+      "lng": 139.887773,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3773765161,
+      "name": "がじゅま～る",
+      "names": {
+        "en": "Gajyumaaru"
+      },
+      "lat": 35.699078,
+      "lng": 139.733404,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=deli",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4071246357,
+      "name": "穂高",
+      "names": {
+        "en": "Hodaka"
+      },
+      "lat": 35.699401,
+      "lng": 139.764943,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4259736212,
+      "name": "てんや",
+      "names": {
+        "en": "Tenya",
+        "ja": "てんや"
+      },
+      "lat": 35.600581,
+      "lng": 139.613898,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4444008289,
+      "name": null,
+      "names": {
+        "en": "Cafe Little Saebejae"
+      },
+      "lat": 35.713007,
+      "lng": 139.798655,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4469290393,
+      "name": "T's たんたん",
+      "names": {
+        "en": "T's Tantan"
+      },
+      "lat": 35.679571,
+      "lng": 139.766945,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4527104489,
+      "name": "Lima, vegan restaurant and store",
+      "names": {
+        "ja": "Lima, vegan restaurant and store"
+      },
+      "lat": 35.686048,
+      "lng": 139.698492,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4535075891,
+      "name": "こまきしょくどう",
+      "names": {
+        "en": "Komaki Shokudo",
+        "ja": "こまきしょくどう",
+        "ko": "코마키쇼쿠도"
+      },
+      "lat": 35.699615,
+      "lng": 139.773215,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4535079989,
+      "name": "ヴェジハーブサーガ",
+      "names": {
+        "en": "Vege Herb Saga",
+        "ja": "ヴェジハーブサーガ"
+      },
+      "lat": 35.706,
+      "lng": 139.775318,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4536738591,
+      "name": "AFURI",
+      "names": {},
+      "lat": 35.661426,
+      "lng": 139.729679,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4542178692,
+      "name": "アインソフ.銀座",
+      "names": {
+        "en": "Ain Soph.Ginza",
+        "ja": "アインソフ.銀座"
+      },
+      "lat": 35.670195,
+      "lng": 139.76797,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4559935689,
+      "name": "アインソフ ジャーニー",
+      "names": {
+        "en": "AIN SOPH. journey"
+      },
+      "lat": 35.690675,
+      "lng": 139.706754,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4642112460,
+      "name": "SOJO",
+      "names": {
+        "eo": "SOJO"
+      },
+      "lat": 35.708289,
+      "lng": 139.723382,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4652728289,
+      "name": "モスバーガー",
+      "names": {
+        "en": "MOS Burger",
+        "ja": "モスバーガー"
+      },
+      "lat": 35.662295,
+      "lng": 139.666805,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4674409991,
+      "name": "ØL La Cabina",
+      "names": {},
+      "lat": 35.692509,
+      "lng": 139.780253,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4848619825,
+      "name": "Loving Hut",
+      "names": {
+        "en": "Loving Hut"
+      },
+      "lat": 35.698384,
+      "lng": 139.757574,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4863753422,
+      "name": null,
+      "names": {
+        "en": "Saffron Ikebukuro"
+      },
+      "lat": 35.729457,
+      "lng": 139.716564,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4913545324,
+      "name": "梵",
+      "names": {
+        "en": "Bon"
+      },
+      "lat": 35.722917,
+      "lng": 139.790458,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4913545325,
+      "name": null,
+      "names": {
+        "en": "Restaurant 8ablish"
+      },
+      "lat": 35.662701,
+      "lng": 139.710727,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4913545327,
+      "name": "小鉢や",
+      "names": {
+        "en": "Kobachi-ya"
+      },
+      "lat": 35.671072,
+      "lng": 139.734938,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4913570321,
+      "name": null,
+      "names": {
+        "en": "Ain Soph.Soar"
+      },
+      "lat": 35.731411,
+      "lng": 139.717055,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4913570323,
+      "name": "Injoy 悦納",
+      "names": {
+        "ja": "Injoy 悦納"
+      },
+      "lat": 35.712669,
+      "lng": 139.798639,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4913658922,
+      "name": "Sky High",
+      "names": {},
+      "lat": 35.65956,
+      "lng": 139.708824,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4913664022,
+      "name": "Pole pole",
+      "names": {},
+      "lat": 35.667419,
+      "lng": 139.665974,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5158186321,
+      "name": "回し寿司活",
+      "names": {
+        "en": "Mawashizushi Katsu (Katsu Midori)",
+        "ja": "回し寿司活"
+      },
+      "lat": 35.660276,
+      "lng": 139.700432,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5190793706,
+      "name": "スープストックトーキョー",
+      "names": {
+        "en": "Soup Stock Tokyo"
+      },
+      "lat": 35.699135,
+      "lng": 139.765062,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5193741427,
+      "name": "Falafel Brothers",
+      "names": {
+        "en": "Falafel Brothers"
+      },
+      "lat": 35.662307,
+      "lng": 139.732832,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-08-09"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5322316321,
+      "name": "アイイロカフェ",
+      "names": {
+        "en": "Airo Cafe",
+        "it": "Aiiro Café",
+        "ja": "アイイロカフェ"
+      },
+      "lat": 35.690783,
+      "lng": 139.708341,
+      "tags": {
+        "lgbtq": "primary"
+      },
+      "themes": [
+        "lgbtq"
+      ],
+      "category": "amenity=bar",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5322316322,
+      "name": "AiSOTOPE LOUNGE",
+      "names": {
+        "en": "AiSOTOPE LOUNGE"
+      },
+      "lat": 35.690465,
+      "lng": 139.707886,
+      "tags": {
+        "lgbtq": "primary"
+      },
+      "themes": [
+        "lgbtq"
+      ],
+      "category": "amenity=nightclub",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5408866048,
+      "name": "串カツ田中",
+      "names": {},
+      "lat": 35.650121,
+      "lng": 139.636828,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5807637069,
+      "name": "Shangri-La",
+      "names": {
+        "ja": "シャングリ・ラ ホテル"
+      },
+      "lat": 35.682228,
+      "lng": 139.769198,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "tourism=hotel",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5839427814,
+      "name": "Bubu’s Paw",
+      "names": {},
+      "lat": 35.76352,
+      "lng": 139.929051,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5863524538,
+      "name": "EAGLE TOKYO BLUE",
+      "names": {},
+      "lat": 35.689999,
+      "lng": 139.707831,
+      "tags": {
+        "lgbtq": "primary"
+      },
+      "themes": [
+        "lgbtq"
+      ],
+      "category": "amenity=nightclub",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5874416286,
+      "name": "ソラノイロNIPPON",
+      "names": {
+        "en": "Soranoiro Nippon"
+      },
+      "lat": 35.680354,
+      "lng": 139.767981,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5890420324,
+      "name": "EAGLE Tokyo",
+      "names": {},
+      "lat": 35.690496,
+      "lng": 139.70758,
+      "tags": {
+        "lgbtq": "primary"
+      },
+      "themes": [
+        "lgbtq"
+      ],
+      "category": "amenity=bar",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5890557991,
+      "name": "Bar Gold Finger",
+      "names": {},
+      "lat": 35.690618,
+      "lng": 139.707654,
+      "tags": {
+        "lgbtq": "welcome"
+      },
+      "themes": [
+        "lgbtq"
+      ],
+      "category": "amenity=bar",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5985297945,
+      "name": "Bio café",
+      "names": {},
+      "lat": 35.661426,
+      "lng": 139.698965,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6169468616,
+      "name": "HealthyTOKYO Cafe & Shop",
+      "names": {},
+      "lat": 35.55127,
+      "lng": 139.788779,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6239135090,
+      "name": "Royal Garden Cafe",
+      "names": {},
+      "lat": 35.69905,
+      "lng": 139.743629,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6251224085,
+      "name": null,
+      "names": {
+        "en": "Milan Nataraj"
+      },
+      "lat": 35.661133,
+      "lng": 139.700947,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6261477357,
+      "name": "COCOMO",
+      "names": {},
+      "lat": 35.6975,
+      "lng": 139.660275,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6298203385,
+      "name": "Ballon",
+      "names": {},
+      "lat": 35.641434,
+      "lng": 139.699835,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6320781385,
+      "name": "薬膳食堂ちゃぶ膳",
+      "names": {
+        "en": "Food Therapy Diner Chabuzen"
+      },
+      "lat": 35.666861,
+      "lng": 139.663363,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6369526555,
+      "name": "VEGAN STORE",
+      "names": {},
+      "lat": 35.714039,
+      "lng": 139.790796,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=convenience",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6395949852,
+      "name": "サルトリイバラ喫茶室",
+      "names": {},
+      "lat": 35.703413,
+      "lng": 139.648365,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6395949853,
+      "name": "meu nota",
+      "names": {},
+      "lat": 35.7034,
+      "lng": 139.647936,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6396012180,
+      "name": "Loca Kitchen",
+      "names": {},
+      "lat": 35.705192,
+      "lng": 139.648324,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6441839858,
+      "name": "ほんずなし",
+      "names": {
+        "en": "Honznashi"
+      },
+      "lat": 35.706906,
+      "lng": 139.651731,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=pub",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6450896907,
+      "name": "KHANA 花菜",
+      "names": {},
+      "lat": 35.704538,
+      "lng": 139.648959,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6514995885,
+      "name": null,
+      "names": {
+        "en": "Gluten Free T's"
+      },
+      "lat": 35.665058,
+      "lng": 139.729723,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2024-03-03"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6585787986,
+      "name": "サンジェルマン",
+      "names": {
+        "en": "Saint-Germain",
+        "ja": "サンジェルマン"
+      },
+      "lat": 35.617734,
+      "lng": 139.676292,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=bakery",
+      "check_date": "2025-11-23"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6633213190,
+      "name": null,
+      "names": {
+        "de": "Namaste Kathmandu",
+        "en": "Namaste Kathmandu"
+      },
+      "lat": 35.703918,
+      "lng": 139.576162,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6680667385,
+      "name": "Le Pain Quotidien",
+      "names": {},
+      "lat": 35.665687,
+      "lng": 139.730757,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6681521384,
+      "name": "九州じゃんがら",
+      "names": {
+        "en": "Kyushu Jangara Ramen"
+      },
+      "lat": 35.669606,
+      "lng": 139.703462,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2023-08-30"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6728226918,
+      "name": "Swell Bowls",
+      "names": {},
+      "lat": 35.650988,
+      "lng": 139.723662,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6774370487,
+      "name": "ベジハウス",
+      "names": {
+        "en": "Veggie House"
+      },
+      "lat": 35.701429,
+      "lng": 139.816251,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6813444951,
+      "name": "whyte",
+      "names": {},
+      "lat": 35.671026,
+      "lng": 139.708944,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6856564007,
+      "name": "線條手打餃子専門店",
+      "names": {
+        "en": "Senjo Ruyi Gyoza"
+      },
+      "lat": 35.734136,
+      "lng": 139.707949,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6907907176,
+      "name": "新宿御苑らーめん桜花",
+      "names": {
+        "en": "Shinjukugyoen Ramen Ouka"
+      },
+      "lat": 35.688716,
+      "lng": 139.713159,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7034807528,
+      "name": "味農家",
+      "names": {
+        "en": "Minoya"
+      },
+      "lat": 35.702476,
+      "lng": 139.782214,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7055666850,
+      "name": "真さか",
+      "names": {
+        "en": "Masaka",
+        "fr": "Masaka"
+      },
+      "lat": 35.66213,
+      "lng": 139.698764,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=pub",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7074219325,
+      "name": "マクドナルド",
+      "names": {
+        "en": "McDonald's",
+        "ja": "マクドナルド",
+        "ko": "맥도날드"
+      },
+      "lat": 35.682437,
+      "lng": 139.580065,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2023-04-27"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7681354631,
+      "name": "Universal Bakes and Cafe",
+      "names": {},
+      "lat": 35.658821,
+      "lng": 139.661043,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7785940485,
+      "name": "Great Lakes",
+      "names": {},
+      "lat": 35.711693,
+      "lng": 139.710677,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7792784272,
+      "name": "松竹圓 カフェ",
+      "names": {
+        "en": "Shochiku-en Café",
+        "ja": "松竹圓 カフェ"
+      },
+      "lat": 35.713092,
+      "lng": 139.788799,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7803914364,
+      "name": "THE_B",
+      "names": {},
+      "lat": 35.663374,
+      "lng": 139.711583,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7844910168,
+      "name": "サスティナブルキッチンROSY",
+      "names": {
+        "en": "Sustainable Kitchen Rosy"
+      },
+      "lat": 35.692024,
+      "lng": 139.773311,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7878041186,
+      "name": "菜道",
+      "names": {
+        "en": "Saido"
+      },
+      "lat": 35.607794,
+      "lng": 139.666215,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-10-22"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7944016532,
+      "name": "MORETHAN BAKERY",
+      "names": {},
+      "lat": 35.688541,
+      "lng": 139.688709,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=bakery",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8088339156,
+      "name": "KOMEDA is □",
+      "names": {
+        "ja": "コメダイズ"
+      },
+      "lat": 35.668028,
+      "lng": 139.769381,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8090717907,
+      "name": "Soup Stock Tokyo",
+      "names": {},
+      "lat": 35.668977,
+      "lng": 139.650276,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8097456167,
+      "name": "Soieil Hibiya Okuroji",
+      "names": {},
+      "lat": 35.66998,
+      "lng": 139.758863,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8141923309,
+      "name": "ティッチャイ",
+      "names": {
+        "en": "Titchai"
+      },
+      "lat": 35.658305,
+      "lng": 139.667003,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8723603862,
+      "name": "Why ___?",
+      "names": {},
+      "lat": 35.659156,
+      "lng": 139.663895,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8749201300,
+      "name": "三代目茂蔵豆富",
+      "names": {
+        "en": "Shigezo"
+      },
+      "lat": 35.668472,
+      "lng": 139.60105,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=health_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8922149558,
+      "name": "ヴィーガンビストロ じゃんがら",
+      "names": {
+        "en": "Vegan Bistro Jangara"
+      },
+      "lat": 35.669679,
+      "lng": 139.703472,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2025-12"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8925696854,
+      "name": "Earth MILK",
+      "names": {},
+      "lat": 35.647736,
+      "lng": 139.702753,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9078341419,
+      "name": "森の保育園",
+      "names": {},
+      "lat": 35.587176,
+      "lng": 139.695449,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=childcare",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9929754070,
+      "name": null,
+      "names": {},
+      "lat": 35.684406,
+      "lng": 139.789417,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=vending_machine",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9960564437,
+      "name": "Burger's 入谷",
+      "names": {
+        "en": "Burger's Iriya"
+      },
+      "lat": 35.720271,
+      "lng": 139.784529,
+      "tags": {
+        "lgbtq": "welcome"
+      },
+      "themes": [
+        "lgbtq"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-03-28"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9981150490,
+      "name": "CLANN by the river",
+      "names": {},
+      "lat": 35.681148,
+      "lng": 139.791976,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-07-25"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10068440429,
+      "name": "Falafel Brothers 恵比寿",
+      "names": {
+        "de": "Falafel Brothers Ebisu",
+        "en": "Falafel Brothers Ebisu"
+      },
+      "lat": 35.649781,
+      "lng": 139.71198,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10068507630,
+      "name": "Falafel Brothers 渋谷パルコ",
+      "names": {
+        "de": "Falafel Brothers Shibuya PARCO",
+        "en": "Falafel Brothers Shibuya PARCO"
+      },
+      "lat": 35.662034,
+      "lng": 139.698792,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-08-26"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10138749265,
+      "name": "Te cor gentil",
+      "names": {
+        "ja": "テコールジャンティー"
+      },
+      "lat": 35.654243,
+      "lng": 139.735856,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=bakery",
+      "check_date": "2026-10-20"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10255626834,
+      "name": "辣辣麻辣湯",
+      "names": {
+        "en": "Karakara Malatang"
+      },
+      "lat": 35.647459,
+      "lng": 139.743715,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10269991515,
+      "name": null,
+      "names": {
+        "en": "T's TanTan Ecute Ueno",
+        "ja": "T's たんたん"
+      },
+      "lat": 35.714178,
+      "lng": 139.777241,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10291420809,
+      "name": "T's たんたん 池袋",
+      "names": {
+        "en": "T‘s Tantan"
+      },
+      "lat": 35.730015,
+      "lng": 139.710541,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10291420910,
+      "name": "まるごとVeganダイニング浅草",
+      "names": {
+        "en": "Marugoto Vegan Dining Asakusa"
+      },
+      "lat": 35.71178,
+      "lng": 139.798919,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10291421009,
+      "name": "Vegan Ramen UZU Tokyo",
+      "names": {
+        "en": "Vegan Ramen UZU Tokyo",
+        "ja": "ヴィーガンラーメン ウズ トウキョウ"
+      },
+      "lat": 35.649131,
+      "lng": 139.790248,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10291421109,
+      "name": "ベィーガン居酒屋真さか",
+      "names": {
+        "en": "Vegan Izakaya Masaka"
+      },
+      "lat": 35.662184,
+      "lng": 139.698511,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2024-03-04"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10292509310,
+      "name": "嫦娥",
+      "names": {
+        "en": "Joga",
+        "ja": "嫦娥"
+      },
+      "lat": 35.661055,
+      "lng": 139.714964,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10598531809,
+      "name": "Hemp Cafe Tokyo",
+      "names": {},
+      "lat": 35.649101,
+      "lng": 139.709946,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10687558205,
+      "name": null,
+      "names": {
+        "en": "Antep Kebab"
+      },
+      "lat": 35.670007,
+      "lng": 139.707492,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10736467764,
+      "name": "Icon",
+      "names": {
+        "ja": "アイコン"
+      },
+      "lat": 35.690077,
+      "lng": 139.708076,
+      "tags": {
+        "lgbtq": "primary"
+      },
+      "themes": [
+        "lgbtq"
+      ],
+      "category": "amenity=nightclub",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10736467765,
+      "name": "Taiwan Bar",
+      "names": {},
+      "lat": 35.690062,
+      "lng": 139.708057,
+      "tags": {
+        "lgbtq": "primary"
+      },
+      "themes": [
+        "lgbtq"
+      ],
+      "category": "amenity=bar",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11374672982,
+      "name": "豊洲ぐるりドッグラン",
+      "names": {},
+      "lat": 35.640631,
+      "lng": 139.778141,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11393623132,
+      "name": "AFURI",
+      "names": {},
+      "lat": 35.655864,
+      "lng": 139.73548,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11512212689,
+      "name": "アルケミー",
+      "names": {
+        "en": "Alchemy"
+      },
+      "lat": 35.660792,
+      "lng": 139.740527,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11607194970,
+      "name": "ヴィーガン餃子",
+      "names": {
+        "en": "Vegan Gyoza Yu",
+        "fr": "Vegan Gyoza Yu"
+      },
+      "lat": 35.724355,
+      "lng": 139.779685,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11684583354,
+      "name": null,
+      "names": {
+        "en": "Rakkan Ramen"
+      },
+      "lat": 35.66134,
+      "lng": 139.668715,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2024-03-02"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11687432553,
+      "name": "一風堂",
+      "names": {
+        "en": "Ippudo",
+        "ja": "一風堂",
+        "zh": "一風堂"
+      },
+      "lat": 35.675067,
+      "lng": 139.764197,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2024-03-03"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11691304271,
+      "name": "Tokyo Vegan Bakes",
+      "names": {},
+      "lat": 35.663793,
+      "lng": 139.67047,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=bakery",
+      "check_date": "2024-03-05"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11772811560,
+      "name": "Guruatsu",
+      "names": {
+        "ja": "ぐるあつ"
+      },
+      "lat": 35.714945,
+      "lng": 139.781386,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11832164883,
+      "name": null,
+      "names": {
+        "en": "T’s Vegan Restaurant"
+      },
+      "lat": 35.609048,
+      "lng": 139.668214,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11999980069,
+      "name": "ポキボウルクラブトウキョウ",
+      "names": {
+        "en": "POKE BOWL CLUB TOKYO"
+      },
+      "lat": 35.692457,
+      "lng": 139.783069,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12000471769,
+      "name": null,
+      "names": {
+        "en": "Tokyo Vegan Ramen Center // Sri Lankan curry"
+      },
+      "lat": 35.667128,
+      "lng": 139.711419,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12035326184,
+      "name": "2Foods",
+      "names": {
+        "en": "2Foods",
+        "ja": "2Foods"
+      },
+      "lat": 35.661142,
+      "lng": 139.699731,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12051029381,
+      "name": "FALAFEL BROTHERS",
+      "names": {},
+      "lat": 35.687769,
+      "lng": 139.765561,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12051953042,
+      "name": "バックドロップ",
+      "names": {
+        "en": "BACK DROP",
+        "ja": "バックドロップ"
+      },
+      "lat": 35.691148,
+      "lng": 139.708523,
+      "tags": {
+        "lgbtq": "primary"
+      },
+      "themes": [
+        "lgbtq"
+      ],
+      "category": "amenity=swingerclub",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12051953043,
+      "name": "Jスパーク",
+      "names": {
+        "en": "J Spark",
+        "ja": "Jスパーク"
+      },
+      "lat": 35.692576,
+      "lng": 139.708221,
+      "tags": {
+        "lgbtq": "primary"
+      },
+      "themes": [
+        "lgbtq"
+      ],
+      "category": "amenity=swingerclub",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12054377503,
+      "name": "コンボイ",
+      "names": {},
+      "lat": 35.690731,
+      "lng": 139.708532,
+      "tags": {
+        "lgbtq": "primary"
+      },
+      "themes": [
+        "lgbtq"
+      ],
+      "category": "shop=erotic",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12060629549,
+      "name": "PLANT BASED",
+      "names": {},
+      "lat": 35.687465,
+      "lng": 139.699656,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12206368590,
+      "name": "スターバックス",
+      "names": {
+        "en": "Starbucks",
+        "ja": "スターバックス"
+      },
+      "lat": 35.674798,
+      "lng": 139.71379,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12313501744,
+      "name": "Shochikuen Cafe",
+      "names": {},
+      "lat": 35.713039,
+      "lng": 139.78921,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-08-29"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12345052401,
+      "name": "アカアマコーヒー",
+      "names": {
+        "en": "Akha Ama Coffee Roasters"
+      },
+      "lat": 35.708063,
+      "lng": 139.724253,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-09-18"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12366318201,
+      "name": "しまゆし",
+      "names": {
+        "en": "Shimayushi"
+      },
+      "lat": 35.691377,
+      "lng": 139.761916,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12518570601,
+      "name": "アナム　本格インド料理　銀座店",
+      "names": {
+        "en": "Anam Authentic Indian Cuisine Ginza Branch",
+        "ja": "アナム　本格インド料理　銀座店"
+      },
+      "lat": 35.667471,
+      "lng": 139.762034,
+      "tags": {
+        "diet:vegan": "yes",
+        "dog": "yes"
+      },
+      "themes": [
+        "vegan",
+        "dogs"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12536168201,
+      "name": "Ome Farm Kitchen",
+      "names": {},
+      "lat": 35.695265,
+      "lng": 139.773878,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12682706687,
+      "name": "Vegetarian Beast",
+      "names": {},
+      "lat": 35.722543,
+      "lng": 139.706967,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12717590214,
+      "name": "やさい cafe KuKuri",
+      "names": {},
+      "lat": 35.720557,
+      "lng": 139.750556,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12863628427,
+      "name": "Ice Cream Picnic",
+      "names": {},
+      "lat": 35.723718,
+      "lng": 139.753203,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=ice_cream",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12912610156,
+      "name": "桃太郎",
+      "names": {
+        "en": "Momotaro"
+      },
+      "lat": 35.767808,
+      "lng": 139.660769,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12917092374,
+      "name": "Marbre Vegan",
+      "names": {},
+      "lat": 35.688451,
+      "lng": 139.709015,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=pastry",
+      "check_date": "2025-11-09"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12923208145,
+      "name": "鉄板カレー 匠えん",
+      "names": {
+        "en": "Teppan Curry Shōen"
+      },
+      "lat": 35.776601,
+      "lng": 139.632677,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13001036659,
+      "name": "ovgo Baker",
+      "names": {},
+      "lat": 35.667269,
+      "lng": 139.748138,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=bakery",
+      "check_date": "2025-07-15"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13098358378,
+      "name": "シリサ",
+      "names": {
+        "ja": "シリサ"
+      },
+      "lat": 35.732395,
+      "lng": 139.658457,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13119525341,
+      "name": "Tactics",
+      "names": {},
+      "lat": 35.664832,
+      "lng": 139.758126,
+      "tags": {
+        "lgbtq": "primary"
+      },
+      "themes": [
+        "lgbtq"
+      ],
+      "category": "amenity=bar",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13146126001,
+      "name": "LATTE GRAPHIC",
+      "names": {},
+      "lat": 35.661929,
+      "lng": 139.744376,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-10-11"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13329096402,
+      "name": "ovgo Baker Meiji St.",
+      "names": {},
+      "lat": 35.668867,
+      "lng": 139.705432,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=pastry",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13349340331,
+      "name": "Bistro TOSSO",
+      "names": {},
+      "lat": 35.66186,
+      "lng": 139.730391,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13353535001,
+      "name": "Masala Bites",
+      "names": {},
+      "lat": 35.702426,
+      "lng": 139.782204,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13354674206,
+      "name": "Jikasei MENSHO",
+      "names": {},
+      "lat": 35.661999,
+      "lng": 139.698894,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13359160601,
+      "name": "Andhra Dining SHIBUYA",
+      "names": {},
+      "lat": 35.661195,
+      "lng": 139.697138,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13371066001,
+      "name": "Indian Restaurant Mumbai + Tandoori Grill",
+      "names": {},
+      "lat": 35.627512,
+      "lng": 139.772854,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13377704301,
+      "name": "Vegan 8ablish",
+      "names": {},
+      "lat": 35.662482,
+      "lng": 139.743452,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13412745748,
+      "name": "Boku Cafe",
+      "names": {},
+      "lat": 35.649518,
+      "lng": 139.704398,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2025-12"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13414808371,
+      "name": "Masala",
+      "names": {},
+      "lat": 35.661934,
+      "lng": 139.698804,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=pub",
+      "check_date": "2025-12"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13421588159,
+      "name": "Gluten Free T's Kitchen",
+      "names": {
+        "en": "Gluten Free T's Kitchen"
+      },
+      "lat": 35.704862,
+      "lng": 139.772184,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-08-02"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13423704383,
+      "name": "Kyushu Jangara Shiba Daimon Store",
+      "names": {
+        "en": "Kyushu Jangara Shiba Daimon Store",
+        "ja": "九州じゃんがら 芝大門店"
+      },
+      "lat": 35.656439,
+      "lng": 139.753616,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13423766101,
+      "name": "Shiba Park Hotel Restaurant",
+      "names": {},
+      "lat": 35.658704,
+      "lng": 139.752051,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13423766847,
+      "name": "BROOKS GREENLIT CAFE",
+      "names": {},
+      "lat": 35.670627,
+      "lng": 139.724853,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13428333301,
+      "name": "Fujifuku",
+      "names": {},
+      "lat": 35.71191,
+      "lng": 139.791009,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13428398776,
+      "name": "自然野菜レストラン 駒込 ナーリッシュ",
+      "names": {
+        "en": "Organic Bar Nourish"
+      },
+      "lat": 35.735825,
+      "lng": 139.748001,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13430557701,
+      "name": "クレヨンハウス",
+      "names": {
+        "en": "Crayon House",
+        "es": "Crayon House",
+        "fr": "Crayon House",
+        "ja": "クレヨンハウス",
+        "ko": "크레용 하우스",
+        "th": "เครยอนเฮาส์",
+        "zh": "蜡笔屋"
+      },
+      "lat": 35.705999,
+      "lng": 139.576714,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13430662801,
+      "name": "Mominoki House",
+      "names": {},
+      "lat": 35.672504,
+      "lng": 139.709896,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13430691701,
+      "name": "Natural Cafe & Restaurant TABUNOKI",
+      "names": {},
+      "lat": 35.628721,
+      "lng": 139.73524,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13434269401,
+      "name": "217 | Greek Yogurt",
+      "names": {
+        "en": "217 | Greek Yogurt",
+        "ja": "217 ニイチナナ グリークヨーグルト・アサイー専門カフェ 外苑前店"
+      },
+      "lat": 35.671228,
+      "lng": 139.716344,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13441738801,
+      "name": "Marugoto Vegan Dining Asakusa",
+      "names": {},
+      "lat": 35.711722,
+      "lng": 139.798904,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13449760501,
+      "name": "T's Restaurant",
+      "names": {},
+      "lat": 35.609213,
+      "lng": 139.668133,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13460300107,
+      "name": "Cafedict",
+      "names": {},
+      "lat": 35.643079,
+      "lng": 139.655213,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-01"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13463081818,
+      "name": "Tokyo Juice",
+      "names": {},
+      "lat": 35.660555,
+      "lng": 139.74032,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-08-16"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13463867386,
+      "name": "Team Japan 2020 Village Cafe & Restaurant Centrale",
+      "names": {},
+      "lat": 35.650895,
+      "lng": 139.774609,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13663754601,
+      "name": "イコールカフェ",
+      "names": {
+        "en": "Equal Cafe"
+      },
+      "lat": 35.63628,
+      "lng": 139.740049,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-03-20"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13663884110,
+      "name": "AFURI",
+      "names": {},
+      "lat": 35.635924,
+      "lng": 139.73997,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13664023654,
+      "name": "Zenb Store & Sandwich",
+      "names": {},
+      "lat": 35.636668,
+      "lng": 139.739874,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=health_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13665932066,
+      "name": "THE NUTS EXCHANGE",
+      "names": {},
+      "lat": 35.668869,
+      "lng": 139.689224,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13681171059,
+      "name": "明天好好",
+      "names": {
+        "en": "Ming Teng HAO HAO"
+      },
+      "lat": 35.663676,
+      "lng": 139.670316,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13681171060,
+      "name": "OSCAR American Chinese",
+      "names": {},
+      "lat": 35.659336,
+      "lng": 139.66413,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13681171061,
+      "name": "Cafe Anthrop",
+      "names": {},
+      "lat": 35.662242,
+      "lng": 139.666041,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13722077841,
+      "name": "スターバックス",
+      "names": {
+        "en": "Starbucks",
+        "ja": "スターバックス"
+      },
+      "lat": 35.608244,
+      "lng": 139.730719,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-05-26"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13764491704,
+      "name": "きぼこ Kiboko",
+      "names": {},
+      "lat": 35.689744,
+      "lng": 139.706933,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-04-26"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13785908793,
+      "name": "Coconut Glen's",
+      "names": {},
+      "lat": 35.656158,
+      "lng": 139.73428,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=ice_cream",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13789763771,
+      "name": "Salaam",
+      "names": {},
+      "lat": 35.651052,
+      "lng": 139.721824,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13793014301,
+      "name": "Atomiyosowaka Kuramae アトミヨソワカ 蔵前",
+      "names": {},
+      "lat": 35.703799,
+      "lng": 139.78839,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-05-04"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13800371928,
+      "name": "芋囍糖水",
+      "names": {
+        "en": "Yuki Sweets"
+      },
+      "lat": 35.73205,
+      "lng": 139.709358,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13843175401,
+      "name": "Spicier - Spiced Chai and Indian Curry Bread",
+      "names": {
+        "en": "Spicier - Spiced Chai and Indian Curry Bread",
+        "ja": "Spicier スパイスチャイとインドカレーパン"
+      },
+      "lat": 35.701706,
+      "lng": 139.740396,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13879090447,
+      "name": "NagiCrepe",
+      "names": {},
+      "lat": 35.614382,
+      "lng": 139.721898,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13898286216,
+      "name": "Pizzakaya Roppongi",
+      "names": {},
+      "lat": 35.664613,
+      "lng": 139.737905,
+      "tags": {
+        "diet:vegan": "yes",
+        "dog": "yes"
+      },
+      "themes": [
+        "vegan",
+        "dogs"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13913724780,
+      "name": "レクトサンドカフェ",
+      "names": {},
+      "lat": 35.704267,
+      "lng": 139.64672,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13955361378,
+      "name": "coret",
+      "names": {},
+      "lat": 35.705501,
+      "lng": 139.644286,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 14026342328,
+      "name": "Green Green Korean Dining",
+      "names": {},
+      "lat": 35.702622,
+      "lng": 139.57897,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 14027786962,
+      "name": "グレープアリサ東京",
+      "names": {
+        "en": "Crepes Arisa Tokyo"
+      },
+      "lat": 35.619034,
+      "lng": 139.702761,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 14047928580,
+      "name": "CƠME",
+      "names": {},
+      "lat": 35.66208,
+      "lng": 139.741616,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 14096859803,
+      "name": "Nirvanam",
+      "names": {},
+      "lat": 35.631246,
+      "lng": 139.790971,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 14099886048,
+      "name": "ラーメン 麺尊 RAGE",
+      "names": {
+        "en": "Tokyo Ramen RAGE"
+      },
+      "lat": 35.66145,
+      "lng": 139.743382,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 14100509801,
+      "name": "T's Tantan",
+      "names": {},
+      "lat": 35.698371,
+      "lng": 139.772647,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 14102866754,
+      "name": "PEAK Swell Coffee Roasters",
+      "names": {
+        "en": "PEAK Swell Coffee Roasters"
+      },
+      "lat": 35.607787,
+      "lng": 139.646799,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 14132695001,
+      "name": "鳩家",
+      "names": {
+        "en": "Hatoya"
+      },
+      "lat": 35.712896,
+      "lng": 139.796161,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=ice_cream",
+      "check_date": "2026-08-29"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 14133916828,
+      "name": "根津の谷",
+      "names": {
+        "en": "Nezunoya"
+      },
+      "lat": 35.717549,
+      "lng": 139.765155,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 14140294364,
+      "name": "Halal and Vegan Ramen Dattebayo!",
+      "names": {},
+      "lat": 35.714801,
+      "lng": 139.801691,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 14188380701,
+      "name": "夏目坂珈琲",
+      "names": {
+        "en": "Natsumezaka Coffee"
+      },
+      "lat": 35.70295,
+      "lng": 139.720086,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-09-18"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 14236003736,
+      "name": "22nd -TWENTYSECOND-",
+      "names": {},
+      "lat": 35.612497,
+      "lng": 139.729671,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-09-30"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 14256781645,
+      "name": "2foods",
+      "names": {},
+      "lat": 35.674069,
+      "lng": 139.766337,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 14298890602,
+      "name": "Wald",
+      "names": {
+        "en": "Wald",
+        "ja": "ヴァルト"
+      },
+      "lat": 35.705832,
+      "lng": 139.773781,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=pub",
+      "check_date": "2026-10-19"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 14301482301,
+      "name": "麻小鮮麻辣湯",
+      "names": {},
+      "lat": 35.655601,
+      "lng": 139.736637,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-10-20"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 14320788601,
+      "name": "Mantra Ristro & Bar",
+      "names": {
+        "en": "Mantra Ristro & Bar",
+        "ja": "マントラ レストロ＆バー"
+      },
+      "lat": 35.701464,
+      "lng": 139.69668,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 14321068301,
+      "name": "NEOShinjuku Atsushi",
+      "names": {},
+      "lat": 35.690748,
+      "lng": 139.705954,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 46705600,
+      "name": "しおさいドッグラン",
+      "names": {},
+      "lat": 35.588888,
+      "lng": 139.751695,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 93411200,
+      "name": "しおさいドッグラン",
+      "names": {},
+      "lat": 35.588888,
+      "lng": 139.751695,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 109684527,
+      "name": "都立青山公園　北地区",
+      "names": {
+        "en": "Aoyama Park"
+      },
+      "lat": 35.670055,
+      "lng": 139.724748,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 119014523,
+      "name": "ドッグラン",
+      "names": {},
+      "lat": 35.791353,
+      "lng": 139.869488,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 149147797,
+      "name": "ETHICA",
+      "names": {},
+      "lat": 35.675358,
+      "lng": 139.76633,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 157214425,
+      "name": "中央区総合スポーツセンター",
+      "names": {
+        "en": "Chuo Ward Sports Center",
+        "es": "Centro deportivo del barrio Chuo",
+        "fr": "Centre sportif de l'arrondissement de Chuo"
+      },
+      "lat": 35.687839,
+      "lng": 139.789369,
+      "tags": {
+        "lgbtq": "welcome"
+      },
+      "themes": [
+        "lgbtq"
+      ],
+      "category": "leisure=sports_centre",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 166180330,
+      "name": "小島公園",
+      "names": {
+        "en": "Kojima Park"
+      },
+      "lat": 35.705694,
+      "lng": 139.7839,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 217275463,
+      "name": "Soul Food House",
+      "names": {},
+      "lat": 35.655389,
+      "lng": 139.734569,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-06-27"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 219369054,
+      "name": "都立青山公園　北地区",
+      "names": {
+        "en": "Aoyama Park"
+      },
+      "lat": 35.670055,
+      "lng": 139.724748,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 232497186,
+      "name": "FOOD HALL BLAST",
+      "names": {},
+      "lat": 35.68743,
+      "lng": 139.699618,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=food_court",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 238029046,
+      "name": "ドッグラン",
+      "names": {},
+      "lat": 35.791353,
+      "lng": 139.869488,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 295409073,
+      "name": "宮村児童遊園",
+      "names": {
+        "en": "Miyamura Children's Playground"
+      },
+      "lat": 35.654482,
+      "lng": 139.729887,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=playground",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 298295594,
+      "name": "ETHICA",
+      "names": {},
+      "lat": 35.675358,
+      "lng": 139.76633,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 299959359,
+      "name": null,
+      "names": {},
+      "lat": 35.584335,
+      "lng": 139.670614,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 302015463,
+      "name": null,
+      "names": {},
+      "lat": 35.586394,
+      "lng": 139.669066,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 314428850,
+      "name": "中央区総合スポーツセンター",
+      "names": {
+        "en": "Chuo Ward Sports Center",
+        "es": "Centro deportivo del barrio Chuo",
+        "fr": "Centre sportif de l'arrondissement de Chuo"
+      },
+      "lat": 35.687839,
+      "lng": 139.789369,
+      "tags": {
+        "lgbtq": "welcome"
+      },
+      "themes": [
+        "lgbtq"
+      ],
+      "category": "leisure=sports_centre",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 328326164,
+      "name": "ドッグラン",
+      "names": {},
+      "lat": 35.6622,
+      "lng": 139.612746,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 332360660,
+      "name": "小島公園",
+      "names": {
+        "en": "Kojima Park"
+      },
+      "lat": 35.705694,
+      "lng": 139.7839,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 332865004,
+      "name": "たつみの森ドッグラン",
+      "names": {
+        "es": "Parque canino"
+      },
+      "lat": 35.648254,
+      "lng": 139.817047,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 332873955,
+      "name": null,
+      "names": {},
+      "lat": 35.797959,
+      "lng": 139.769633,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 393314812,
+      "name": "CafeOne",
+      "names": {},
+      "lat": 35.803435,
+      "lng": 139.94883,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 413031843,
+      "name": null,
+      "names": {
+        "en": "Hamamatsucho 4-Chrome Children's Park"
+      },
+      "lat": 35.653303,
+      "lng": 139.754557,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 434550926,
+      "name": "Soul Food House",
+      "names": {},
+      "lat": 35.655389,
+      "lng": 139.734569,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-06-27"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 438089663,
+      "name": "エンゼル公園",
+      "names": {
+        "en": "Angel Park"
+      },
+      "lat": 35.724872,
+      "lng": 139.853624,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 447338048,
+      "name": "biotable",
+      "names": {},
+      "lat": 35.641613,
+      "lng": 139.7484,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 462159948,
+      "name": "松原団地記念公園",
+      "names": {
+        "en": "Matsubaradanchi Memorial Park",
+        "ja": "松原団地記念公園"
+      },
+      "lat": 35.842011,
+      "lng": 139.794002,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 464994372,
+      "name": "FOOD HALL BLAST",
+      "names": {},
+      "lat": 35.68743,
+      "lng": 139.699618,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=food_court",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 470871317,
+      "name": null,
+      "names": {},
+      "lat": 35.713297,
+      "lng": 139.693347,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 549928178,
+      "name": "吉原公園",
+      "names": {
+        "en": "Yoshiwara Park",
+        "ja": "吉原公園"
+      },
+      "lat": 35.724902,
+      "lng": 139.79532,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 551005206,
+      "name": "立野公園",
+      "names": {},
+      "lat": 35.71748,
+      "lng": 139.578475,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 590818146,
+      "name": "宮村児童遊園",
+      "names": {
+        "en": "Miyamura Children's Playground"
+      },
+      "lat": 35.654482,
+      "lng": 139.729887,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=playground",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 621235316,
+      "name": "スターバックス",
+      "names": {
+        "en": "Starbucks",
+        "ja": "スターバックス"
+      },
+      "lat": 35.649152,
+      "lng": 139.692722,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2025-09-15"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 646382600,
+      "name": "ドッグラン",
+      "names": {},
+      "lat": 35.623988,
+      "lng": 139.66418,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 656652328,
+      "name": "ドッグラン",
+      "names": {},
+      "lat": 35.6622,
+      "lng": 139.612746,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 665730008,
+      "name": "たつみの森ドッグラン",
+      "names": {
+        "es": "Parque canino"
+      },
+      "lat": 35.648254,
+      "lng": 139.817047,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 665747910,
+      "name": null,
+      "names": {},
+      "lat": 35.797959,
+      "lng": 139.769633,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 680734183,
+      "name": null,
+      "names": {},
+      "lat": 35.715193,
+      "lng": 139.679348,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 680802488,
+      "name": "代々木公園ドッグラン",
+      "names": {
+        "en": "Yoyogi Park Dogrun"
+      },
+      "lat": 35.672922,
+      "lng": 139.694123,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 683394371,
+      "name": "ドッグラン",
+      "names": {
+        "en": "dog run"
+      },
+      "lat": 35.671967,
+      "lng": 139.808407,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 689116876,
+      "name": null,
+      "names": {},
+      "lat": 35.756137,
+      "lng": 139.675987,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 761347020,
+      "name": "アジール三ノ輪",
+      "names": {
+        "en": "Azyl Minowa",
+        "ja": "アジール三ノ輪"
+      },
+      "lat": 35.725754,
+      "lng": 139.794223,
+      "tags": {
+        "lgbtq": "welcome"
+      },
+      "themes": [
+        "lgbtq"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 786629624,
+      "name": "CafeOne",
+      "names": {},
+      "lat": 35.803435,
+      "lng": 139.94883,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 826063686,
+      "name": null,
+      "names": {
+        "en": "Hamamatsucho 4-Chrome Children's Park"
+      },
+      "lat": 35.653303,
+      "lng": 139.754557,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 876179326,
+      "name": "エンゼル公園",
+      "names": {
+        "en": "Angel Park"
+      },
+      "lat": 35.724872,
+      "lng": 139.853624,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 894676096,
+      "name": "biotable",
+      "names": {},
+      "lat": 35.641613,
+      "lng": 139.7484,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 924319896,
+      "name": "松原団地記念公園",
+      "names": {
+        "en": "Matsubaradanchi Memorial Park",
+        "ja": "松原団地記念公園"
+      },
+      "lat": 35.842011,
+      "lng": 139.794002,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 928757947,
+      "name": null,
+      "names": {},
+      "lat": 35.586571,
+      "lng": 139.669029,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 934198107,
+      "name": null,
+      "names": {},
+      "lat": 35.586114,
+      "lng": 139.669394,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 941742634,
+      "name": null,
+      "names": {},
+      "lat": 35.713297,
+      "lng": 139.693347,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 993050155,
+      "name": "Dog Run",
+      "names": {},
+      "lat": 35.668057,
+      "lng": 139.738482,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 993050157,
+      "name": null,
+      "names": {},
+      "lat": 35.666172,
+      "lng": 139.735933,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1099856356,
+      "name": "吉原公園",
+      "names": {
+        "en": "Yoshiwara Park",
+        "ja": "吉原公園"
+      },
+      "lat": 35.724902,
+      "lng": 139.79532,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1102010412,
+      "name": "立野公園",
+      "names": {},
+      "lat": 35.71748,
+      "lng": 139.578475,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1118926821,
+      "name": "つばさドッグラン",
+      "names": {},
+      "lat": 35.583721,
+      "lng": 139.781792,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1225559805,
+      "name": null,
+      "names": {},
+      "lat": 35.809633,
+      "lng": 139.609805,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1242470632,
+      "name": "スターバックス",
+      "names": {
+        "en": "Starbucks",
+        "ja": "スターバックス"
+      },
+      "lat": 35.649152,
+      "lng": 139.692722,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2025-09-15"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1258547733,
+      "name": null,
+      "names": {},
+      "lat": 35.585975,
+      "lng": 139.669496,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1292765200,
+      "name": "ドッグラン",
+      "names": {},
+      "lat": 35.623988,
+      "lng": 139.66418,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1319085712,
+      "name": null,
+      "names": {},
+      "lat": 35.675328,
+      "lng": 139.713807,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1319085713,
+      "name": null,
+      "names": {},
+      "lat": 35.675362,
+      "lng": 139.713909,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1319085714,
+      "name": null,
+      "names": {},
+      "lat": 35.675319,
+      "lng": 139.714214,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1319085715,
+      "name": null,
+      "names": {},
+      "lat": 35.675098,
+      "lng": 139.714315,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1319085716,
+      "name": null,
+      "names": {},
+      "lat": 35.675184,
+      "lng": 139.714055,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1325579407,
+      "name": null,
+      "names": {},
+      "lat": 35.527289,
+      "lng": 139.712393,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1361468366,
+      "name": null,
+      "names": {},
+      "lat": 35.715193,
+      "lng": 139.679348,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1361604976,
+      "name": "代々木公園ドッグラン",
+      "names": {
+        "en": "Yoyogi Park Dogrun"
+      },
+      "lat": 35.672922,
+      "lng": 139.694123,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1366788742,
+      "name": "ドッグラン",
+      "names": {
+        "en": "dog run"
+      },
+      "lat": 35.671967,
+      "lng": 139.808407,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1378233752,
+      "name": null,
+      "names": {},
+      "lat": 35.756137,
+      "lng": 139.675987,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1500659166,
+      "name": "港区立南青山三丁目第二緑地",
+      "names": {
+        "en": "Minato City Minami-aoyama 3-chome Dai 2 Green Space"
+      },
+      "lat": 35.666358,
+      "lng": 139.714853,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1522694040,
+      "name": "アジール三ノ輪",
+      "names": {
+        "en": "Azyl Minowa",
+        "ja": "アジール三ノ輪"
+      },
+      "lat": 35.725754,
+      "lng": 139.794223,
+      "tags": {
+        "lgbtq": "welcome"
+      },
+      "themes": [
+        "lgbtq"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1530718179,
+      "name": "世田谷区立大原2-31遊び場",
+      "names": {},
+      "lat": 35.668393,
+      "lng": 139.657014,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=playground",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1537640345,
+      "name": "我善坊横川省三記念公園",
+      "names": {
+        "en": "Gazenbo Yokogawa Shozo Memorial Park"
+      },
+      "lat": 35.662183,
+      "lng": 139.739678,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": "2026-10-03"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1546654891,
+      "name": "高架ひろば",
+      "names": {
+        "en": "Under Expressway Space"
+      },
+      "lat": 35.655416,
+      "lng": 139.738296,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": "2026-08-02"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1986100310,
+      "name": "Dog Run",
+      "names": {},
+      "lat": 35.668057,
+      "lng": 139.738482,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1986100314,
+      "name": null,
+      "names": {},
+      "lat": 35.666172,
+      "lng": 139.735933,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2237853642,
+      "name": "つばさドッグラン",
+      "names": {},
+      "lat": 35.583721,
+      "lng": 139.781792,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2451119610,
+      "name": null,
+      "names": {},
+      "lat": 35.809633,
+      "lng": 139.609805,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2651158814,
+      "name": null,
+      "names": {},
+      "lat": 35.527289,
+      "lng": 139.712393,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 3001318332,
+      "name": "港区立南青山三丁目第二緑地",
+      "names": {
+        "en": "Minato City Minami-aoyama 3-chome Dai 2 Green Space"
+      },
+      "lat": 35.666358,
+      "lng": 139.714853,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 3061436358,
+      "name": "世田谷区立大原2-31遊び場",
+      "names": {},
+      "lat": 35.668393,
+      "lng": 139.657014,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=playground",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 3075280690,
+      "name": "我善坊横川省三記念公園",
+      "names": {
+        "en": "Gazenbo Yokogawa Shozo Memorial Park"
+      },
+      "lat": 35.662183,
+      "lng": 139.739678,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": "2026-10-03"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 3093309782,
+      "name": "高架ひろば",
+      "names": {
+        "en": "Under Expressway Space"
+      },
+      "lat": 35.655416,
+      "lng": 139.738296,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": "2026-08-02"
+    }
+  ]
+}

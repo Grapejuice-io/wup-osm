@@ -1,0 +1,624 @@
+{
+  "version": 1,
+  "city": "reykjavik",
+  "country": "IS",
+  "region": "europe/iceland",
+  "extract_timestamp": "2026-10-27T21:23:59Z",
+  "radius_km": 10,
+  "bbox": [
+    -22.14101,
+    64.05767,
+    -21.72899,
+    64.23733
+  ],
+  "venues": [
+    {
+      "osm_type": "node",
+      "osm_id": 815740255,
+      "name": "Te & Kaffi",
+      "names": {},
+      "lat": 64.146042,
+      "lng": -21.901175,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2392295623,
+      "name": "Valdís",
+      "names": {},
+      "lat": 64.153541,
+      "lng": -21.948946,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=ice_cream",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2949950629,
+      "name": "Hárhornið",
+      "names": {},
+      "lat": 64.143366,
+      "lng": -21.912997,
+      "tags": {
+        "lgbtq": "welcome"
+      },
+      "themes": [
+        "lgbtq"
+      ],
+      "category": "shop=hairdresser",
+      "check_date": "2025-05-05"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3009197137,
+      "name": "Loving Hut",
+      "names": {
+        "en": "Vegan World Peace"
+      },
+      "lat": 64.148631,
+      "lng": -21.942065,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2024-10-04"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3009373797,
+      "name": "Ramen Momo",
+      "names": {},
+      "lat": 64.149913,
+      "lng": -21.943085,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-08-06"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3741271921,
+      "name": "Garðurinn",
+      "names": {
+        "en": "Gardurinn"
+      },
+      "lat": 64.1448,
+      "lng": -21.929736,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3761699396,
+      "name": "Loving Hut",
+      "names": {},
+      "lat": 64.142273,
+      "lng": -21.90524,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2024-10-12"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4388495516,
+      "name": "Kaffi laugalækur",
+      "names": {
+        "en": "Laugalaekur Café"
+      },
+      "lat": 64.148643,
+      "lng": -21.885026,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5273540494,
+      "name": "Reykjavik Chips",
+      "names": {
+        "en": "Reykjavik Chips"
+      },
+      "lat": 64.144066,
+      "lng": -21.922162,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2024-10-12"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5784044590,
+      "name": "Biang Reykjavík",
+      "names": {},
+      "lat": 64.149656,
+      "lng": -21.942012,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-08-20"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7356507585,
+      "name": "27 Mathús & Bar",
+      "names": {},
+      "lat": 64.094088,
+      "lng": -21.808799,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8184191362,
+      "name": "Nútrí Açaí Bar",
+      "names": {},
+      "lat": 64.132699,
+      "lng": -21.88336,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8412950912,
+      "name": "Flatbakan",
+      "names": {},
+      "lat": 64.09927,
+      "lng": -21.874397,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8412951056,
+      "name": "Flatbakan",
+      "names": {},
+      "lat": 64.12609,
+      "lng": -21.821349,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8417692399,
+      "name": "Chickpea",
+      "names": {},
+      "lat": 64.145696,
+      "lng": -21.934099,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9739393917,
+      "name": "Bókasamlagið",
+      "names": {
+        "en": "Valkyrjan Bistro & bar"
+      },
+      "lat": 64.14121,
+      "lng": -21.905437,
+      "tags": {
+        "diet:vegan": "yes",
+        "lgbtq": "welcome"
+      },
+      "themes": [
+        "vegan",
+        "lgbtq"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2024-07-31"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9789265003,
+      "name": "TIDES",
+      "names": {},
+      "lat": 64.15006,
+      "lng": -21.935352,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9789265004,
+      "name": "TIDES Café",
+      "names": {},
+      "lat": 64.149829,
+      "lng": -21.935794,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9973506421,
+      "name": "Hygge Kaffi og bakarí",
+      "names": {
+        "en": "Hygge Coffee & Micro Bakery"
+      },
+      "lat": 64.15168,
+      "lng": -21.952573,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-09-13"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11266685730,
+      "name": "Funky Bhangra",
+      "names": {},
+      "lat": 64.147747,
+      "lng": -21.938319,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11282427801,
+      "name": "Viet Express Food",
+      "names": {},
+      "lat": 64.140565,
+      "lng": -21.897122,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11459557866,
+      "name": "Kemuri",
+      "names": {},
+      "lat": 64.144816,
+      "lng": -21.921373,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2024-10-04"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12106640102,
+      "name": "Plantan Kaffihús",
+      "names": {},
+      "lat": 64.142539,
+      "lng": -21.92052,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-09-14"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12193438038,
+      "name": "Mama Reykjavik",
+      "names": {},
+      "lat": 64.146759,
+      "lng": -21.935677,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-06-06"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13061867301,
+      "name": null,
+      "names": {},
+      "lat": 64.116875,
+      "lng": -21.75923,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13878771400,
+      "name": "Brass Kitchen & Bar",
+      "names": {},
+      "lat": 64.144075,
+      "lng": -21.921334,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 14178137201,
+      "name": "Hygge Kaffi og bakarí",
+      "names": {
+        "en": "Hygge Coffee and Bakery"
+      },
+      "lat": 64.144075,
+      "lng": -21.918941,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-09-13"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 23297873,
+      "name": "Geirsnef",
+      "names": {},
+      "lat": 64.128517,
+      "lng": -21.840079,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 33314951,
+      "name": null,
+      "names": {},
+      "lat": 64.061468,
+      "lng": -21.942609,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 34580543,
+      "name": null,
+      "names": {},
+      "lat": 64.141227,
+      "lng": -21.800284,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 34675235,
+      "name": "Geldinganes",
+      "names": {},
+      "lat": 64.167233,
+      "lng": -21.802859,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 209461387,
+      "name": "Hundagerði í Laugardal",
+      "names": {},
+      "lat": 64.136516,
+      "lng": -21.872137,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 418922774,
+      "name": "Hundagerði í Laugardal",
+      "names": {},
+      "lat": 64.136516,
+      "lng": -21.872137,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 701370988,
+      "name": null,
+      "names": {},
+      "lat": 64.103227,
+      "lng": -21.832635,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 701370989,
+      "name": null,
+      "names": {},
+      "lat": 64.138108,
+      "lng": -21.936419,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1402741976,
+      "name": null,
+      "names": {},
+      "lat": 64.103227,
+      "lng": -21.832635,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1402741978,
+      "name": null,
+      "names": {},
+      "lat": 64.138108,
+      "lng": -21.936419,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    }
+  ]
+}

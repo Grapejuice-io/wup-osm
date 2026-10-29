@@ -1,0 +1,2868 @@
+{
+  "version": 1,
+  "city": "istanbul",
+  "country": "TR",
+  "region": "europe/turkey",
+  "extract_timestamp": "2026-10-27T21:23:59Z",
+  "radius_km": 18,
+  "bbox": [
+    28.746,
+    40.8483,
+    29.17456,
+    41.1717
+  ],
+  "venues": [
+    {
+      "osm_type": "node",
+      "osm_id": 1665037883,
+      "name": "Fıccın",
+      "names": {
+        "ar": "مطعم فيجن للاسماك"
+      },
+      "lat": 41.032555,
+      "lng": 28.975716,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1697174881,
+      "name": "Loving Hut",
+      "names": {},
+      "lat": 41.043922,
+      "lng": 29.002724,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2453594560,
+      "name": "Destan Halk Lokantası",
+      "names": {},
+      "lat": 40.990888,
+      "lng": 29.02662,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2022-09-20"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2965712801,
+      "name": "Yemekhane",
+      "names": {
+        "en": "Dining Hall"
+      },
+      "lat": 41.104098,
+      "lng": 29.022001,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3325111908,
+      "name": "No:19 Dining",
+      "names": {},
+      "lat": 41.03297,
+      "lng": 28.98135,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2025-10-31"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4281755191,
+      "name": "Mahatma Vegan Cafe",
+      "names": {},
+      "lat": 40.99706,
+      "lng": 29.028939,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4282213490,
+      "name": "kafeNAsanat",
+      "names": {},
+      "lat": 41.045047,
+      "lng": 29.000572,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4417671241,
+      "name": "Çiğköftem",
+      "names": {
+        "en": "Cigköfte M"
+      },
+      "lat": 40.985158,
+      "lng": 29.024986,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4507856806,
+      "name": "BİM",
+      "names": {},
+      "lat": 40.93597,
+      "lng": 29.148805,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=supermarket",
+      "check_date": "2025-05-22"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4603530093,
+      "name": "Vegan Istanbul",
+      "names": {},
+      "lat": 41.030988,
+      "lng": 28.98181,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4790244322,
+      "name": "Kulübe Moda",
+      "names": {
+        "tr": "Kulübe Moda"
+      },
+      "lat": 40.98623,
+      "lng": 29.030393,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4883631821,
+      "name": "Wegain",
+      "names": {
+        "en": "Wegain"
+      },
+      "lat": 41.029406,
+      "lng": 28.979657,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2024-06-23"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4889905025,
+      "name": "Garda Cafe",
+      "names": {
+        "en": "Garda Cafe",
+        "tr": "Garda Kafe"
+      },
+      "lat": 40.995838,
+      "lng": 29.029273,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5112732284,
+      "name": "Koska",
+      "names": {},
+      "lat": 41.009734,
+      "lng": 28.957831,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5193319823,
+      "name": "TRIA ELEGANCE TERRACE RESTAURANT",
+      "names": {
+        "ru": "триа элегантен терраса ресторан"
+      },
+      "lat": 41.005681,
+      "lng": 28.98102,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5244802012,
+      "name": "Arch Bistro",
+      "names": {
+        "ar": "آرتش بيسترو"
+      },
+      "lat": 41.004636,
+      "lng": 28.971313,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5270266096,
+      "name": "Çiğköftem",
+      "names": {},
+      "lat": 40.95925,
+      "lng": 29.095731,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5275929321,
+      "name": "Patato",
+      "names": {},
+      "lat": 41.031862,
+      "lng": 28.976334,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5282746269,
+      "name": "Subway",
+      "names": {},
+      "lat": 40.97648,
+      "lng": 29.151881,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5315087627,
+      "name": "Midpoint",
+      "names": {},
+      "lat": 41.00081,
+      "lng": 29.054364,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5325731621,
+      "name": "fitty feed - clean eating",
+      "names": {},
+      "lat": 40.973495,
+      "lng": 29.056791,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5545370912,
+      "name": "Galata Kitchen",
+      "names": {
+        "en": "Galata Kitchen"
+      },
+      "lat": 41.025741,
+      "lng": 28.975368,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5599579423,
+      "name": "Vi Coffee & HealthyLiving",
+      "names": {},
+      "lat": 41.048645,
+      "lng": 28.995897,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5752004722,
+      "name": null,
+      "names": {
+        "en": "Milano Gourmet"
+      },
+      "lat": 41.05231,
+      "lng": 28.993108,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6116814685,
+      "name": null,
+      "names": {
+        "en": "Falafel Zone"
+      },
+      "lat": 41.035802,
+      "lng": 28.981077,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6470872085,
+      "name": "Community kitchen",
+      "names": {},
+      "lat": 41.028357,
+      "lng": 28.976809,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6521591285,
+      "name": "Byzantion Bistro & Restaurant",
+      "names": {},
+      "lat": 41.010177,
+      "lng": 28.954433,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7014934107,
+      "name": "Divella Bistro Restaurant",
+      "names": {},
+      "lat": 41.006432,
+      "lng": 28.980818,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7087535985,
+      "name": "Cafe Berry",
+      "names": {},
+      "lat": 41.036279,
+      "lng": 28.975306,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2025-11-26"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7198296674,
+      "name": "Chef Coffee",
+      "names": {},
+      "lat": 41.046428,
+      "lng": 29.002495,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7218793886,
+      "name": null,
+      "names": {
+        "en": "Tahin"
+      },
+      "lat": 40.985677,
+      "lng": 29.025967,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7603747885,
+      "name": "Imece Moda Mutfak",
+      "names": {},
+      "lat": 40.98402,
+      "lng": 29.029309,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-10-20"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8190295421,
+      "name": "Arka Bahce",
+      "names": {},
+      "lat": 40.996622,
+      "lng": 29.029055,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8321884002,
+      "name": "Damla Pide Kebap",
+      "names": {},
+      "lat": 40.996283,
+      "lng": 29.029105,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-10-24"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9199628839,
+      "name": "Nevale Mutfak",
+      "names": {},
+      "lat": 41.045301,
+      "lng": 29.00366,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9404613985,
+      "name": "Frontiere İstanbul",
+      "names": {},
+      "lat": 41.075874,
+      "lng": 29.043004,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9457604894,
+      "name": null,
+      "names": {},
+      "lat": 40.971135,
+      "lng": 29.113593,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9624624955,
+      "name": "Yalla falafel",
+      "names": {},
+      "lat": 41.042958,
+      "lng": 29.008166,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-10-22"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9709844018,
+      "name": "Organic Me - Vegan Cafe & Shop",
+      "names": {},
+      "lat": 41.03283,
+      "lng": 28.977601,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9769630444,
+      "name": "Akoğuz Çiftliği",
+      "names": {},
+      "lat": 40.99504,
+      "lng": 29.029531,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9777184609,
+      "name": "Çiğköftem",
+      "names": {},
+      "lat": 41.047328,
+      "lng": 28.986893,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9777700081,
+      "name": "Oses Cigkofte",
+      "names": {},
+      "lat": 41.031997,
+      "lng": 28.948381,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9821259716,
+      "name": "Vatka Coffe & Vegan",
+      "names": {},
+      "lat": 40.985206,
+      "lng": 29.028281,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9860981067,
+      "name": "Kem Küm",
+      "names": {},
+      "lat": 40.986101,
+      "lng": 29.022293,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9887152820,
+      "name": "Turp",
+      "names": {
+        "en": "Turp Vegan & Vejetaryen Sokak Lezzetleri"
+      },
+      "lat": 40.985128,
+      "lng": 29.023284,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9911103569,
+      "name": "Asian vegan kitchen",
+      "names": {},
+      "lat": 41.032877,
+      "lng": 28.987702,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9965469618,
+      "name": null,
+      "names": {
+        "en": "Kumin Saglikli Lezzetler"
+      },
+      "lat": 40.994608,
+      "lng": 29.027208,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10064829418,
+      "name": "Vegan Food Cartel",
+      "names": {},
+      "lat": 41.034969,
+      "lng": 28.983256,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10221471760,
+      "name": "Coffee Manifesto",
+      "names": {},
+      "lat": 40.995613,
+      "lng": 29.028372,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-10-20"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10238228110,
+      "name": null,
+      "names": {
+        "en": "Sisters & Harvest"
+      },
+      "lat": 40.984011,
+      "lng": 29.029336,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2023-11-21"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10555524050,
+      "name": "240 Derece",
+      "names": {},
+      "lat": 40.968423,
+      "lng": 29.071248,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=bakery",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10718402721,
+      "name": "Cantinery",
+      "names": {},
+      "lat": 41.066213,
+      "lng": 29.01693,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10753842905,
+      "name": "Vegan Dukkan Lokanta",
+      "names": {
+        "en": "Vegan Store & Cafe"
+      },
+      "lat": 41.032645,
+      "lng": 28.984048,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10760924105,
+      "name": null,
+      "names": {
+        "en": "Beam bakes"
+      },
+      "lat": 41.100375,
+      "lng": 29.052413,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10973652805,
+      "name": "Pinokyo Bar Terrace",
+      "names": {},
+      "lat": 41.034652,
+      "lng": 28.982528,
+      "tags": {
+        "lgbtq": "primary"
+      },
+      "themes": [
+        "lgbtq"
+      ],
+      "category": "amenity=bar",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11011308267,
+      "name": "Vegan Masa",
+      "names": {},
+      "lat": 41.044995,
+      "lng": 29.002589,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11336685614,
+      "name": "Burger King",
+      "names": {
+        "en": "Burger king"
+      },
+      "lat": 41.026342,
+      "lng": 28.983576,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2025-10-20"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11343577203,
+      "name": "Galata Sahil Cafe",
+      "names": {},
+      "lat": 41.024367,
+      "lng": 28.969112,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11366737593,
+      "name": "Miso Ramen",
+      "names": {},
+      "lat": 40.984092,
+      "lng": 29.02941,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-10-20"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11387990000,
+      "name": "Taksim Aktar",
+      "names": {},
+      "lat": 41.033786,
+      "lng": 28.984224,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=convenience",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11420990969,
+      "name": "Nevmekan Selimiye",
+      "names": {},
+      "lat": 41.010257,
+      "lng": 29.016685,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11521971378,
+      "name": "Semsür Çiğköfte",
+      "names": {},
+      "lat": 41.024298,
+      "lng": 29.012312,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11653303817,
+      "name": "Gazi Çiğköfte",
+      "names": {},
+      "lat": 41.100798,
+      "lng": 28.899103,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11952518369,
+      "name": "Juicery",
+      "names": {
+        "en": "Juicery"
+      },
+      "lat": 41.032482,
+      "lng": 28.984241,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11953804770,
+      "name": "Moston Cafe Restoran",
+      "names": {},
+      "lat": 40.932124,
+      "lng": 29.12899,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12025463369,
+      "name": "Vegan Community Kitchen",
+      "names": {},
+      "lat": 41.027876,
+      "lng": 28.97634,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12088987915,
+      "name": "Veganarsist Bostancı",
+      "names": {},
+      "lat": 40.959938,
+      "lng": 29.101161,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12348591901,
+      "name": "Coffee 4",
+      "names": {},
+      "lat": 41.009125,
+      "lng": 28.975234,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12504254170,
+      "name": "Akoğuz Izgara ve Ev Yemekleri",
+      "names": {},
+      "lat": 40.994786,
+      "lng": 29.029655,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-10-24"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12554538507,
+      "name": "Happu Antakya-Fine Food",
+      "names": {},
+      "lat": 40.960432,
+      "lng": 29.095414,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12673457441,
+      "name": "Vegan Masa",
+      "names": {},
+      "lat": 40.991388,
+      "lng": 29.027682,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12959659469,
+      "name": "MANDI SEBAM",
+      "names": {
+        "ar": "مندي شبام",
+        "tr": "Mandi Şebam"
+      },
+      "lat": 41.012678,
+      "lng": 28.941011,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13050297710,
+      "name": "Postane Cafe",
+      "names": {},
+      "lat": 41.024931,
+      "lng": 28.974376,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13052347625,
+      "name": "240 Derece",
+      "names": {},
+      "lat": 41.053408,
+      "lng": 28.994674,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=bakery",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13055156395,
+      "name": "240 Derece",
+      "names": {},
+      "lat": 41.035007,
+      "lng": 29.174349,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=bakery",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13055169844,
+      "name": "240 Derece",
+      "names": {},
+      "lat": 41.071432,
+      "lng": 29.028761,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=bakery",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13055188218,
+      "name": "240 Derece",
+      "names": {},
+      "lat": 41.110739,
+      "lng": 29.03174,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=bakery",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13058032677,
+      "name": "Lapanna Cookies & More",
+      "names": {},
+      "lat": 41.050402,
+      "lng": 28.996577,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=bakery",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13230248501,
+      "name": "Vegan Community Kitchen Express",
+      "names": {},
+      "lat": 41.027604,
+      "lng": 28.977963,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13298558468,
+      "name": "pizza bulls",
+      "names": {},
+      "lat": 41.100402,
+      "lng": 28.998483,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13444940470,
+      "name": "HTT Köpek Eğitim Takımı",
+      "names": {},
+      "lat": 40.916732,
+      "lng": 29.152274,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13444970392,
+      "name": "Kırıntı",
+      "names": {},
+      "lat": 41.002721,
+      "lng": 29.055095,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13481673575,
+      "name": "Pizza Pieza by Divan",
+      "names": {},
+      "lat": 40.976319,
+      "lng": 29.040496,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13695793702,
+      "name": "Brops World Cuisine",
+      "names": {},
+      "lat": 40.973445,
+      "lng": 29.041464,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13730814475,
+      "name": "Oses Çiğköfte",
+      "names": {},
+      "lat": 41.103643,
+      "lng": 28.859736,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13776063921,
+      "name": "Azurro Pizza Napoletana",
+      "names": {},
+      "lat": 41.051598,
+      "lng": 28.989851,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13779063784,
+      "name": "Miso Ramen",
+      "names": {},
+      "lat": 41.05209,
+      "lng": 28.988339,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13875876923,
+      "name": "Vega Vegan Büfe",
+      "names": {},
+      "lat": 40.994498,
+      "lng": 29.02747,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-05-25"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13893625253,
+      "name": "Sermest Büyükada",
+      "names": {},
+      "lat": 40.871173,
+      "lng": 29.132041,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13982309802,
+      "name": "Ethique Patisserie & Boulangerie",
+      "names": {},
+      "lat": 40.989913,
+      "lng": 29.055647,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13983399602,
+      "name": "Ayrışım Kitabevi Kafe",
+      "names": {},
+      "lat": 40.993658,
+      "lng": 29.028017,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 14078946501,
+      "name": "Vacilando",
+      "names": {},
+      "lat": 41.026974,
+      "lng": 28.97649,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 14107890279,
+      "name": "Ken Küm Plantbased Egyptian Food - Misir Mutfagi",
+      "names": {},
+      "lat": 40.990568,
+      "lng": 29.026425,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-10-19"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 14180362915,
+      "name": "Blue Bird",
+      "names": {},
+      "lat": 41.002757,
+      "lng": 29.055067,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 14180367233,
+      "name": "Starbucks",
+      "names": {},
+      "lat": 41.002731,
+      "lng": 29.054772,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 14231966301,
+      "name": "Oses Çiğköfte",
+      "names": {},
+      "lat": 41.03397,
+      "lng": 28.976887,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 14243144501,
+      "name": "Melidya Çiğköfte",
+      "names": {},
+      "lat": 41.051977,
+      "lng": 28.986007,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 14308697626,
+      "name": "Komagene",
+      "names": {
+        "tr": "Komagene"
+      },
+      "lat": 41.018321,
+      "lng": 29.07547,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-10-20"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 314702269,
+      "name": "Şamlar Parkı",
+      "names": {},
+      "lat": 41.12537,
+      "lng": 28.755276,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 315745066,
+      "name": "Çukurbostan Parkı",
+      "names": {
+        "ar": "حديقة شوكور بوستان"
+      },
+      "lat": 41.010393,
+      "lng": 28.934494,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 376038815,
+      "name": "Üçgen Köpek Parkı",
+      "names": {},
+      "lat": 40.977732,
+      "lng": 29.094308,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 445639546,
+      "name": "Sadri Alışık Aile Çay Bahçesi",
+      "names": {},
+      "lat": 41.005167,
+      "lng": 28.862821,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 478587263,
+      "name": "MAYBE",
+      "names": {},
+      "lat": 40.973258,
+      "lng": 29.043632,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 629404538,
+      "name": "Şamlar Parkı",
+      "names": {},
+      "lat": 41.12537,
+      "lng": 28.755276,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 631490132,
+      "name": "Çukurbostan Parkı",
+      "names": {
+        "ar": "حديقة شوكور بوستان"
+      },
+      "lat": 41.010393,
+      "lng": 28.934494,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 666545732,
+      "name": "Çamlıca Konakları Köpek Gezdirme Bölgesi",
+      "names": {},
+      "lat": 41.016866,
+      "lng": 29.051851,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 752077630,
+      "name": "Üçgen Köpek Parkı",
+      "names": {},
+      "lat": 40.977732,
+      "lng": 29.094308,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 792165255,
+      "name": "Karaköy Yürüyüş Ve Bisiklet Yolu",
+      "names": {
+        "en": "Karaköy Walking and Bicycle Path-"
+      },
+      "lat": 41.023464,
+      "lng": 28.970015,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": "2026-04-26"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 833849783,
+      "name": null,
+      "names": {},
+      "lat": 41.050871,
+      "lng": 28.979907,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 878610649,
+      "name": "Çengelköy Havuzbaşı Parkı",
+      "names": {},
+      "lat": 41.046747,
+      "lng": 29.053762,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 891279092,
+      "name": "Sadri Alışık Aile Çay Bahçesi",
+      "names": {},
+      "lat": 41.005167,
+      "lng": 28.862821,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 931875803,
+      "name": null,
+      "names": {},
+      "lat": 41.123437,
+      "lng": 29.03156,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 957174526,
+      "name": "MAYBE",
+      "names": {},
+      "lat": 40.973258,
+      "lng": 29.043632,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 958808439,
+      "name": null,
+      "names": {},
+      "lat": 40.979969,
+      "lng": 29.05605,
+      "tags": {
+        "dog": "yes",
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 991724186,
+      "name": null,
+      "names": {},
+      "lat": 41.001593,
+      "lng": 29.140404,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 995897873,
+      "name": null,
+      "names": {},
+      "lat": 41.001736,
+      "lng": 29.139991,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1007474783,
+      "name": null,
+      "names": {},
+      "lat": 41.072054,
+      "lng": 29.010484,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1116778295,
+      "name": null,
+      "names": {},
+      "lat": 41.063468,
+      "lng": 29.004436,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1116778296,
+      "name": null,
+      "names": {},
+      "lat": 41.063064,
+      "lng": 29.007705,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1137099490,
+      "name": null,
+      "names": {},
+      "lat": 40.978022,
+      "lng": 29.056682,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1149525816,
+      "name": null,
+      "names": {},
+      "lat": 40.978823,
+      "lng": 29.05759,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1202390889,
+      "name": null,
+      "names": {},
+      "lat": 40.981115,
+      "lng": 29.020939,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1204046785,
+      "name": null,
+      "names": {},
+      "lat": 40.968883,
+      "lng": 29.034065,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1214157094,
+      "name": null,
+      "names": {},
+      "lat": 41.057072,
+      "lng": 28.915891,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1236485763,
+      "name": null,
+      "names": {},
+      "lat": 41.016168,
+      "lng": 29.170193,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1245747188,
+      "name": null,
+      "names": {},
+      "lat": 40.997934,
+      "lng": 29.031414,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1280529506,
+      "name": null,
+      "names": {},
+      "lat": 41.090385,
+      "lng": 29.018306,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1309034417,
+      "name": null,
+      "names": {},
+      "lat": 41.003986,
+      "lng": 28.883217,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1311898875,
+      "name": null,
+      "names": {},
+      "lat": 41.057347,
+      "lng": 28.911987,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1314726598,
+      "name": "Hasan Hüseyin Arslan Parkı",
+      "names": {},
+      "lat": 41.052728,
+      "lng": 29.006547,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1333091464,
+      "name": "Çamlıca Konakları Köpek Gezdirme Bölgesi",
+      "names": {},
+      "lat": 41.016866,
+      "lng": 29.051851,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1350086811,
+      "name": null,
+      "names": {},
+      "lat": 41.061778,
+      "lng": 28.967959,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1350086813,
+      "name": null,
+      "names": {},
+      "lat": 41.061685,
+      "lng": 28.968045,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1377196840,
+      "name": null,
+      "names": {},
+      "lat": 41.054015,
+      "lng": 28.910719,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1377196846,
+      "name": null,
+      "names": {},
+      "lat": 41.05494,
+      "lng": 28.910745,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1377196850,
+      "name": null,
+      "names": {},
+      "lat": 41.0558,
+      "lng": 28.910913,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1377196854,
+      "name": null,
+      "names": {},
+      "lat": 41.056143,
+      "lng": 28.911121,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1377196858,
+      "name": null,
+      "names": {},
+      "lat": 41.056613,
+      "lng": 28.911426,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1388495212,
+      "name": null,
+      "names": {},
+      "lat": 40.96379,
+      "lng": 29.063673,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1424131471,
+      "name": null,
+      "names": {},
+      "lat": 40.993721,
+      "lng": 29.049294,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1425892990,
+      "name": null,
+      "names": {},
+      "lat": 41.074075,
+      "lng": 29.071553,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1465114017,
+      "name": "Evcil Hayvan Oyun Alanı",
+      "names": {},
+      "lat": 41.067875,
+      "lng": 28.988755,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1470265043,
+      "name": null,
+      "names": {},
+      "lat": 40.993706,
+      "lng": 29.131276,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1504214910,
+      "name": null,
+      "names": {},
+      "lat": 40.976319,
+      "lng": 29.084268,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1526506074,
+      "name": "Çınar Konutları Çocuk Parkı",
+      "names": {},
+      "lat": 41.133278,
+      "lng": 28.76584,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=playground",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1540052479,
+      "name": null,
+      "names": {},
+      "lat": 41.121439,
+      "lng": 29.035883,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1563179070,
+      "name": null,
+      "names": {},
+      "lat": 41.068893,
+      "lng": 28.990679,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1667699566,
+      "name": null,
+      "names": {},
+      "lat": 41.050871,
+      "lng": 28.979907,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1757221298,
+      "name": "Çengelköy Havuzbaşı Parkı",
+      "names": {},
+      "lat": 41.046747,
+      "lng": 29.053762,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1863751606,
+      "name": null,
+      "names": {},
+      "lat": 41.123437,
+      "lng": 29.03156,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1917616878,
+      "name": null,
+      "names": {},
+      "lat": 40.979969,
+      "lng": 29.05605,
+      "tags": {
+        "dog": "yes",
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1983448372,
+      "name": null,
+      "names": {},
+      "lat": 41.001593,
+      "lng": 29.140404,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1991795746,
+      "name": null,
+      "names": {},
+      "lat": 41.001736,
+      "lng": 29.139991,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2014949566,
+      "name": null,
+      "names": {},
+      "lat": 41.072054,
+      "lng": 29.010484,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2233556590,
+      "name": null,
+      "names": {},
+      "lat": 41.063468,
+      "lng": 29.004436,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2233556592,
+      "name": null,
+      "names": {},
+      "lat": 41.063064,
+      "lng": 29.007705,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2274198980,
+      "name": null,
+      "names": {},
+      "lat": 40.978022,
+      "lng": 29.056682,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2299051632,
+      "name": null,
+      "names": {},
+      "lat": 40.978823,
+      "lng": 29.05759,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2404781778,
+      "name": null,
+      "names": {},
+      "lat": 40.981115,
+      "lng": 29.020939,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2408093570,
+      "name": null,
+      "names": {},
+      "lat": 40.968883,
+      "lng": 29.034065,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2428314188,
+      "name": null,
+      "names": {},
+      "lat": 41.057072,
+      "lng": 28.915891,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2472971526,
+      "name": null,
+      "names": {},
+      "lat": 41.016168,
+      "lng": 29.170193,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2491494376,
+      "name": null,
+      "names": {},
+      "lat": 40.997934,
+      "lng": 29.031414,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2561059012,
+      "name": null,
+      "names": {},
+      "lat": 41.090385,
+      "lng": 29.018306,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2618068834,
+      "name": null,
+      "names": {},
+      "lat": 41.003986,
+      "lng": 28.883217,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2629453196,
+      "name": "Hasan Hüseyin Arslan Parkı",
+      "names": {},
+      "lat": 41.052728,
+      "lng": 29.006547,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2776990424,
+      "name": null,
+      "names": {},
+      "lat": 40.96379,
+      "lng": 29.063673,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2848262942,
+      "name": null,
+      "names": {},
+      "lat": 40.993721,
+      "lng": 29.049294,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2851785980,
+      "name": null,
+      "names": {},
+      "lat": 41.074075,
+      "lng": 29.071553,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2930228034,
+      "name": "Evcil Hayvan Oyun Alanı",
+      "names": {},
+      "lat": 41.067875,
+      "lng": 28.988755,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2940530086,
+      "name": null,
+      "names": {},
+      "lat": 40.993706,
+      "lng": 29.131276,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 3008429820,
+      "name": null,
+      "names": {},
+      "lat": 40.976319,
+      "lng": 29.084268,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 3053012148,
+      "name": "Çınar Konutları Çocuk Parkı",
+      "names": {},
+      "lat": 41.133278,
+      "lng": 28.76584,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=playground",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 3080104958,
+      "name": null,
+      "names": {},
+      "lat": 41.121439,
+      "lng": 29.035883,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 3126358140,
+      "name": null,
+      "names": {},
+      "lat": 41.068893,
+      "lng": 28.990679,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    }
+  ]
+}

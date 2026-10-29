@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "city": "healdsburg",
+  "country": "US",
+  "region": "north-america/us/california/norcal",
+  "extract_timestamp": "2026-10-27T21:23:59Z",
+  "radius_km": 10,
+  "bbox": [
+    -122.98136,
+    38.52767,
+    -122.75142,
+    38.70733
+  ],
+  "venues": [
+    {
+      "osm_type": "node",
+      "osm_id": 8569984338,
+      "name": null,
+      "names": {},
+      "lat": 38.550354,
+      "lng": -122.81252,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9953455556,
+      "name": "Himalayan Restaurant",
+      "names": {},
+      "lat": 38.548087,
+      "lng": -122.815679,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13143589701,
+      "name": "Little Saint",
+      "names": {},
+      "lat": 38.611927,
+      "lng": -122.87189,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 195463251,
+      "name": "Foothill Regional Park",
+      "names": {},
+      "lat": 38.561563,
+      "lng": -122.790377,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 390926502,
+      "name": "Foothill Regional Park",
+      "names": {},
+      "lat": 38.561563,
+      "lng": -122.790377,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 451968266,
+      "name": "Villa Dog Park",
+      "names": {},
+      "lat": 38.622455,
+      "lng": -122.848205,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 545776567,
+      "name": "Badger Dog Park",
+      "names": {},
+      "lat": 38.60976,
+      "lng": -122.856767,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 903936532,
+      "name": "Villa Dog Park",
+      "names": {},
+      "lat": 38.622455,
+      "lng": -122.848205,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1091553134,
+      "name": "Badger Dog Park",
+      "names": {},
+      "lat": 38.60976,
+      "lng": -122.856767,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    }
+  ]
+}

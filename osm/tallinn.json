@@ -1,0 +1,2792 @@
+{
+  "version": 1,
+  "city": "tallinn",
+  "country": "EE",
+  "region": "europe/estonia",
+  "extract_timestamp": "2026-10-27T21:23:59Z",
+  "radius_km": 10,
+  "bbox": [
+    24.56833,
+    59.34739,
+    24.92167,
+    59.52705
+  ],
+  "venues": [
+    {
+      "osm_type": "node",
+      "osm_id": 436181533,
+      "name": "Vanaema Juures",
+      "names": {},
+      "lat": 59.437154,
+      "lng": 24.742792,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 436193431,
+      "name": "Olde Hansa",
+      "names": {
+        "en": "Olde Hansa",
+        "et": "Olde Hansa",
+        "ru": "Олде Ханса"
+      },
+      "lat": 59.436682,
+      "lng": 24.745981,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-08-25"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 513328068,
+      "name": "Reval Cafe",
+      "names": {},
+      "lat": 59.434879,
+      "lng": 24.745414,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2024-11-24"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 599692564,
+      "name": "Pegasus",
+      "names": {},
+      "lat": 59.435871,
+      "lng": 24.744509,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-07-26"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 600066362,
+      "name": "Mikkeller old town",
+      "names": {},
+      "lat": 59.436566,
+      "lng": 24.744504,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 600066366,
+      "name": "Kesklinna Kohvik",
+      "names": {
+        "en": "Caffe Centrale"
+      },
+      "lat": 59.436691,
+      "lng": 24.744544,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2025-12-23"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 640445925,
+      "name": "Olevi",
+      "names": {},
+      "lat": 59.439374,
+      "lng": 24.747354,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 766731776,
+      "name": "NOP",
+      "names": {},
+      "lat": 59.438367,
+      "lng": 24.776279,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-07-16"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 901433261,
+      "name": "Pappa Pizza",
+      "names": {},
+      "lat": 59.388037,
+      "lng": 24.683212,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2025-08-20"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1103313783,
+      "name": "Räägupesa",
+      "names": {},
+      "lat": 59.414991,
+      "lng": 24.718958,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-10-13"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1802635733,
+      "name": "Prisma",
+      "names": {},
+      "lat": 59.427355,
+      "lng": 24.653238,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=supermarket",
+      "check_date": "2025-04-12"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2680641303,
+      "name": "Kuusk Hernesto",
+      "names": {},
+      "lat": 59.424635,
+      "lng": 24.750063,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2025-05-23"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3319976167,
+      "name": "Vegan Restoran V",
+      "names": {
+        "zh": "素食"
+      },
+      "lat": 59.437107,
+      "lng": 24.74275,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2025-07-28"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4115864038,
+      "name": "Mahemarket - Parim Pood",
+      "names": {},
+      "lat": 59.413594,
+      "lng": 24.686953,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=supermarket",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4199632018,
+      "name": "Nihe Kohvik",
+      "names": {},
+      "lat": 59.439774,
+      "lng": 24.72875,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2025-07-22"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4207904289,
+      "name": "Peatus",
+      "names": {},
+      "lat": 59.440577,
+      "lng": 24.731353,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2025-06-10"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4240707167,
+      "name": "Pizza Kiosk",
+      "names": {},
+      "lat": 59.447371,
+      "lng": 24.692849,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-06-19"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4522308093,
+      "name": "LOCA",
+      "names": {},
+      "lat": 59.438381,
+      "lng": 24.751024,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2024-12-13"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4760035221,
+      "name": "Burger Box",
+      "names": {},
+      "lat": 59.441323,
+      "lng": 24.736826,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4764302821,
+      "name": "Rataskaevu 16",
+      "names": {},
+      "lat": 59.436867,
+      "lng": 24.742519,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2025-07-28"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4836683874,
+      "name": "Vigri",
+      "names": {},
+      "lat": 59.466915,
+      "lng": 24.826837,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5059873798,
+      "name": "Männi Kohvik",
+      "names": {},
+      "lat": 59.399549,
+      "lng": 24.679406,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2025-07-20"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5091478595,
+      "name": "Pho bar",
+      "names": {},
+      "lat": 59.431882,
+      "lng": 24.746366,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-08-20"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5103272258,
+      "name": "Humalakoda",
+      "names": {},
+      "lat": 59.440664,
+      "lng": 24.735472,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2025-05-22"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5303670021,
+      "name": null,
+      "names": {},
+      "lat": 59.369373,
+      "lng": 24.747534,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5691739921,
+      "name": "Charcoal Grill",
+      "names": {},
+      "lat": 59.448933,
+      "lng": 24.743274,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2025-05-17"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5700285947,
+      "name": null,
+      "names": {},
+      "lat": 59.369593,
+      "lng": 24.74366,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6139130787,
+      "name": null,
+      "names": {},
+      "lat": 59.491969,
+      "lng": 24.828639,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6180784703,
+      "name": "Põhjala Brewery & Tap Room",
+      "names": {},
+      "lat": 59.450211,
+      "lng": 24.72716,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=pub",
+      "check_date": "2024-08-01"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6561495685,
+      "name": "Purée",
+      "names": {},
+      "lat": 59.439025,
+      "lng": 24.758439,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2025-10-29"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6564590785,
+      "name": "OA Coffee",
+      "names": {},
+      "lat": 59.436293,
+      "lng": 24.749396,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2024-11-07"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6594454885,
+      "name": "Telliskivi Šašlõkk",
+      "names": {},
+      "lat": 59.44053,
+      "lng": 24.730442,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2025-10-18"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6697238485,
+      "name": "Toormoor",
+      "names": {},
+      "lat": 59.44042,
+      "lng": 24.748336,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2022-09-24"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6703714657,
+      "name": "Bopp",
+      "names": {},
+      "lat": 59.427392,
+      "lng": 24.73167,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2025-09-01"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6953768686,
+      "name": "Värav - coffee and toast",
+      "names": {},
+      "lat": 59.441497,
+      "lng": 24.750893,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2024-08-12"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7044602233,
+      "name": "Super Skypark",
+      "names": {},
+      "lat": 59.424183,
+      "lng": 24.792777,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=playground",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7110266786,
+      "name": "Meie Gruusia",
+      "names": {},
+      "lat": 59.441174,
+      "lng": 24.7363,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2025-08-21"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7112166385,
+      "name": "La Muu",
+      "names": {
+        "en": "La Muu"
+      },
+      "lat": 59.438884,
+      "lng": 24.728735,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=ice_cream",
+      "check_date": "2024-05-21"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7264857801,
+      "name": "Lore Bistroo",
+      "names": {},
+      "lat": 59.452437,
+      "lng": 24.730727,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7728526185,
+      "name": "1Falafel",
+      "names": {},
+      "lat": 59.443046,
+      "lng": 24.734753,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7780217516,
+      "name": "Kringel",
+      "names": {},
+      "lat": 59.421426,
+      "lng": 24.74015,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2025-06-05"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7812373852,
+      "name": "Margherita",
+      "names": {},
+      "lat": 59.438038,
+      "lng": 24.743171,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2025-05-07"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8022855778,
+      "name": null,
+      "names": {},
+      "lat": 59.419655,
+      "lng": 24.762479,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8022855780,
+      "name": null,
+      "names": {},
+      "lat": 59.419394,
+      "lng": 24.761532,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8231443074,
+      "name": "Raba!",
+      "names": {},
+      "lat": 59.424594,
+      "lng": 24.749057,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2025-04-01"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8690394121,
+      "name": "Friend's",
+      "names": {},
+      "lat": 59.40324,
+      "lng": 24.663036,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2025-04-24"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8722593642,
+      "name": "Rohe Kohvik",
+      "names": {},
+      "lat": 59.441253,
+      "lng": 24.738142,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2025-10-18"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8948962615,
+      "name": "Q Pizza & Pan",
+      "names": {},
+      "lat": 59.440535,
+      "lng": 24.730693,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2025-05-25"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9062728531,
+      "name": "Kopli Köök",
+      "names": {},
+      "lat": 59.45629,
+      "lng": 24.67365,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9759396799,
+      "name": null,
+      "names": {},
+      "lat": 59.406133,
+      "lng": 24.645938,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=drinking_water",
+      "check_date": "2026-01-03"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10033959351,
+      "name": null,
+      "names": {},
+      "lat": 59.415734,
+      "lng": 24.648764,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10132223920,
+      "name": "VegMachine Balta Vegan Food",
+      "names": {},
+      "lat": 59.44101,
+      "lng": 24.735235,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11035185867,
+      "name": "La Prima Pizza",
+      "names": {},
+      "lat": 59.434658,
+      "lng": 24.74381,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2025-10-14"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11068899305,
+      "name": "Veg b12",
+      "names": {},
+      "lat": 59.441135,
+      "lng": 24.736235,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2025-08-21"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11107028998,
+      "name": "Kolm Sibulat",
+      "names": {},
+      "lat": 59.433485,
+      "lng": 24.759817,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2025-05-26"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11333537934,
+      "name": "Akadeemia Food & Drinks",
+      "names": {},
+      "lat": 59.397268,
+      "lng": 24.666822,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2025-03-14"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11335633216,
+      "name": "Kajakas",
+      "names": {},
+      "lat": 59.446412,
+      "lng": 24.803135,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2025-12-18"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11426838970,
+      "name": "Klorofüll Green",
+      "names": {},
+      "lat": 59.408568,
+      "lng": 24.734526,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2025-06-30"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11795978869,
+      "name": "Veg Machine",
+      "names": {},
+      "lat": 59.44095,
+      "lng": 24.735664,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11799621784,
+      "name": "Hello",
+      "names": {},
+      "lat": 59.435849,
+      "lng": 24.747047,
+      "tags": {
+        "lgbtq": "primary"
+      },
+      "themes": [
+        "lgbtq"
+      ],
+      "category": "amenity=bar",
+      "check_date": "2024-04-07"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11874060002,
+      "name": "Wolt Market Haabersti",
+      "names": {
+        "et": "Haabersti Wolt Market"
+      },
+      "lat": 59.413891,
+      "lng": 24.660196,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=supermarket",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11921593487,
+      "name": "Maharaja",
+      "names": {},
+      "lat": 59.435444,
+      "lng": 24.744142,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2025-10-14"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11950523308,
+      "name": null,
+      "names": {},
+      "lat": 59.43247,
+      "lng": 24.785051,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=drinking_water",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11967143310,
+      "name": null,
+      "names": {},
+      "lat": 59.426783,
+      "lng": 24.742301,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=drinking_water",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12067924221,
+      "name": "Lòng Táng",
+      "names": {},
+      "lat": 59.440176,
+      "lng": 24.746254,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12165143288,
+      "name": "Fika Bakery",
+      "names": {},
+      "lat": 59.422677,
+      "lng": 24.73419,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-02-10"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12202163889,
+      "name": "Sai!",
+      "names": {},
+      "lat": 59.435747,
+      "lng": 24.749349,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13086759053,
+      "name": "Brööder",
+      "names": {},
+      "lat": 59.441186,
+      "lng": 24.734055,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13100369101,
+      "name": "Ülo",
+      "names": {},
+      "lat": 59.441809,
+      "lng": 24.73288,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13332905882,
+      "name": null,
+      "names": {},
+      "lat": 59.402667,
+      "lng": 24.698313,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=drinking_water",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13391301201,
+      "name": "KARTUL",
+      "names": {},
+      "lat": 59.441857,
+      "lng": 24.733115,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13410616995,
+      "name": null,
+      "names": {},
+      "lat": 59.405143,
+      "lng": 24.628168,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 26893577,
+      "name": "Staap",
+      "names": {},
+      "lat": 59.417483,
+      "lng": 24.720384,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-04-22"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 26900994,
+      "name": "Lendav Taldrik",
+      "names": {},
+      "lat": 59.438933,
+      "lng": 24.727917,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-05-23"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 48524949,
+      "name": null,
+      "names": {},
+      "lat": 59.451936,
+      "lng": 24.812556,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 53787154,
+      "name": "Staap",
+      "names": {},
+      "lat": 59.417483,
+      "lng": 24.720384,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-04-22"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 53801988,
+      "name": "Lendav Taldrik",
+      "names": {},
+      "lat": 59.438933,
+      "lng": 24.727917,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-05-23"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 109994924,
+      "name": null,
+      "names": {},
+      "lat": 59.44241,
+      "lng": 24.825418,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 115736092,
+      "name": null,
+      "names": {},
+      "lat": 59.44221,
+      "lng": 24.825311,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 183187363,
+      "name": null,
+      "names": {},
+      "lat": 59.452444,
+      "lng": 24.711318,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 219989848,
+      "name": null,
+      "names": {},
+      "lat": 59.44241,
+      "lng": 24.825418,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 228861519,
+      "name": null,
+      "names": {},
+      "lat": 59.406369,
+      "lng": 24.644829,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 228861520,
+      "name": null,
+      "names": {},
+      "lat": 59.406523,
+      "lng": 24.645273,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 231472184,
+      "name": null,
+      "names": {},
+      "lat": 59.44221,
+      "lng": 24.825311,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 366374726,
+      "name": null,
+      "names": {},
+      "lat": 59.452444,
+      "lng": 24.711318,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 431572047,
+      "name": null,
+      "names": {},
+      "lat": 59.45278,
+      "lng": 24.712003,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 457723038,
+      "name": null,
+      "names": {},
+      "lat": 59.406369,
+      "lng": 24.644829,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 457723040,
+      "name": null,
+      "names": {},
+      "lat": 59.406523,
+      "lng": 24.645273,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 544334559,
+      "name": null,
+      "names": {},
+      "lat": 59.454534,
+      "lng": 24.87405,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 549030000,
+      "name": null,
+      "names": {},
+      "lat": 59.427817,
+      "lng": 24.759133,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 549030530,
+      "name": null,
+      "names": {},
+      "lat": 59.434049,
+      "lng": 24.764623,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 549031320,
+      "name": "Lilleküla jalutusväljak",
+      "names": {},
+      "lat": 59.423496,
+      "lng": 24.730106,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 549031418,
+      "name": null,
+      "names": {},
+      "lat": 59.423439,
+      "lng": 24.729547,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 549031734,
+      "name": null,
+      "names": {},
+      "lat": 59.426491,
+      "lng": 24.710644,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 549031926,
+      "name": null,
+      "names": {},
+      "lat": 59.413743,
+      "lng": 24.69185,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 549032335,
+      "name": null,
+      "names": {},
+      "lat": 59.40873,
+      "lng": 24.666038,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 549032556,
+      "name": null,
+      "names": {},
+      "lat": 59.396306,
+      "lng": 24.675929,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 549032595,
+      "name": null,
+      "names": {},
+      "lat": 59.380731,
+      "lng": 24.663081,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 549032837,
+      "name": null,
+      "names": {},
+      "lat": 59.375247,
+      "lng": 24.712463,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 549033795,
+      "name": null,
+      "names": {},
+      "lat": 59.435657,
+      "lng": 24.734793,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 549033831,
+      "name": null,
+      "names": {},
+      "lat": 59.446951,
+      "lng": 24.871908,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 549033932,
+      "name": null,
+      "names": {},
+      "lat": 59.446752,
+      "lng": 24.870053,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 549033955,
+      "name": null,
+      "names": {},
+      "lat": 59.447856,
+      "lng": 24.879585,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 549034125,
+      "name": null,
+      "names": {},
+      "lat": 59.448421,
+      "lng": 24.879157,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 549034915,
+      "name": null,
+      "names": {},
+      "lat": 59.404021,
+      "lng": 24.708812,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 549223671,
+      "name": null,
+      "names": {},
+      "lat": 59.430895,
+      "lng": 24.797,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 720782081,
+      "name": "Hesburger",
+      "names": {
+        "en": "Hesburger",
+        "et": "Hesburger Sõpruse"
+      },
+      "lat": 59.411797,
+      "lng": 24.70738,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-03-28"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 737920768,
+      "name": null,
+      "names": {},
+      "lat": 59.463793,
+      "lng": 24.896951,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 863144094,
+      "name": null,
+      "names": {},
+      "lat": 59.45278,
+      "lng": 24.712003,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 904770370,
+      "name": "Sõjakooli park",
+      "names": {},
+      "lat": 59.403311,
+      "lng": 24.719568,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 948193805,
+      "name": null,
+      "names": {},
+      "lat": 59.433921,
+      "lng": 24.818416,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": "2022-08-15"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 963127014,
+      "name": "Ristiku koertepark",
+      "names": {
+        "et": "Ristiku koertepark"
+      },
+      "lat": 59.500405,
+      "lng": 24.889607,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 965008388,
+      "name": null,
+      "names": {},
+      "lat": 59.460222,
+      "lng": 24.676706,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 965008389,
+      "name": null,
+      "names": {},
+      "lat": 59.459607,
+      "lng": 24.678292,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 967291522,
+      "name": "K-Town",
+      "names": {},
+      "lat": 59.440415,
+      "lng": 24.730483,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2025-10-18"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 986426261,
+      "name": null,
+      "names": {},
+      "lat": 59.447071,
+      "lng": 24.852021,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1001974417,
+      "name": null,
+      "names": {},
+      "lat": 59.393682,
+      "lng": 24.652261,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=playground",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1004639791,
+      "name": null,
+      "names": {},
+      "lat": 59.394653,
+      "lng": 24.651735,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1005655948,
+      "name": null,
+      "names": {},
+      "lat": 59.394524,
+      "lng": 24.652886,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1005958349,
+      "name": null,
+      "names": {},
+      "lat": 59.394336,
+      "lng": 24.654594,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1019686571,
+      "name": null,
+      "names": {},
+      "lat": 59.447571,
+      "lng": 24.854243,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1062537792,
+      "name": null,
+      "names": {},
+      "lat": 59.352996,
+      "lng": 24.902174,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1088669118,
+      "name": null,
+      "names": {},
+      "lat": 59.454534,
+      "lng": 24.87405,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1098060000,
+      "name": null,
+      "names": {},
+      "lat": 59.427817,
+      "lng": 24.759133,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1098061060,
+      "name": null,
+      "names": {},
+      "lat": 59.434049,
+      "lng": 24.764623,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1098062640,
+      "name": "Lilleküla jalutusväljak",
+      "names": {},
+      "lat": 59.423496,
+      "lng": 24.730106,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1098062836,
+      "name": null,
+      "names": {},
+      "lat": 59.423439,
+      "lng": 24.729547,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1098063468,
+      "name": null,
+      "names": {},
+      "lat": 59.426491,
+      "lng": 24.710644,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1098063852,
+      "name": null,
+      "names": {},
+      "lat": 59.413743,
+      "lng": 24.69185,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1098064670,
+      "name": null,
+      "names": {},
+      "lat": 59.40873,
+      "lng": 24.666038,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1098065112,
+      "name": null,
+      "names": {},
+      "lat": 59.396306,
+      "lng": 24.675929,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1098065190,
+      "name": null,
+      "names": {},
+      "lat": 59.380731,
+      "lng": 24.663081,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1098065674,
+      "name": null,
+      "names": {},
+      "lat": 59.375247,
+      "lng": 24.712463,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1098067590,
+      "name": null,
+      "names": {},
+      "lat": 59.435657,
+      "lng": 24.734793,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1098067662,
+      "name": null,
+      "names": {},
+      "lat": 59.446951,
+      "lng": 24.871908,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1098067864,
+      "name": null,
+      "names": {},
+      "lat": 59.446752,
+      "lng": 24.870053,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1098067910,
+      "name": null,
+      "names": {},
+      "lat": 59.447856,
+      "lng": 24.879585,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1098068250,
+      "name": null,
+      "names": {},
+      "lat": 59.448421,
+      "lng": 24.879157,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1098069830,
+      "name": null,
+      "names": {},
+      "lat": 59.404021,
+      "lng": 24.708812,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1098447342,
+      "name": null,
+      "names": {},
+      "lat": 59.430895,
+      "lng": 24.797,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1119164668,
+      "name": null,
+      "names": {},
+      "lat": 59.441361,
+      "lng": 24.868689,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1158279683,
+      "name": null,
+      "names": {},
+      "lat": 59.516612,
+      "lng": 24.830989,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1206371566,
+      "name": null,
+      "names": {},
+      "lat": 59.444585,
+      "lng": 24.892249,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1224851706,
+      "name": null,
+      "names": {},
+      "lat": 59.446056,
+      "lng": 24.852194,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1225048826,
+      "name": null,
+      "names": {},
+      "lat": 59.436125,
+      "lng": 24.612065,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1287948526,
+      "name": "Pillapalu Plats",
+      "names": {},
+      "lat": 59.439024,
+      "lng": 24.798395,
+      "tags": {
+        "dog": "unleashed",
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1327041740,
+      "name": "Jalgtee",
+      "names": {},
+      "lat": 59.4959,
+      "lng": 24.848757,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1435707786,
+      "name": null,
+      "names": {},
+      "lat": 59.4437,
+      "lng": 24.698107,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1435707787,
+      "name": null,
+      "names": {},
+      "lat": 59.443504,
+      "lng": 24.697848,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1441564162,
+      "name": "Hesburger",
+      "names": {
+        "en": "Hesburger",
+        "et": "Hesburger Sõpruse"
+      },
+      "lat": 59.411797,
+      "lng": 24.70738,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-03-28"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1454885158,
+      "name": null,
+      "names": {},
+      "lat": 59.445037,
+      "lng": 24.893211,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1475841536,
+      "name": null,
+      "names": {},
+      "lat": 59.463793,
+      "lng": 24.896951,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1564161124,
+      "name": null,
+      "names": {},
+      "lat": 59.481825,
+      "lng": 24.854649,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1809540740,
+      "name": "Sõjakooli park",
+      "names": {},
+      "lat": 59.403311,
+      "lng": 24.719568,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1896387610,
+      "name": null,
+      "names": {},
+      "lat": 59.433921,
+      "lng": 24.818416,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": "2022-08-15"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1926254028,
+      "name": "Ristiku koertepark",
+      "names": {
+        "et": "Ristiku koertepark"
+      },
+      "lat": 59.500405,
+      "lng": 24.889607,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1930016776,
+      "name": null,
+      "names": {},
+      "lat": 59.460222,
+      "lng": 24.676706,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1930016778,
+      "name": null,
+      "names": {},
+      "lat": 59.459607,
+      "lng": 24.678292,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1934583044,
+      "name": "K-Town",
+      "names": {},
+      "lat": 59.440415,
+      "lng": 24.730483,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2025-10-18"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1972852522,
+      "name": null,
+      "names": {},
+      "lat": 59.447071,
+      "lng": 24.852021,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2003948834,
+      "name": null,
+      "names": {},
+      "lat": 59.393682,
+      "lng": 24.652261,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=playground",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2039373142,
+      "name": null,
+      "names": {},
+      "lat": 59.447571,
+      "lng": 24.854243,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2125075584,
+      "name": null,
+      "names": {},
+      "lat": 59.352996,
+      "lng": 24.902174,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2238329336,
+      "name": null,
+      "names": {},
+      "lat": 59.441361,
+      "lng": 24.868689,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2316559366,
+      "name": null,
+      "names": {},
+      "lat": 59.516612,
+      "lng": 24.830989,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2412743132,
+      "name": null,
+      "names": {},
+      "lat": 59.444585,
+      "lng": 24.892249,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2450097652,
+      "name": null,
+      "names": {},
+      "lat": 59.436125,
+      "lng": 24.612065,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2575897052,
+      "name": "Pillapalu Plats",
+      "names": {},
+      "lat": 59.439024,
+      "lng": 24.798395,
+      "tags": {
+        "dog": "unleashed",
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2871415572,
+      "name": null,
+      "names": {},
+      "lat": 59.4437,
+      "lng": 24.698107,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2871415574,
+      "name": null,
+      "names": {},
+      "lat": 59.443504,
+      "lng": 24.697848,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2909770316,
+      "name": null,
+      "names": {},
+      "lat": 59.445037,
+      "lng": 24.893211,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 3128322248,
+      "name": null,
+      "names": {},
+      "lat": 59.481825,
+      "lng": 24.854649,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    }
+  ]
+}

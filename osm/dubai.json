@@ -1,0 +1,1614 @@
+{
+  "version": 1,
+  "city": "dubai",
+  "country": "AE",
+  "region": "asia/gcc-states",
+  "extract_timestamp": "2026-10-27T21:23:59Z",
+  "radius_km": 10,
+  "bbox": [
+    55.21011,
+    25.17989,
+    55.40878,
+    25.35955
+  ],
+  "venues": [
+    {
+      "osm_type": "node",
+      "osm_id": 1866353517,
+      "name": "McDonald's",
+      "names": {
+        "ar": "ماكدونالدز"
+      },
+      "lat": 25.18717,
+      "lng": 55.239411,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2604691204,
+      "name": "ماكدونالدز",
+      "names": {
+        "ar": "ماكدونالدز",
+        "en": "McDonald's"
+      },
+      "lat": 25.221186,
+      "lng": 55.280958,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3120381919,
+      "name": "McDonald's",
+      "names": {
+        "ar": "ماكدونالدز",
+        "en": "McDonald's"
+      },
+      "lat": 25.251873,
+      "lng": 55.333319,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3712552594,
+      "name": "Kiku",
+      "names": {
+        "en": "Kiku"
+      },
+      "lat": 25.249191,
+      "lng": 55.347128,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3725053793,
+      "name": "Casa Mia",
+      "names": {
+        "en": "Casa Mia"
+      },
+      "lat": 25.24768,
+      "lng": 55.346083,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3725053794,
+      "name": "Sukhothai",
+      "names": {
+        "en": "Sukhothai"
+      },
+      "lat": 25.248615,
+      "lng": 55.347159,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3725053796,
+      "name": "Long Yin",
+      "names": {
+        "en": "Long Yin"
+      },
+      "lat": 25.248528,
+      "lng": 55.347647,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3725057565,
+      "name": "Méridien Village Terrace",
+      "names": {},
+      "lat": 25.248861,
+      "lng": 55.347076,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3825891566,
+      "name": "The Health Spot Cafe",
+      "names": {
+        "en": "The Health Spot Cafe"
+      },
+      "lat": 25.18502,
+      "lng": 55.265292,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4248969891,
+      "name": "ستاربكس",
+      "names": {
+        "ar": "ستاربكس",
+        "en": "Starbucks"
+      },
+      "lat": 25.191696,
+      "lng": 55.276314,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4386218193,
+      "name": "All the Perks",
+      "names": {
+        "en": "All the Perks"
+      },
+      "lat": 25.211508,
+      "lng": 55.276415,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4392893090,
+      "name": "ستاربكس",
+      "names": {
+        "ar": "ستاربكس",
+        "en": "Starbucks"
+      },
+      "lat": 25.215195,
+      "lng": 55.279035,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4400099589,
+      "name": "La Tablita",
+      "names": {
+        "en": "La Tablita"
+      },
+      "lat": 25.234651,
+      "lng": 55.324303,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4419435290,
+      "name": "Little Bangkok -urban thai",
+      "names": {
+        "en": "Little Bangkok -urban thai"
+      },
+      "lat": 25.216806,
+      "lng": 55.279926,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4507944117,
+      "name": "Ijaza Cafeteria",
+      "names": {
+        "ar": "كافيتريا الإجازة",
+        "en": "Ijaza Cafeteria"
+      },
+      "lat": 25.213016,
+      "lng": 55.248634,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4521753890,
+      "name": "The Cheesecake Factory",
+      "names": {
+        "en": "The Cheesecake Factory"
+      },
+      "lat": 25.196546,
+      "lng": 55.278979,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4521753893,
+      "name": "Second Cup",
+      "names": {
+        "en": "Second cup"
+      },
+      "lat": 25.198317,
+      "lng": 55.279965,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4521753899,
+      "name": "Cafe Blanc",
+      "names": {
+        "en": "Cafe Blanc"
+      },
+      "lat": 25.195785,
+      "lng": 55.278366,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4533092792,
+      "name": "Eat & Drink Restaurant",
+      "names": {
+        "en": "Eat & Drink Restaurant"
+      },
+      "lat": 25.243792,
+      "lng": 55.347334,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4558640989,
+      "name": "Al Hallab and Sweets",
+      "names": {
+        "en": "Al Hallab and Sweets"
+      },
+      "lat": 25.195934,
+      "lng": 55.277655,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4784955721,
+      "name": "Zahrath",
+      "names": {
+        "en": "Zahrath"
+      },
+      "lat": 25.270487,
+      "lng": 55.297051,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4787887031,
+      "name": "Chai Tea",
+      "names": {
+        "en": "Cha Cha Chai"
+      },
+      "lat": 25.221338,
+      "lng": 55.2805,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4911651277,
+      "name": "كاريبو كوفي",
+      "names": {
+        "ar": "كاريبو كوفي",
+        "en": "Caribou Coffee"
+      },
+      "lat": 25.196306,
+      "lng": 55.270544,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4911651278,
+      "name": "Grand Cafe",
+      "names": {
+        "en": "Grand Cafe"
+      },
+      "lat": 25.199159,
+      "lng": 55.276658,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4963640994,
+      "name": "تيم هورتونز",
+      "names": {
+        "ar": "تيم هورتونز",
+        "en": "Tim Hortons"
+      },
+      "lat": 25.221424,
+      "lng": 55.281195,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4995170422,
+      "name": "Be Super Natural Kitchen",
+      "names": {
+        "en": "Be Super Natural Kitchen"
+      },
+      "lat": 25.199166,
+      "lng": 55.277815,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5038155540,
+      "name": "ستاربكس",
+      "names": {
+        "ar": "ستاربكس",
+        "de": "Starbucks",
+        "en": "Starbucks"
+      },
+      "lat": 25.195382,
+      "lng": 55.279014,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5038155545,
+      "name": "Chili's",
+      "names": {
+        "de": "Chili's",
+        "en": "Chili's"
+      },
+      "lat": 25.198163,
+      "lng": 55.278955,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5038415048,
+      "name": "ستاربكس",
+      "names": {
+        "ar": "ستاربكس",
+        "de": "Starbucks",
+        "en": "Starbucks"
+      },
+      "lat": 25.199859,
+      "lng": 55.274709,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5279103421,
+      "name": "تيم هورتونز",
+      "names": {
+        "ar": "تيم هورتونز",
+        "cs": "Kavárna Tim Hortons",
+        "de": "Tim Hortons",
+        "en": "Tim Hortons"
+      },
+      "lat": 25.195724,
+      "lng": 55.278142,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5782796879,
+      "name": null,
+      "names": {},
+      "lat": 25.253946,
+      "lng": 55.302773,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=food_court",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5831038926,
+      "name": "Caffè Nero",
+      "names": {},
+      "lat": 25.248913,
+      "lng": 55.361368,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6074464202,
+      "name": "Costa",
+      "names": {},
+      "lat": 25.243255,
+      "lng": 55.371649,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6263142985,
+      "name": "دورز فريستايل غرل",
+      "names": {
+        "ar": "دورز فريستايل غرل",
+        "en": "Doors Freestyle Grill"
+      },
+      "lat": 25.25696,
+      "lng": 55.311951,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6300460040,
+      "name": "McDonald's",
+      "names": {},
+      "lat": 25.233601,
+      "lng": 55.356806,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6621881180,
+      "name": "ستاربكس",
+      "names": {
+        "ar": "ستاربكس",
+        "en": "Starbucks"
+      },
+      "lat": 25.19579,
+      "lng": 55.280279,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6621881182,
+      "name": "ستاربكس",
+      "names": {
+        "ar": "ستاربكس",
+        "en": "Starbucks"
+      },
+      "lat": 25.196743,
+      "lng": 55.280263,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7155814676,
+      "name": "% Arabica",
+      "names": {},
+      "lat": 25.19579,
+      "lng": 55.278803,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7162287703,
+      "name": "% Arabica",
+      "names": {
+        "en": "% Arabica"
+      },
+      "lat": 25.215022,
+      "lng": 55.408371,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7575040090,
+      "name": "% Arabica",
+      "names": {
+        "en": "% Arabica"
+      },
+      "lat": 25.198044,
+      "lng": 55.278304,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7843646105,
+      "name": "McDonald's",
+      "names": {},
+      "lat": 25.206485,
+      "lng": 55.263183,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7843656858,
+      "name": "McDonald's",
+      "names": {},
+      "lat": 25.200222,
+      "lng": 55.249405,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8024807443,
+      "name": "Poke & Co",
+      "names": {},
+      "lat": 25.251117,
+      "lng": 55.333939,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8065256062,
+      "name": "Acai & Co.",
+      "names": {},
+      "lat": 25.251278,
+      "lng": 55.333004,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8317602618,
+      "name": null,
+      "names": {
+        "en": "Shanghai Me"
+      },
+      "lat": 25.214571,
+      "lng": 55.282264,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8318942017,
+      "name": null,
+      "names": {
+        "en": "ShanghaiMe"
+      },
+      "lat": 25.214093,
+      "lng": 55.282756,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8540611969,
+      "name": "تيم هورتونز",
+      "names": {
+        "ar": "تيم هورتونز",
+        "en": "Tim Hortons"
+      },
+      "lat": 25.254564,
+      "lng": 55.303502,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8676608172,
+      "name": "IKEA Restaurant",
+      "names": {
+        "en": "IKEA Restaurant",
+        "ru": "Ресторан ИКЕА"
+      },
+      "lat": 25.223661,
+      "lng": 55.355943,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8856138527,
+      "name": "Bull & Bear DIFC",
+      "names": {},
+      "lat": 25.210844,
+      "lng": 55.282022,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8872381774,
+      "name": "Seleraku Restaurant",
+      "names": {},
+      "lat": 25.244331,
+      "lng": 55.277389,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8872383221,
+      "name": "Asia Kitchen",
+      "names": {},
+      "lat": 25.254215,
+      "lng": 55.303422,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8944232394,
+      "name": "Forever Rose",
+      "names": {},
+      "lat": 25.200809,
+      "lng": 55.249811,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9628741071,
+      "name": "Casato Cafe",
+      "names": {},
+      "lat": 25.244716,
+      "lng": 55.276902,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9795043886,
+      "name": "Block 92",
+      "names": {
+        "en": "Block 92"
+      },
+      "lat": 25.184186,
+      "lng": 55.226625,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10017650325,
+      "name": "L’eto",
+      "names": {},
+      "lat": 25.207746,
+      "lng": 55.263322,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10120829758,
+      "name": "Fuze Caffe",
+      "names": {},
+      "lat": 25.183472,
+      "lng": 55.255367,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10155084566,
+      "name": "Subway",
+      "names": {},
+      "lat": 25.185515,
+      "lng": 55.24126,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10292537460,
+      "name": "Giraffe",
+      "names": {},
+      "lat": 25.242197,
+      "lng": 55.374686,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10292550518,
+      "name": "Pret A Manger",
+      "names": {},
+      "lat": 25.242348,
+      "lng": 55.374606,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10679928342,
+      "name": "BBET Dog Park",
+      "names": {},
+      "lat": 25.188655,
+      "lng": 55.264964,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10716118200,
+      "name": "Century Express",
+      "names": {},
+      "lat": 25.243835,
+      "lng": 55.347682,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10863830605,
+      "name": "Comptoir Libanais",
+      "names": {},
+      "lat": 25.244367,
+      "lng": 55.370331,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10886119653,
+      "name": "Kulfi Chai",
+      "names": {},
+      "lat": 25.246548,
+      "lng": 55.274929,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11007369655,
+      "name": "Nalan",
+      "names": {},
+      "lat": 25.254359,
+      "lng": 55.303524,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11012436567,
+      "name": "L'eto",
+      "names": {},
+      "lat": 25.197097,
+      "lng": 55.279845,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11035870988,
+      "name": "Bubee Drinks",
+      "names": {},
+      "lat": 25.222763,
+      "lng": 55.355633,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11161909165,
+      "name": "The Yellow Chilli",
+      "names": {},
+      "lat": 25.254307,
+      "lng": 55.303486,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11267062691,
+      "name": "Veg World Restaurant",
+      "names": {},
+      "lat": 25.260779,
+      "lng": 55.295292,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11341455884,
+      "name": "Rajwadi Vegetarian Restaurant",
+      "names": {},
+      "lat": 25.261774,
+      "lng": 55.29304,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11394440709,
+      "name": "Pancake House International",
+      "names": {},
+      "lat": 25.253527,
+      "lng": 55.303055,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2023-12-04"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11394471631,
+      "name": "Nando's",
+      "names": {},
+      "lat": 25.253698,
+      "lng": 55.303146,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11394474594,
+      "name": "Kyochon",
+      "names": {},
+      "lat": 25.25376,
+      "lng": 55.303191,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2023-12-05"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11394477385,
+      "name": "Caribou Coffee",
+      "names": {},
+      "lat": 25.25385,
+      "lng": 55.303243,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11409880815,
+      "name": "Vegan Burger",
+      "names": {},
+      "lat": 25.197958,
+      "lng": 55.276622,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11438574376,
+      "name": "% Arabica",
+      "names": {
+        "en": "% Arabica"
+      },
+      "lat": 25.197952,
+      "lng": 55.279877,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11505874207,
+      "name": "La Brioche",
+      "names": {
+        "en": "La Brioche"
+      },
+      "lat": 25.214575,
+      "lng": 55.408355,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11753597869,
+      "name": "IchiRyu Ramen House",
+      "names": {},
+      "lat": 25.247398,
+      "lng": 55.277065,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11754877022,
+      "name": "Seven Hills",
+      "names": {},
+      "lat": 25.247577,
+      "lng": 55.276751,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11754877023,
+      "name": "Desi Firangi",
+      "names": {},
+      "lat": 25.247311,
+      "lng": 55.277133,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11805313769,
+      "name": "Batoni",
+      "names": {},
+      "lat": 25.207619,
+      "lng": 55.342264,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11835509269,
+      "name": "Qartuli Authentic Georgian",
+      "names": {},
+      "lat": 25.194776,
+      "lng": 55.283192,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11866622444,
+      "name": "Kimura-ya Restaurant Anantara",
+      "names": {},
+      "lat": 25.185858,
+      "lng": 55.264173,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12078957969,
+      "name": "La Gaufrett",
+      "names": {},
+      "lat": 25.251166,
+      "lng": 55.332743,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12542086502,
+      "name": "Super Bowl",
+      "names": {},
+      "lat": 25.254672,
+      "lng": 55.328017,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12554512801,
+      "name": "Khan Murjan",
+      "names": {
+        "en": "Khan Murjan Restaurant"
+      },
+      "lat": 25.229304,
+      "lng": 55.319326,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12556668001,
+      "name": "Sugar Bae",
+      "names": {},
+      "lat": 25.213002,
+      "lng": 55.248621,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 14191171019,
+      "name": "Le Flamant Rose",
+      "names": {},
+      "lat": 25.206043,
+      "lng": 55.34337,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 636072615,
+      "name": "The Green Planet cafe",
+      "names": {},
+      "lat": 25.206201,
+      "lng": 55.260053,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1115219518,
+      "name": "Costa",
+      "names": {
+        "ar": "كوستا",
+        "en": "Costa"
+      },
+      "lat": 25.19737,
+      "lng": 55.246688,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1272145230,
+      "name": "The Green Planet cafe",
+      "names": {},
+      "lat": 25.206201,
+      "lng": 55.260053,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1528337950,
+      "name": "Downtown Dog Park",
+      "names": {},
+      "lat": 25.186124,
+      "lng": 55.27691,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2230439036,
+      "name": "Costa",
+      "names": {
+        "ar": "كوستا",
+        "en": "Costa"
+      },
+      "lat": 25.19737,
+      "lng": 55.246688,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 3056675900,
+      "name": "Downtown Dog Park",
+      "names": {},
+      "lat": 25.186124,
+      "lng": 55.27691,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    }
+  ]
+}

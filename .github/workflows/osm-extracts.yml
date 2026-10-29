@@ -1,0 +1,124 @@
+# OpenStreetMap venues for WUP Travel's themed pages, from Geofabrik's free
+# extracts -- because the public Overpass server refuses automated use.
+# Moved here from wup-travel (its B44f item 1); wup-travel's `osm_import`
+# step reads the files this writes, from this public repository.
+#
+# For each region in data/regions.json, ONE AT A TIME: download its extract,
+# cut a box around each of its cities (data/config.json), keep the venues
+# the filter names (src/venues.ts), and write osm/<slug>.json -- only when
+# its content changed. Then delete the extract and go on, so the runner's
+# disk holds one region at most. Then docs/osm-coverage.md, and one commit to
+# main of THIS repository, with its own GITHUB_TOKEN (contents: write): no
+# secret, and no token for any other repository.
+#
+# The files are WUP Travel's ODbL release: README.md says how they are made,
+# LICENSE-DATA under what licence. Nothing here touches a database.
+#
+# A region that fails (a path Geofabrik's index lacks, a download that
+# breaks or is not a PBF) is named in the coverage report and its cities keep
+# last month's files; the run goes on. The job fails at the end if any
+# region failed, so the run shows red while the report still lands.
+#
+# Every cause lands in the report AND as an ::error:: annotation, because the
+# run's log is not readable by everyone who reads the result (`gh run view`
+# shows annotations): per download its HTTP status, Content-Type, bytes and
+# whether `osmium fileinfo` reads it; per city osmium's own first line of
+# error; per region the index lacks, the nearest regions it has. The
+# download/cut loop is scripts/extract.sh.
+name: OSM extracts
+
+on:
+  workflow_dispatch: {}
+  schedule:
+    # Monthly, on the 3rd at 04:17 UTC: Geofabrik's daily extracts are
+    # complete by then, and off the hour.
+    - cron: "17 4 3 * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: osm-extracts
+  cancel-in-progress: false
+
+jobs:
+  extracts:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 120
+    env:
+      # Geofabrik asks automated clients to say who they are. This repository
+      # is the contact channel: a public repository carries no one's address.
+      OSM_USER_AGENT: "WUP Travel OSM extracts; https://wuptravel.com; https://github.com/Grapejuice-io/wup-osm"
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: "1.2.19"
+
+      - name: Install osmium
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq osmium-tool
+          osmium --version | head -1
+
+      # Every region path is checked against the index, and one the index
+      # holds under another path is found BY NAME and written to
+      # data/regions.json (committed below). One it cannot find names the
+      # nearest regions it has, in the report and as an annotation.
+      - name: Resolve every region against Geofabrik's index
+        run: |
+          got=$(curl -sS -L --retry 3 -A "$OSM_USER_AGENT" -w '%{http_code} %{content_type} %{size_download} bytes' \
+            -o "$RUNNER_TEMP/index.json" https://download.geofabrik.de/index-v1-nogeom.json 2> "$RUNNER_TEMP/index.err") || true
+          if ! bun scripts/cli.ts resolve "$RUNNER_TEMP/index.json" > "$RUNNER_TEMP/regions.tsv" 2> "$RUNNER_TEMP/resolve.err"; then
+            # Not fatal: every region is then tried as written, and the
+            # report says why none was checked.
+            first=$(head -c 200 "$RUNNER_TEMP/index.json" 2> /dev/null | LC_ALL=C tr -c '[:print:]' ' ')
+            why="Geofabrik's index could not be read ($got; $(head -n 1 "$RUNNER_TEMP/index.err" 2> /dev/null)$(grep -m 1 -i error "$RUNNER_TEMP/resolve.err")), first 200 bytes: $first; every region is tried as written"
+            printf 'index\t-\t%s\n' "$why" > "$RUNNER_TEMP/regions.tsv"
+          fi
+          while IFS=$'\t' read -r status region why; do
+            why=${why//'%'/'%25'}
+            if [ "$status" = resolved ]; then echo "::notice::$why"; else echo "::error::$why"; fi
+          done < "$RUNNER_TEMP/regions.tsv"
+
+      # scripts/extract.sh records every download (status, type, bytes,
+      # whether osmium reads it) and osmium's own error per city, in the
+      # report and as annotations.
+      - name: Extract, filter and write each city
+        run: |
+          started=$(date +%s)
+          bash scripts/extract.sh
+          echo "seconds=$(( $(date +%s) - started ))" >> "$GITHUB_ENV"
+
+      - name: Coverage report
+        run: bun scripts/cli.ts coverage "$RUNNER_TEMP/failures.tsv" "${seconds:-}" "$RUNNER_TEMP/downloads.tsv" "$RUNNER_TEMP/regions.tsv"
+
+      - name: Commit to main
+        run: |
+          git config user.name "wup-osm-extracts[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add osm docs/osm-coverage.md data/regions.json
+          if git diff --cached --quiet; then
+            echo "nothing changed"
+            exit 0
+          fi
+          changed=$(git diff --cached --name-only -- osm | grep -c '\.json$' || true)
+          git commit -q -m "OSM extracts: ${changed} city file(s) changed, coverage report" \
+            -m "Written by .github/workflows/osm-extracts.yml. © OpenStreetMap contributors, ODbL 1.0 (LICENSE-DATA); the method is README.md."
+          # main may have moved while this ran: rebase onto it and try again.
+          for attempt in 1 2 3 4 5; do
+            git pull -q --rebase origin main && git push -q origin HEAD:main && exit 0
+            sleep $(( attempt * 10 ))
+          done
+          echo "::error::could not push to main after five tries"
+          exit 1
+
+      - name: Fail if any region failed
+        run: |
+          if [ -s "$RUNNER_TEMP/failures.tsv" ]; then
+            echo "::error::$(cut -f1 "$RUNNER_TEMP/failures.tsv" | sort -u | tr '\n' ' ')not read; see docs/osm-coverage.md"
+            exit 1
+          fi

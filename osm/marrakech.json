@@ -1,0 +1,279 @@
+{
+  "version": 1,
+  "city": "marrakech",
+  "country": "MA",
+  "region": "africa/morocco",
+  "extract_timestamp": "2026-10-27T21:23:59Z",
+  "radius_km": 10,
+  "bbox": [
+    -8.08658,
+    31.53964,
+    -7.87558,
+    31.7193
+  ],
+  "venues": [
+    {
+      "osm_type": "node",
+      "osm_id": 4379055590,
+      "name": "Henna Art Cafe",
+      "names": {},
+      "lat": 31.623731,
+      "lng": -7.987083,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5529573324,
+      "name": "عند حسن",
+      "names": {
+        "ar": "عند حسن",
+        "en": "chez Hassan"
+      },
+      "lat": 31.631873,
+      "lng": -8.011507,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5529573326,
+      "name": "Bistro La Comedie",
+      "names": {},
+      "lat": 31.631215,
+      "lng": -8.011943,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5640112829,
+      "name": "Naranj Libanese",
+      "names": {},
+      "lat": 31.624537,
+      "lng": -7.985213,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2023-03-27"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6188520785,
+      "name": "Koulchi Zine - Rooftop Restaurant",
+      "names": {},
+      "lat": 31.6218,
+      "lng": -7.986219,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6416463827,
+      "name": null,
+      "names": {
+        "en": "Dar Yemma"
+      },
+      "lat": 31.653279,
+      "lng": -8.008379,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6952633842,
+      "name": "Rhiad Ecila",
+      "names": {},
+      "lat": 31.629138,
+      "lng": -7.986102,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "tourism=hotel",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6993611185,
+      "name": "Broc The Kasbah",
+      "names": {
+        "en": "Broc The Kasbah"
+      },
+      "lat": 31.634002,
+      "lng": -7.990776,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10724579405,
+      "name": "PATTIZ",
+      "names": {},
+      "lat": 31.641102,
+      "lng": -8.02761,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10741402005,
+      "name": "Showtime coffee Shop",
+      "names": {},
+      "lat": 31.649202,
+      "lng": -8.011866,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12469280219,
+      "name": "Storytelling Cafe",
+      "names": {},
+      "lat": 31.631858,
+      "lng": -7.984906,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13846867619,
+      "name": "Alaseel",
+      "names": {},
+      "lat": 31.629948,
+      "lng": -7.983745,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13846867623,
+      "name": "Kesh Cup",
+      "names": {},
+      "lat": 31.63146,
+      "lng": -7.989177,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13943314801,
+      "name": "Bagatelle",
+      "names": {},
+      "lat": 31.633077,
+      "lng": -8.013607,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-06-14"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 329017101,
+      "name": "Association Amal - Women Training Center and Moroccan Restaurant",
+      "names": {},
+      "lat": 31.639071,
+      "lng": -8.013756,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 658034202,
+      "name": "Association Amal - Women Training Center and Moroccan Restaurant",
+      "names": {},
+      "lat": 31.639071,
+      "lng": -8.013756,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    }
+  ]
+}

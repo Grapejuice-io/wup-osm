@@ -1,0 +1,394 @@
+{
+  "version": 1,
+  "city": "paphos",
+  "country": "CY",
+  "region": "europe/cyprus",
+  "extract_timestamp": "2026-10-27T21:23:59Z",
+  "radius_km": 10,
+  "bbox": [
+    32.31715,
+    34.6863,
+    32.53588,
+    34.86596
+  ],
+  "venues": [
+    {
+      "osm_type": "node",
+      "osm_id": 123212062,
+      "name": "Sail at Castle",
+      "names": {},
+      "lat": 34.755451,
+      "lng": 32.407951,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-05-10"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 123212994,
+      "name": "Nautico",
+      "names": {},
+      "lat": 34.754684,
+      "lng": 32.407188,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 138274679,
+      "name": "Pizza Express",
+      "names": {},
+      "lat": 34.755884,
+      "lng": 32.413413,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-05-10"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 138278983,
+      "name": "deck cafe-bar",
+      "names": {},
+      "lat": 34.751405,
+      "lng": 32.420905,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 306329004,
+      "name": "Pinguino",
+      "names": {},
+      "lat": 34.756442,
+      "lng": 32.416396,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-08-27"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 984872210,
+      "name": "The Harbour",
+      "names": {
+        "de": "Paphos - The Harbour"
+      },
+      "lat": 34.755954,
+      "lng": 32.411326,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-05-10"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1510310053,
+      "name": "Arapis",
+      "names": {},
+      "lat": 34.857992,
+      "lng": 32.360932,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2016139257,
+      "name": "Myrra Tavern",
+      "names": {},
+      "lat": 34.786695,
+      "lng": 32.42609,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-10-09"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2936773357,
+      "name": "The Moorings",
+      "names": {},
+      "lat": 34.755758,
+      "lng": 32.411864,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-05-10"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3294281203,
+      "name": "Curry House",
+      "names": {},
+      "lat": 34.757379,
+      "lng": 32.422088,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-10-06"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4265639792,
+      "name": "Mandra Tavern",
+      "names": {},
+      "lat": 34.756933,
+      "lng": 32.416379,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2025-10-11"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4793814235,
+      "name": "Hunan",
+      "names": {
+        "en": "Hunan"
+      },
+      "lat": 34.765821,
+      "lng": 32.411085,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2022-11-08"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5591021322,
+      "name": "Mar Bianco Cafe",
+      "names": {
+        "en": "Mar Bianco Cafe"
+      },
+      "lat": 34.755426,
+      "lng": 32.412915,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5634148327,
+      "name": "Indian Thali Express",
+      "names": {},
+      "lat": 34.767253,
+      "lng": 32.410727,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2025-10-09"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5795108868,
+      "name": "Taste Of Thai",
+      "names": {},
+      "lat": 34.819932,
+      "lng": 32.410803,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2024-11-23"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5913666237,
+      "name": "Da Vinci Gelateria",
+      "names": {},
+      "lat": 34.754387,
+      "lng": 32.406951,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=ice_cream",
+      "check_date": "2026-05-10"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5960948323,
+      "name": "Bacchus",
+      "names": {},
+      "lat": 34.755539,
+      "lng": 32.413691,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6936695571,
+      "name": "Meraki Market Cafe",
+      "names": {},
+      "lat": 34.804102,
+      "lng": 32.397945,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-09-28"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10146786968,
+      "name": "Dog’s Beach",
+      "names": {},
+      "lat": 34.725588,
+      "lng": 32.464602,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 13953698,
+      "name": "Bania",
+      "names": {
+        "el": "ΜΠΑΝΙΑ"
+      },
+      "lat": 34.755687,
+      "lng": 32.415147,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-05-10"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 27907396,
+      "name": "Bania",
+      "names": {
+        "el": "ΜΠΑΝΙΑ"
+      },
+      "lat": 34.755687,
+      "lng": 32.415147,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-05-10"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 960093207,
+      "name": "Antasia Beach Club",
+      "names": {},
+      "lat": 34.750042,
+      "lng": 32.421891,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2023-04-27"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1920186414,
+      "name": "Antasia Beach Club",
+      "names": {},
+      "lat": 34.750042,
+      "lng": 32.421891,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2023-04-27"
+    }
+  ]
+}

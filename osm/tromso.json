@@ -1,0 +1,178 @@
+{
+  "version": 1,
+  "city": "tromso",
+  "country": "NO",
+  "region": "europe/norway",
+  "extract_timestamp": "2026-10-27T21:23:59Z",
+  "radius_km": 10,
+  "bbox": [
+    18.6987,
+    69.55978,
+    19.21532,
+    69.73944
+  ],
+  "venues": [
+    {
+      "osm_type": "node",
+      "osm_id": 2089686074,
+      "name": "Peppes Pizza - Tromsø",
+      "names": {},
+      "lat": 69.650976,
+      "lng": 18.959353,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5491972063,
+      "name": "Kafe Kringla",
+      "names": {},
+      "lat": 69.651387,
+      "lng": 18.953173,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7812508834,
+      "name": "Koselig Kafe & Hjemmebakeri",
+      "names": {},
+      "lat": 69.647354,
+      "lng": 18.953694,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-08-08"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9015303628,
+      "name": "Egon Jekta",
+      "names": {},
+      "lat": 69.67402,
+      "lng": 18.925472,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11049708605,
+      "name": "Backstube",
+      "names": {
+        "no": "Backstube Tromsø"
+      },
+      "lat": 69.649756,
+      "lng": 18.955712,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=bakery",
+      "check_date": "2026-09-07"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12430148939,
+      "name": "Fint",
+      "names": {},
+      "lat": 69.652188,
+      "lng": 18.96057,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2024-12"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1067880206,
+      "name": null,
+      "names": {},
+      "lat": 69.662802,
+      "lng": 18.946873,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1067880207,
+      "name": null,
+      "names": {},
+      "lat": 69.66292,
+      "lng": 18.947433,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2135760412,
+      "name": null,
+      "names": {},
+      "lat": 69.662802,
+      "lng": 18.946873,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2135760414,
+      "name": null,
+      "names": {},
+      "lat": 69.66292,
+      "lng": 18.947433,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    }
+  ]
+}

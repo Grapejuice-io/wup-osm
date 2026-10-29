@@ -1,0 +1,2440 @@
+{
+  "version": 1,
+  "city": "seville",
+  "country": "ES",
+  "region": "europe/spain/andalucia",
+  "extract_timestamp": "2026-10-27T21:23:59Z",
+  "radius_km": 10,
+  "bbox": [
+    -6.10806,
+    37.29878,
+    -5.88194,
+    37.47844
+  ],
+  "venues": [
+    {
+      "osm_type": "node",
+      "osm_id": 491029177,
+      "name": "Atrevida",
+      "names": {},
+      "lat": 37.396533,
+      "lng": -5.993887,
+      "tags": {
+        "lgbtq": "primary"
+      },
+      "themes": [
+        "lgbtq"
+      ],
+      "category": "amenity=bar",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 747525520,
+      "name": "La Gitane Loca",
+      "names": {},
+      "lat": 37.389732,
+      "lng": -5.991678,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2025-02-11"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 750034809,
+      "name": "Itaca",
+      "names": {},
+      "lat": 37.395242,
+      "lng": -5.994676,
+      "tags": {
+        "lgbtq": "primary"
+      },
+      "themes": [
+        "lgbtq"
+      ],
+      "category": "amenity=nightclub",
+      "check_date": "2023-10-19"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 750035307,
+      "name": "Men To Men MTM",
+      "names": {},
+      "lat": 37.39599,
+      "lng": -5.994753,
+      "tags": {
+        "lgbtq": "primary"
+      },
+      "themes": [
+        "lgbtq"
+      ],
+      "category": "amenity=pub",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2683222707,
+      "name": null,
+      "names": {},
+      "lat": 37.394223,
+      "lng": -5.931172,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3149399838,
+      "name": "Dodici Brunch & Coffee",
+      "names": {},
+      "lat": 37.393004,
+      "lng": -5.998505,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4115899389,
+      "name": "Arte y Sabor",
+      "names": {},
+      "lat": 37.397897,
+      "lng": -5.993441,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4158087195,
+      "name": "Al Solito Posto",
+      "names": {},
+      "lat": 37.397195,
+      "lng": -5.994486,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2023-10-20"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4207395494,
+      "name": "Mesón Serranito",
+      "names": {},
+      "lat": 37.385935,
+      "lng": -5.996881,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2025-02-10"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4853345623,
+      "name": "Restaurant Gaia",
+      "names": {},
+      "lat": 37.391204,
+      "lng": -5.996155,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4962537069,
+      "name": "La Bartola",
+      "names": {},
+      "lat": 37.386815,
+      "lng": -5.987986,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5041864121,
+      "name": "El librero tapas",
+      "names": {},
+      "lat": 37.385676,
+      "lng": -5.990216,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5094362130,
+      "name": "Milk Away",
+      "names": {},
+      "lat": 37.387941,
+      "lng": -5.993532,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5893377384,
+      "name": null,
+      "names": {},
+      "lat": 37.396851,
+      "lng": -5.942483,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6019039986,
+      "name": "Centro Gaia",
+      "names": {
+        "es": "Centro Gaia - Bio Vegetariano"
+      },
+      "lat": 37.390241,
+      "lng": -6.001679,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6032701686,
+      "name": "Las Escobas",
+      "names": {},
+      "lat": 37.387023,
+      "lng": -5.993108,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-03-16"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6302895568,
+      "name": "La despensa Ecological",
+      "names": {},
+      "lat": 37.395215,
+      "lng": -5.991214,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=convenience",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6309103461,
+      "name": "Veganitessen",
+      "names": {},
+      "lat": 37.38752,
+      "lng": -5.999728,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6651837187,
+      "name": "Pizzería al Natural",
+      "names": {},
+      "lat": 37.381264,
+      "lng": -6.005634,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8143518814,
+      "name": "Ozturk Kebab Fast Food",
+      "names": {},
+      "lat": 37.406484,
+      "lng": -5.934382,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8837948705,
+      "name": "Condendê",
+      "names": {},
+      "lat": 37.399468,
+      "lng": -5.991109,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9359010342,
+      "name": "Vegan Rock",
+      "names": {},
+      "lat": 37.37595,
+      "lng": -6.003589,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9693069073,
+      "name": "Parque Federico García Lorca",
+      "names": {},
+      "lat": 37.377211,
+      "lng": -5.971489,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=drinking_water",
+      "check_date": "2025-08-12"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10113917670,
+      "name": "Moya Brunch",
+      "names": {},
+      "lat": 37.38623,
+      "lng": -5.987267,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10688691359,
+      "name": "Al Wadi",
+      "names": {},
+      "lat": 37.386765,
+      "lng": -5.994922,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2025-02-10"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11176082394,
+      "name": "Veganí",
+      "names": {},
+      "lat": 37.400365,
+      "lng": -5.991859,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11677185069,
+      "name": "Buga Ramen",
+      "names": {
+        "ja": "ブガ ラーメン"
+      },
+      "lat": 37.389142,
+      "lng": -5.996489,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2024-03-01"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 28089481,
+      "name": "Parque Agumore",
+      "names": {
+        "en": "Agumore's Park"
+      },
+      "lat": 37.39377,
+      "lng": -5.977003,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 36643803,
+      "name": "Parque Canino",
+      "names": {},
+      "lat": 37.351224,
+      "lng": -6.04084,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 56178962,
+      "name": "Parque Agumore",
+      "names": {
+        "en": "Agumore's Park"
+      },
+      "lat": 37.39377,
+      "lng": -5.977003,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 61323608,
+      "name": "Parque Cuatro Estaciones",
+      "names": {},
+      "lat": 37.338761,
+      "lng": -5.93718,
+      "tags": {
+        "dog": "unleashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 79593744,
+      "name": "Parque de la Huerta",
+      "names": {},
+      "lat": 37.343143,
+      "lng": -6.06651,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 122647216,
+      "name": "Parque Cuatro Estaciones",
+      "names": {},
+      "lat": 37.338761,
+      "lng": -5.93718,
+      "tags": {
+        "dog": "unleashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 159187488,
+      "name": "Parque de la Huerta",
+      "names": {},
+      "lat": 37.343143,
+      "lng": -6.06651,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 180236778,
+      "name": "Sendero Pabmore",
+      "names": {},
+      "lat": 37.39411,
+      "lng": -5.97687,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 180236782,
+      "name": "Sendero Marimore",
+      "names": {},
+      "lat": 37.393483,
+      "lng": -5.976675,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 183160482,
+      "name": "Al Wadi",
+      "names": {},
+      "lat": 37.386775,
+      "lng": -5.994808,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2025-11-24"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 258986750,
+      "name": "Parque Arcón",
+      "names": {},
+      "lat": 37.38988,
+      "lng": -6.086192,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 303497566,
+      "name": "Parque Bodeguero andaluz",
+      "names": {},
+      "lat": 37.386193,
+      "lng": -6.069434,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 310850982,
+      "name": null,
+      "names": {},
+      "lat": 37.358429,
+      "lng": -6.047434,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 366320964,
+      "name": "Al Wadi",
+      "names": {},
+      "lat": 37.386775,
+      "lng": -5.994808,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2025-11-24"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 403388507,
+      "name": null,
+      "names": {},
+      "lat": 37.387253,
+      "lng": -6.084384,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 422000116,
+      "name": null,
+      "names": {},
+      "lat": 37.413707,
+      "lng": -5.923945,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 474616021,
+      "name": null,
+      "names": {},
+      "lat": 37.364396,
+      "lng": -6.044214,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 487185151,
+      "name": null,
+      "names": {},
+      "lat": 37.410187,
+      "lng": -6.081411,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 517973500,
+      "name": "Parque Arcón",
+      "names": {},
+      "lat": 37.38988,
+      "lng": -6.086192,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 538103926,
+      "name": "Parque Podenco andaluz",
+      "names": {},
+      "lat": 37.377537,
+      "lng": -6.079754,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 550896686,
+      "name": "Columpios",
+      "names": {},
+      "lat": 37.299312,
+      "lng": -6.044066,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 551163003,
+      "name": null,
+      "names": {},
+      "lat": 37.419462,
+      "lng": -5.965871,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 553864821,
+      "name": null,
+      "names": {},
+      "lat": 37.469688,
+      "lng": -6.010375,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 555442841,
+      "name": "Pipican",
+      "names": {},
+      "lat": 37.470798,
+      "lng": -6.009438,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 555452388,
+      "name": null,
+      "names": {},
+      "lat": 37.456582,
+      "lng": -6.010394,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 571132432,
+      "name": null,
+      "names": {},
+      "lat": 37.333852,
+      "lng": -5.930927,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 572870387,
+      "name": null,
+      "names": {},
+      "lat": 37.428348,
+      "lng": -5.970072,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 575514984,
+      "name": null,
+      "names": {},
+      "lat": 37.363081,
+      "lng": -6.079202,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 578059948,
+      "name": null,
+      "names": {},
+      "lat": 37.408482,
+      "lng": -5.964946,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 585593184,
+      "name": "Parque canino",
+      "names": {},
+      "lat": 37.375423,
+      "lng": -6.00572,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 599062256,
+      "name": null,
+      "names": {},
+      "lat": 37.431894,
+      "lng": -5.981881,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 606995132,
+      "name": "Parque Bodeguero andaluz",
+      "names": {},
+      "lat": 37.386193,
+      "lng": -6.069434,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 615127664,
+      "name": null,
+      "names": {},
+      "lat": 37.385436,
+      "lng": -5.960663,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 621701964,
+      "name": null,
+      "names": {},
+      "lat": 37.358429,
+      "lng": -6.047434,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 624120215,
+      "name": null,
+      "names": {},
+      "lat": 37.396863,
+      "lng": -5.942459,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 668346161,
+      "name": null,
+      "names": {},
+      "lat": 37.37557,
+      "lng": -5.942741,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 677332319,
+      "name": null,
+      "names": {},
+      "lat": 37.403199,
+      "lng": -6.041809,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 681500618,
+      "name": null,
+      "names": {},
+      "lat": 37.339513,
+      "lng": -5.93733,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 691474628,
+      "name": null,
+      "names": {},
+      "lat": 37.417196,
+      "lng": -5.999897,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 695118799,
+      "name": null,
+      "names": {},
+      "lat": 37.421929,
+      "lng": -5.999019,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 695941873,
+      "name": null,
+      "names": {},
+      "lat": 37.378837,
+      "lng": -6.046371,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 695947235,
+      "name": null,
+      "names": {},
+      "lat": 37.377294,
+      "lng": -6.039327,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 696204948,
+      "name": null,
+      "names": {},
+      "lat": 37.379234,
+      "lng": -6.049635,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 696526773,
+      "name": null,
+      "names": {},
+      "lat": 37.368268,
+      "lng": -6.052219,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 696526774,
+      "name": null,
+      "names": {},
+      "lat": 37.369843,
+      "lng": -6.050358,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 696753362,
+      "name": null,
+      "names": {},
+      "lat": 37.368119,
+      "lng": -6.048481,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 697588146,
+      "name": null,
+      "names": {},
+      "lat": 37.375751,
+      "lng": -6.053693,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 700663993,
+      "name": null,
+      "names": {},
+      "lat": 37.353121,
+      "lng": -5.979903,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 747035942,
+      "name": null,
+      "names": {},
+      "lat": 37.377919,
+      "lng": -5.91755,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 756032824,
+      "name": null,
+      "names": {},
+      "lat": 37.368541,
+      "lng": -6.082622,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 757715630,
+      "name": "Sendero Maroromi",
+      "names": {},
+      "lat": 37.393645,
+      "lng": -5.977427,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 806777014,
+      "name": null,
+      "names": {},
+      "lat": 37.387253,
+      "lng": -6.084384,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 817347264,
+      "name": null,
+      "names": {},
+      "lat": 37.388701,
+      "lng": -6.047378,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 844000232,
+      "name": null,
+      "names": {},
+      "lat": 37.413707,
+      "lng": -5.923945,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 930611864,
+      "name": null,
+      "names": {},
+      "lat": 37.35669,
+      "lng": -6.030139,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 949232042,
+      "name": null,
+      "names": {},
+      "lat": 37.364396,
+      "lng": -6.044214,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 974370302,
+      "name": null,
+      "names": {},
+      "lat": 37.410187,
+      "lng": -6.081411,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 982310714,
+      "name": null,
+      "names": {},
+      "lat": 37.345171,
+      "lng": -6.049253,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1076207852,
+      "name": "Parque Podenco andaluz",
+      "names": {},
+      "lat": 37.377537,
+      "lng": -6.079754,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1101793372,
+      "name": "Columpios",
+      "names": {},
+      "lat": 37.299312,
+      "lng": -6.044066,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1102326006,
+      "name": null,
+      "names": {},
+      "lat": 37.419462,
+      "lng": -5.965871,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1105735722,
+      "name": null,
+      "names": {},
+      "lat": 37.388468,
+      "lng": -6.0603,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1107729642,
+      "name": null,
+      "names": {},
+      "lat": 37.469688,
+      "lng": -6.010375,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1110282705,
+      "name": null,
+      "names": {},
+      "lat": 37.342824,
+      "lng": -6.041585,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1110885682,
+      "name": "Pipican",
+      "names": {},
+      "lat": 37.470798,
+      "lng": -6.009438,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1110904776,
+      "name": null,
+      "names": {},
+      "lat": 37.456582,
+      "lng": -6.010394,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1142264864,
+      "name": null,
+      "names": {},
+      "lat": 37.333852,
+      "lng": -5.930927,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1145740774,
+      "name": null,
+      "names": {},
+      "lat": 37.428348,
+      "lng": -5.970072,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1151029968,
+      "name": null,
+      "names": {},
+      "lat": 37.363081,
+      "lng": -6.079202,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1156119896,
+      "name": null,
+      "names": {},
+      "lat": 37.408482,
+      "lng": -5.964946,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1171186368,
+      "name": "Parque canino",
+      "names": {},
+      "lat": 37.375423,
+      "lng": -6.00572,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1198124512,
+      "name": null,
+      "names": {},
+      "lat": 37.431894,
+      "lng": -5.981881,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1203093608,
+      "name": null,
+      "names": {},
+      "lat": 37.41035,
+      "lng": -5.977365,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1215949219,
+      "name": null,
+      "names": {},
+      "lat": 37.425123,
+      "lng": -5.972385,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1220365291,
+      "name": null,
+      "names": {},
+      "lat": 37.389991,
+      "lng": -5.977152,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1230255328,
+      "name": null,
+      "names": {},
+      "lat": 37.385436,
+      "lng": -5.960663,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1248240430,
+      "name": null,
+      "names": {},
+      "lat": 37.396863,
+      "lng": -5.942459,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1253982964,
+      "name": "Parque Canino",
+      "names": {},
+      "lat": 37.347746,
+      "lng": -6.043419,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1261415843,
+      "name": "Circuito MTB Dirt Jump Tomares",
+      "names": {},
+      "lat": 37.365435,
+      "lng": -6.0554,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1336692322,
+      "name": null,
+      "names": {},
+      "lat": 37.37557,
+      "lng": -5.942741,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1354664638,
+      "name": null,
+      "names": {},
+      "lat": 37.403199,
+      "lng": -6.041809,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1363001236,
+      "name": null,
+      "names": {},
+      "lat": 37.339513,
+      "lng": -5.93733,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1366652833,
+      "name": null,
+      "names": {},
+      "lat": 37.462472,
+      "lng": -6.006298,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1368516523,
+      "name": null,
+      "names": {},
+      "lat": 37.419994,
+      "lng": -5.967469,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1382949256,
+      "name": null,
+      "names": {},
+      "lat": 37.417196,
+      "lng": -5.999897,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1390237598,
+      "name": null,
+      "names": {},
+      "lat": 37.421929,
+      "lng": -5.999019,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1391883746,
+      "name": null,
+      "names": {},
+      "lat": 37.378837,
+      "lng": -6.046371,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1391894470,
+      "name": null,
+      "names": {},
+      "lat": 37.377294,
+      "lng": -6.039327,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1392409896,
+      "name": null,
+      "names": {},
+      "lat": 37.379234,
+      "lng": -6.049635,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1393053546,
+      "name": null,
+      "names": {},
+      "lat": 37.368268,
+      "lng": -6.052219,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1393053548,
+      "name": null,
+      "names": {},
+      "lat": 37.369843,
+      "lng": -6.050358,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1393506724,
+      "name": null,
+      "names": {},
+      "lat": 37.368119,
+      "lng": -6.048481,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1395176292,
+      "name": null,
+      "names": {},
+      "lat": 37.375751,
+      "lng": -6.053693,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1401327986,
+      "name": null,
+      "names": {},
+      "lat": 37.353121,
+      "lng": -5.979903,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1421732150,
+      "name": null,
+      "names": {},
+      "lat": 37.377142,
+      "lng": -5.971597,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1461501736,
+      "name": null,
+      "names": {},
+      "lat": 37.400755,
+      "lng": -5.952236,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1473214701,
+      "name": "Parque Canino Montequinto",
+      "names": {},
+      "lat": 37.336424,
+      "lng": -5.93863,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1473214704,
+      "name": "Circuito canino",
+      "names": {},
+      "lat": 37.337408,
+      "lng": -5.937178,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1473214705,
+      "name": null,
+      "names": {},
+      "lat": 37.333259,
+      "lng": -5.930251,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1473985738,
+      "name": null,
+      "names": {},
+      "lat": 37.394398,
+      "lng": -5.931424,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1474788453,
+      "name": null,
+      "names": {},
+      "lat": 37.404693,
+      "lng": -5.911653,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1494071884,
+      "name": null,
+      "names": {},
+      "lat": 37.377919,
+      "lng": -5.91755,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1512065648,
+      "name": null,
+      "names": {},
+      "lat": 37.368541,
+      "lng": -6.082622,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1527896425,
+      "name": null,
+      "names": {},
+      "lat": 37.420296,
+      "lng": -5.99345,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1634694528,
+      "name": null,
+      "names": {},
+      "lat": 37.388701,
+      "lng": -6.047378,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1861223728,
+      "name": null,
+      "names": {},
+      "lat": 37.35669,
+      "lng": -6.030139,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1964621428,
+      "name": null,
+      "names": {},
+      "lat": 37.345171,
+      "lng": -6.049253,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2211471444,
+      "name": null,
+      "names": {},
+      "lat": 37.388468,
+      "lng": -6.0603,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2220565410,
+      "name": null,
+      "names": {},
+      "lat": 37.342824,
+      "lng": -6.041585,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2406187216,
+      "name": null,
+      "names": {},
+      "lat": 37.41035,
+      "lng": -5.977365,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2431898438,
+      "name": null,
+      "names": {},
+      "lat": 37.425123,
+      "lng": -5.972385,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2440730582,
+      "name": null,
+      "names": {},
+      "lat": 37.389991,
+      "lng": -5.977152,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2507965928,
+      "name": "Parque Canino",
+      "names": {},
+      "lat": 37.347746,
+      "lng": -6.043419,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2522831686,
+      "name": "Circuito MTB Dirt Jump Tomares",
+      "names": {},
+      "lat": 37.365435,
+      "lng": -6.0554,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2733305666,
+      "name": null,
+      "names": {},
+      "lat": 37.462472,
+      "lng": -6.006298,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2737033046,
+      "name": null,
+      "names": {},
+      "lat": 37.419994,
+      "lng": -5.967469,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2843464300,
+      "name": null,
+      "names": {},
+      "lat": 37.377142,
+      "lng": -5.971597,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2923003472,
+      "name": null,
+      "names": {},
+      "lat": 37.400755,
+      "lng": -5.952236,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2946429402,
+      "name": "Parque Canino Montequinto",
+      "names": {},
+      "lat": 37.336424,
+      "lng": -5.93863,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2946429408,
+      "name": "Circuito canino",
+      "names": {},
+      "lat": 37.337408,
+      "lng": -5.937178,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2946429410,
+      "name": null,
+      "names": {},
+      "lat": 37.333259,
+      "lng": -5.930251,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2947971476,
+      "name": null,
+      "names": {},
+      "lat": 37.394398,
+      "lng": -5.931424,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2949576906,
+      "name": null,
+      "names": {},
+      "lat": 37.404693,
+      "lng": -5.911653,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 3055792850,
+      "name": null,
+      "names": {},
+      "lat": 37.420296,
+      "lng": -5.99345,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    }
+  ]
+}

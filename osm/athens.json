@@ -1,0 +1,6082 @@
+{
+  "version": 1,
+  "city": "athens",
+  "country": "GR",
+  "region": "europe/greece",
+  "extract_timestamp": "2026-10-27T21:23:59Z",
+  "radius_km": 10,
+  "bbox": [
+    23.61408,
+    37.89434,
+    23.84203,
+    38.074
+  ],
+  "venues": [
+    {
+      "osm_type": "node",
+      "osm_id": 670416464,
+      "name": "Βασιλική Σκαλαφούρη",
+      "names": {},
+      "lat": 38.004025,
+      "lng": 23.718187,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 763450714,
+      "name": "Απλά Σπιτικό",
+      "names": {},
+      "lat": 37.976083,
+      "lng": 23.76141,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1613229395,
+      "name": "Couel",
+      "names": {},
+      "lat": 37.985504,
+      "lng": 23.741978,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=pastry",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1758870171,
+      "name": "Kakau",
+      "names": {},
+      "lat": 38.050554,
+      "lng": 23.7426,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=chocolate",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2055173166,
+      "name": "Frankie",
+      "names": {},
+      "lat": 37.980504,
+      "lng": 23.738052,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2147852273,
+      "name": "Cats & Monsters",
+      "names": {},
+      "lat": 37.985767,
+      "lng": 23.732133,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=ice_cream",
+      "check_date": "2026-04-05"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2200029830,
+      "name": "Alexia",
+      "names": {},
+      "lat": 38.03405,
+      "lng": 23.754706,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=hairdresser",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2545385475,
+      "name": "Γρηγόρης",
+      "names": {
+        "el": "Γρηγόρης",
+        "en": "Gregory's"
+      },
+      "lat": 37.984132,
+      "lng": 23.732395,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-07-14"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2688382627,
+      "name": "Ice Queen",
+      "names": {},
+      "lat": 37.968733,
+      "lng": 23.729786,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=ice_cream",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2691040016,
+      "name": "Όπως παλιά",
+      "names": {
+        "el": "Όπως παλιά",
+        "en": "Opos Palia"
+      },
+      "lat": 37.967513,
+      "lng": 23.728741,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-03-22"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2691041198,
+      "name": "Φρουτοπία",
+      "names": {},
+      "lat": 37.967792,
+      "lng": 23.728328,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=greengrocer",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2706996768,
+      "name": "Τα Αγγελάκια",
+      "names": {},
+      "lat": 38.043445,
+      "lng": 23.771967,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2780553377,
+      "name": "ΒΕΑΤ",
+      "names": {},
+      "lat": 38.016316,
+      "lng": 23.691665,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2803846777,
+      "name": "Anasa",
+      "names": {},
+      "lat": 37.927579,
+      "lng": 23.636425,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2023-02-21"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2878357851,
+      "name": "Mimi's",
+      "names": {},
+      "lat": 37.989305,
+      "lng": 23.74329,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3125396655,
+      "name": "Γρηγόρης",
+      "names": {
+        "el": "Γρηγόρης",
+        "en": "Gregory's"
+      },
+      "lat": 37.952815,
+      "lng": 23.705268,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3205784414,
+      "name": "Cartone",
+      "names": {},
+      "lat": 37.978156,
+      "lng": 23.711624,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3267785063,
+      "name": "Troo Food",
+      "names": {},
+      "lat": 38.032828,
+      "lng": 23.722709,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=health_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3454221431,
+      "name": "l'artigiano",
+      "names": {},
+      "lat": 37.93525,
+      "lng": 23.647682,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "craft=caterer",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3464826373,
+      "name": "Moma",
+      "names": {},
+      "lat": 37.975977,
+      "lng": 23.724109,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3475018389,
+      "name": "ΒΕΑΤ",
+      "names": {},
+      "lat": 37.946372,
+      "lng": 23.687665,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3476291860,
+      "name": "l'artigiano",
+      "names": {},
+      "lat": 37.951196,
+      "lng": 23.694137,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "craft=caterer",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3494155518,
+      "name": "Η Καλή Πίτα",
+      "names": {},
+      "lat": 37.93902,
+      "lng": 23.647598,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3584394314,
+      "name": "Sushi Rolls",
+      "names": {},
+      "lat": 37.938374,
+      "lng": 23.640379,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3768671845,
+      "name": "Domino's",
+      "names": {},
+      "lat": 37.990916,
+      "lng": 23.677024,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-10-13"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3793382403,
+      "name": "Εν Ιορδάνη",
+      "names": {
+        "el": "Εν Ιορδάνη",
+        "en": "En Iordanis"
+      },
+      "lat": 37.978379,
+      "lng": 23.724678,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2023-09-25"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3793382430,
+      "name": "Spiagga",
+      "names": {},
+      "lat": 37.920095,
+      "lng": 23.700077,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-02-06"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3803522412,
+      "name": "Υδρία",
+      "names": {},
+      "lat": 37.974889,
+      "lng": 23.727441,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3821916490,
+      "name": "Everest",
+      "names": {},
+      "lat": 37.965038,
+      "lng": 23.705245,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3822870963,
+      "name": "Κάνδαυλος",
+      "names": {
+        "el": "Κάνδαυλος",
+        "en": "Kandavlos"
+      },
+      "lat": 37.978377,
+      "lng": 23.711061,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3862543163,
+      "name": "Goody´s",
+      "names": {},
+      "lat": 38.056906,
+      "lng": 23.804849,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3912994815,
+      "name": "Sugar Killer",
+      "names": {},
+      "lat": 37.939717,
+      "lng": 23.649611,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=pastry",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3942489992,
+      "name": "Γρηγόρης",
+      "names": {
+        "el": "Γρηγόρης",
+        "en": "Gregory's"
+      },
+      "lat": 37.992914,
+      "lng": 23.762879,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4030593741,
+      "name": "Hubits",
+      "names": {},
+      "lat": 37.985679,
+      "lng": 23.741267,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4030594169,
+      "name": "Bamboo Vegan",
+      "names": {},
+      "lat": 37.984716,
+      "lng": 23.735791,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=convenience",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4030596020,
+      "name": "Bar des crepes",
+      "names": {},
+      "lat": 37.9764,
+      "lng": 23.731105,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4030596022,
+      "name": "Ιακοβίδης",
+      "names": {},
+      "lat": 38.018665,
+      "lng": 23.731855,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=butcher",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4037839157,
+      "name": "Dickie Dee",
+      "names": {},
+      "lat": 37.975357,
+      "lng": 23.732513,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=ice_cream",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4040706256,
+      "name": "Pit",
+      "names": {},
+      "lat": 37.977128,
+      "lng": 23.739718,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4041600219,
+      "name": "Agavita",
+      "names": {},
+      "lat": 37.976171,
+      "lng": 23.731798,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4041648352,
+      "name": "Το Βαζάκι juice bar",
+      "names": {},
+      "lat": 38.020983,
+      "lng": 23.802741,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4047564545,
+      "name": "Curry Express",
+      "names": {},
+      "lat": 37.977598,
+      "lng": 23.730359,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2025-05-11"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4047628056,
+      "name": "Etnico",
+      "names": {},
+      "lat": 37.97769,
+      "lng": 23.730611,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2025-05-11"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4230666659,
+      "name": "ΒΕΑΤ",
+      "names": {},
+      "lat": 38.027272,
+      "lng": 23.724146,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-10-16"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4311005946,
+      "name": "Arkadia",
+      "names": {
+        "ru": "Аркадия"
+      },
+      "lat": 37.968262,
+      "lng": 23.729567,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-04-19"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4367024672,
+      "name": "Vitorio",
+      "names": {},
+      "lat": 37.93759,
+      "lng": 23.645863,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4384287908,
+      "name": "Mondo Biomarket",
+      "names": {},
+      "lat": 38.009472,
+      "lng": 23.788672,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=health_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4394189813,
+      "name": "Εις Υγείαν",
+      "names": {},
+      "lat": 37.956692,
+      "lng": 23.761249,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4394190274,
+      "name": "l'artigiano",
+      "names": {},
+      "lat": 37.98084,
+      "lng": 23.766048,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "craft=caterer",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4432423026,
+      "name": "Απολλώνιον",
+      "names": {},
+      "lat": 38.056076,
+      "lng": 23.805381,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=bakery",
+      "check_date": "2026-02-27"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4436866460,
+      "name": "Up-Κυτταρική θρέψη",
+      "names": {},
+      "lat": 37.984722,
+      "lng": 23.731543,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=beverages",
+      "check_date": "2026-03-06"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4437439331,
+      "name": "Φύσις",
+      "names": {},
+      "lat": 38.049482,
+      "lng": 23.808762,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=pastry",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4558272255,
+      "name": "Το Καρότσι του Γιατρού",
+      "names": {},
+      "lat": 37.977392,
+      "lng": 23.725469,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2025-05-14"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4668367382,
+      "name": "Peas",
+      "names": {},
+      "lat": 37.965287,
+      "lng": 23.726486,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4682121556,
+      "name": "Kampos",
+      "names": {},
+      "lat": 37.974762,
+      "lng": 23.733928,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=supermarket",
+      "check_date": "2025-07-04"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4682160666,
+      "name": "Γρηγόρης",
+      "names": {
+        "el": "Γρηγόρης",
+        "en": "Gregory's"
+      },
+      "lat": 37.98113,
+      "lng": 23.736329,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2024-09-03"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4698422193,
+      "name": "Lime Bistro",
+      "names": {},
+      "lat": 37.977299,
+      "lng": 23.710107,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4698470589,
+      "name": "Trivoli",
+      "names": {},
+      "lat": 37.932671,
+      "lng": 23.754822,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4701185999,
+      "name": "Φύσις",
+      "names": {},
+      "lat": 38.013697,
+      "lng": 23.829832,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=pastry",
+      "check_date": "2025-08-21"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4729954459,
+      "name": "Goody's Burger House",
+      "names": {},
+      "lat": 37.974914,
+      "lng": 23.734249,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2025-05-13"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4755523732,
+      "name": "L' Artigiano",
+      "names": {},
+      "lat": 38.027646,
+      "lng": 23.732518,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "craft=caterer",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4755933422,
+      "name": "Avocado",
+      "names": {},
+      "lat": 37.973827,
+      "lng": 23.732842,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4880071621,
+      "name": "Veganaki",
+      "names": {},
+      "lat": 37.967609,
+      "lng": 23.732868,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4916831721,
+      "name": "Mama Tierra",
+      "names": {},
+      "lat": 37.984404,
+      "lng": 23.732149,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4931918621,
+      "name": "Feyrouz",
+      "names": {},
+      "lat": 37.978149,
+      "lng": 23.727744,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-08-04"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4937317625,
+      "name": "W",
+      "names": {},
+      "lat": 37.977876,
+      "lng": 23.731676,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2025-07-13"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4993162623,
+      "name": "Ancho",
+      "names": {},
+      "lat": 38.022566,
+      "lng": 23.797921,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5018002223,
+      "name": "Nice n Easy",
+      "names": {},
+      "lat": 37.98059,
+      "lng": 23.738136,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-10-24"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5115941758,
+      "name": "ΒΕΑΤ",
+      "names": {},
+      "lat": 38.024165,
+      "lng": 23.740834,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2024-10-01"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5144716098,
+      "name": "Pizza Fan",
+      "names": {
+        "el": "Pizza Fan",
+        "en": "Pizza Fan"
+      },
+      "lat": 37.991796,
+      "lng": 23.766471,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-10-25"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5228463674,
+      "name": "the Big Bad Wolf",
+      "names": {},
+      "lat": 37.95991,
+      "lng": 23.707423,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": null,
+      "check_date": "2025-12-01"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5300980582,
+      "name": "Baba Ghanoush",
+      "names": {},
+      "lat": 37.96547,
+      "lng": 23.743591,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5300980585,
+      "name": "Enjoy Just Falafel",
+      "names": {},
+      "lat": 37.99426,
+      "lng": 23.729396,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2025-05-10"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5325769370,
+      "name": "l'artigiano",
+      "names": {},
+      "lat": 37.959246,
+      "lng": 23.753771,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "craft=caterer",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5338960422,
+      "name": "Happy Blender",
+      "names": {},
+      "lat": 37.976335,
+      "lng": 23.723333,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5346416706,
+      "name": "Γρηγόρης",
+      "names": {
+        "el": "Γρηγόρης",
+        "en": "Gregory's"
+      },
+      "lat": 38.002259,
+      "lng": 23.68624,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5483657849,
+      "name": "Athens Vegan Burgers",
+      "names": {},
+      "lat": 37.975944,
+      "lng": 23.727201,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5483686658,
+      "name": "Scoop",
+      "names": {},
+      "lat": 37.975388,
+      "lng": 23.728193,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=ice_cream",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5552613071,
+      "name": "Kashmir spicy",
+      "names": {},
+      "lat": 38.003217,
+      "lng": 23.734404,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2024-08-21"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5561141821,
+      "name": "Wok & walk",
+      "names": {},
+      "lat": 37.976904,
+      "lng": 23.72541,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-07-22"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5580003025,
+      "name": "OM Namaste",
+      "names": {},
+      "lat": 37.967715,
+      "lng": 23.730058,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5604629494,
+      "name": "The Burger Joint",
+      "names": {},
+      "lat": 38.004383,
+      "lng": 23.776583,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5642451771,
+      "name": "Po`Boys BBQ",
+      "names": {},
+      "lat": 37.978396,
+      "lng": 23.72325,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5642483166,
+      "name": "The Frogs",
+      "names": {},
+      "lat": 37.978801,
+      "lng": 23.724916,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=bar",
+      "check_date": "2024-10-09"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5660397938,
+      "name": "Kalamaki Mou",
+      "names": {},
+      "lat": 37.983174,
+      "lng": 23.756287,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2022-11-11"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5740402936,
+      "name": "The Οthers",
+      "names": {},
+      "lat": 37.985193,
+      "lng": 23.732316,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5741621997,
+      "name": "l'artigiano",
+      "names": {},
+      "lat": 38.059574,
+      "lng": 23.788746,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "craft=caterer",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5824394637,
+      "name": "Domino's",
+      "names": {},
+      "lat": 38.035361,
+      "lng": 23.824782,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5835174234,
+      "name": "GES",
+      "names": {},
+      "lat": 37.976031,
+      "lng": 23.725987,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=shoes",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5842059286,
+      "name": "Babaji",
+      "names": {},
+      "lat": 37.97491,
+      "lng": 23.733282,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5876789285,
+      "name": "Metaxa 2 utopian garden",
+      "names": {},
+      "lat": 37.984787,
+      "lng": 23.735688,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5962215344,
+      "name": "ΒΕΑΤ",
+      "names": {},
+      "lat": 38.005191,
+      "lng": 23.717931,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5986994993,
+      "name": "Pizza Fan",
+      "names": {
+        "el": "Pizza Fan",
+        "en": "Pizza Fan"
+      },
+      "lat": 38.02047,
+      "lng": 23.756665,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-10-25"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5987134090,
+      "name": "Healthy harmony",
+      "names": {},
+      "lat": 37.940924,
+      "lng": 23.647511,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6089952160,
+      "name": "4 seasons",
+      "names": {},
+      "lat": 37.973856,
+      "lng": 23.732843,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=health_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6248316830,
+      "name": "Το Falafel του Ψυρρή",
+      "names": {},
+      "lat": 37.977344,
+      "lng": 23.725488,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2024-08-25"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6314703613,
+      "name": "Natuar",
+      "names": {},
+      "lat": 38.041699,
+      "lng": 23.774713,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6377973660,
+      "name": "παλλάς",
+      "names": {},
+      "lat": 37.948657,
+      "lng": 23.711186,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6406618685,
+      "name": "Γρηγόρης",
+      "names": {},
+      "lat": 37.979082,
+      "lng": 23.640213,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6606227919,
+      "name": "Κωστής Κ. Τσαρπαλής",
+      "names": {},
+      "lat": 38.011371,
+      "lng": 23.822752,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=doctors",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6697929408,
+      "name": "Cafe - Bar 67",
+      "names": {},
+      "lat": 37.985848,
+      "lng": 23.735186,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2025-02-07"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6710944350,
+      "name": "Bullseye",
+      "names": {},
+      "lat": 37.967253,
+      "lng": 23.728638,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2025-05-14"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6742063561,
+      "name": "Falafellas",
+      "names": {},
+      "lat": 37.97851,
+      "lng": 23.728014,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6743216332,
+      "name": "Η Αυλή του Πέτρου",
+      "names": {},
+      "lat": 37.981299,
+      "lng": 23.71619,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6744960336,
+      "name": "Στο Βάθος Κήπος",
+      "names": {},
+      "lat": 37.980591,
+      "lng": 23.716512,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=deli",
+      "check_date": "2021-06-21"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6759665963,
+      "name": "Groceristas",
+      "names": {},
+      "lat": 37.972554,
+      "lng": 23.747854,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=health_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6765169963,
+      "name": "Irene's House of Pizza",
+      "names": {},
+      "lat": 37.986496,
+      "lng": 23.734456,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6765186442,
+      "name": "Αναστασιάδης",
+      "names": {},
+      "lat": 37.976152,
+      "lng": 23.724375,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=optician",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6767268072,
+      "name": "The Body Shop",
+      "names": {},
+      "lat": 38.020245,
+      "lng": 23.797958,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=cosmetics",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6767269719,
+      "name": "Etico",
+      "names": {},
+      "lat": 38.020076,
+      "lng": 23.797847,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=cosmetics",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6790390246,
+      "name": "ΒΕΑΤ",
+      "names": {},
+      "lat": 38.017914,
+      "lng": 23.803263,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2025-12-11"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6841656132,
+      "name": "Dizer",
+      "names": {},
+      "lat": 38.059796,
+      "lng": 23.788573,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6860973734,
+      "name": "Royal Curry House",
+      "names": {},
+      "lat": 37.983103,
+      "lng": 23.724395,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-10-16"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6867906924,
+      "name": "Morgan",
+      "names": {},
+      "lat": 37.985699,
+      "lng": 23.720057,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6939371255,
+      "name": "Το Ρεβίθι falafel bar",
+      "names": {},
+      "lat": 37.96633,
+      "lng": 23.726093,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6939440148,
+      "name": "Θεοδόση Ελληνικό Τραπέζι",
+      "names": {},
+      "lat": 38.006025,
+      "lng": 23.786145,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6951256966,
+      "name": "Βιολογικό χωριό",
+      "names": {},
+      "lat": 38.015228,
+      "lng": 23.816583,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=supermarket",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6978965078,
+      "name": "Hippie Shake",
+      "names": {},
+      "lat": 38.047619,
+      "lng": 23.803995,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-08-06"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6983086678,
+      "name": "ΒΕΑΤ",
+      "names": {},
+      "lat": 38.049199,
+      "lng": 23.753322,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7013327810,
+      "name": "Flower",
+      "names": {},
+      "lat": 37.983027,
+      "lng": 23.756844,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2024-06-21"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7040794587,
+      "name": "Wagamama",
+      "names": {},
+      "lat": 38.072348,
+      "lng": 23.812622,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7057902676,
+      "name": "ΒΕΑΤ",
+      "names": {},
+      "lat": 37.938538,
+      "lng": 23.741733,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7089580226,
+      "name": "Karolina",
+      "names": {},
+      "lat": 37.994465,
+      "lng": 23.763712,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=health_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7110267312,
+      "name": "Lacantina",
+      "names": {},
+      "lat": 37.984107,
+      "lng": 23.734707,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-07-25"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7251198861,
+      "name": "Bullseye",
+      "names": {},
+      "lat": 38.058603,
+      "lng": 23.838242,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7485452189,
+      "name": "l'artigiano",
+      "names": {},
+      "lat": 38.044488,
+      "lng": 23.836289,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "craft=caterer",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7726974617,
+      "name": "Great Bageion",
+      "names": {},
+      "lat": 37.983563,
+      "lng": 23.728003,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-07-15"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7728215740,
+      "name": "Honest Coffee Developers",
+      "names": {},
+      "lat": 37.968499,
+      "lng": 23.753519,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2025-05-07"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7902817961,
+      "name": "Mimosa neighborhood bistro",
+      "names": {},
+      "lat": 38.038554,
+      "lng": 23.737704,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2024-04-02"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7925012444,
+      "name": "Pizza Bite",
+      "names": {},
+      "lat": 37.957494,
+      "lng": 23.708815,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7947533265,
+      "name": "Plant-a το μπιζελάκι",
+      "names": {},
+      "lat": 37.935595,
+      "lng": 23.715476,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7947582524,
+      "name": "Naan Stop",
+      "names": {},
+      "lat": 37.98687,
+      "lng": 23.760486,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2025-03-25"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8152117518,
+      "name": "Γρηγόρης",
+      "names": {
+        "el": "Γρηγόρης",
+        "en": "Gregory's"
+      },
+      "lat": 37.965563,
+      "lng": 23.704405,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8306316389,
+      "name": null,
+      "names": {},
+      "lat": 37.96314,
+      "lng": 23.763138,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8387597007,
+      "name": "Pizza Fan",
+      "names": {
+        "el": "Pizza Fan",
+        "en": "Pizza Fan"
+      },
+      "lat": 37.932507,
+      "lng": 23.757982,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-10-25"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8406326977,
+      "name": "ΒΕΑΤ",
+      "names": {},
+      "lat": 37.919483,
+      "lng": 23.724289,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8422243234,
+      "name": "ΒΕΑΤ",
+      "names": {},
+      "lat": 38.013459,
+      "lng": 23.722146,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8758586863,
+      "name": "Peinirli Handmade",
+      "names": {},
+      "lat": 37.979858,
+      "lng": 23.726842,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2025-10-26"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8982464882,
+      "name": "Cookoomèla Grill",
+      "names": {},
+      "lat": 37.9858,
+      "lng": 23.733548,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8990306457,
+      "name": "Iceroll",
+      "names": {},
+      "lat": 37.976843,
+      "lng": 23.726343,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=ice_cream",
+      "check_date": "2025-04-10"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9064409787,
+      "name": "Pizza Fan",
+      "names": {
+        "el": "Pizza Fan",
+        "en": "Pizza Fan"
+      },
+      "lat": 38.015952,
+      "lng": 23.732025,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-10-25"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9098633417,
+      "name": "L' Artigiano",
+      "names": {},
+      "lat": 37.968063,
+      "lng": 23.731618,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "craft=caterer",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9187794880,
+      "name": "Tragreecetional",
+      "names": {},
+      "lat": 37.930728,
+      "lng": 23.636408,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=convenience",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9221820918,
+      "name": "Django",
+      "names": {},
+      "lat": 37.966817,
+      "lng": 23.72794,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=ice_cream",
+      "check_date": "2026-09-06"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9360858303,
+      "name": "Red Umbrella Athens",
+      "names": {},
+      "lat": 37.987176,
+      "lng": 23.722073,
+      "tags": {
+        "lgbtq": "welcome"
+      },
+      "themes": [
+        "lgbtq"
+      ],
+      "category": "amenity=social_facility",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9362738598,
+      "name": null,
+      "names": {},
+      "lat": 37.946368,
+      "lng": 23.720597,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9366944329,
+      "name": "l'artigiano",
+      "names": {},
+      "lat": 37.99966,
+      "lng": 23.738902,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "craft=caterer",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9457104493,
+      "name": "Γκνου",
+      "names": {
+        "en": "Gnou"
+      },
+      "lat": 37.99742,
+      "lng": 23.735195,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9457238808,
+      "name": "The Vegan Vandal",
+      "names": {},
+      "lat": 37.971947,
+      "lng": 23.745531,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9492872921,
+      "name": "Kulimaristan",
+      "names": {},
+      "lat": 38.00162,
+      "lng": 23.731852,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9492916308,
+      "name": "L'Artigiano",
+      "names": {},
+      "lat": 38.012276,
+      "lng": 23.816427,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "craft=caterer",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9534314817,
+      "name": "Vegan Beat Athens",
+      "names": {},
+      "lat": 37.976813,
+      "lng": 23.729809,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2025-11-10"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9537010017,
+      "name": "Winners Vegan",
+      "names": {},
+      "lat": 37.973755,
+      "lng": 23.733016,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9547695565,
+      "name": "Hokyo",
+      "names": {},
+      "lat": 38.004004,
+      "lng": 23.796437,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9592834376,
+      "name": "Domino's",
+      "names": {},
+      "lat": 37.962438,
+      "lng": 23.724803,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9595408543,
+      "name": "ΒΕΑΤ",
+      "names": {},
+      "lat": 37.962305,
+      "lng": 23.724663,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2025-11-07"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9621304617,
+      "name": "Sillage",
+      "names": {},
+      "lat": 37.984988,
+      "lng": 23.732085,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=cosmetics",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9621329917,
+      "name": "Greek Stories",
+      "names": {},
+      "lat": 37.968329,
+      "lng": 23.729596,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9656319917,
+      "name": "Kalamaki Grill Bar",
+      "names": {},
+      "lat": 38.012571,
+      "lng": 23.694236,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9671376917,
+      "name": "ΒΕΑΤ",
+      "names": {},
+      "lat": 38.066024,
+      "lng": 23.777492,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9675835944,
+      "name": "LUKUΜΑΔΕΣ",
+      "names": {
+        "el": "Λουκουμάδες"
+      },
+      "lat": 37.976948,
+      "lng": 23.727576,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=pastry",
+      "check_date": "2026-08-04"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9682643294,
+      "name": "Art of Grill",
+      "names": {},
+      "lat": 38.031907,
+      "lng": 23.709226,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2025-06-30"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9772993976,
+      "name": "monobio",
+      "names": {},
+      "lat": 37.94202,
+      "lng": 23.740266,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=nutrition_supplements",
+      "check_date": "2026-01-09"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9787548817,
+      "name": "Nudie Foodie",
+      "names": {},
+      "lat": 37.97967,
+      "lng": 23.725186,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9830482970,
+      "name": "Το Καλαμάκι",
+      "names": {},
+      "lat": 38.072308,
+      "lng": 23.813148,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9867278978,
+      "name": "Early Bites",
+      "names": {},
+      "lat": 37.981868,
+      "lng": 23.729418,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9922209120,
+      "name": "Γαλιάντρα",
+      "names": {
+        "el": "Γαλιάντρα",
+        "en": "Saorsa",
+        "fr": "Saorsa"
+      },
+      "lat": 37.982681,
+      "lng": 23.720428,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9928413719,
+      "name": "Joshua Tree",
+      "names": {},
+      "lat": 37.966209,
+      "lng": 23.734706,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10075136244,
+      "name": "Το Γνήσιο",
+      "names": {},
+      "lat": 38.047178,
+      "lng": 23.765771,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10107122823,
+      "name": "ΒΕΑΤ",
+      "names": {},
+      "lat": 38.052779,
+      "lng": 23.816889,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10107127360,
+      "name": "ΒΕΑΤ",
+      "names": {},
+      "lat": 37.934213,
+      "lng": 23.70171,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2025-11-30"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10107139069,
+      "name": "ΒΕΑΤ",
+      "names": {},
+      "lat": 37.979104,
+      "lng": 23.641975,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10107148697,
+      "name": "ΒΕΑΤ",
+      "names": {},
+      "lat": 37.91631,
+      "lng": 23.707851,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2025-10-24"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10107153479,
+      "name": "ΒΕΑΤ",
+      "names": {},
+      "lat": 38.011317,
+      "lng": 23.750697,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-06-19"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10107167702,
+      "name": "ΒΕΑΤ",
+      "names": {},
+      "lat": 37.985387,
+      "lng": 23.673676,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10107185503,
+      "name": "ΒΕΑΤ",
+      "names": {},
+      "lat": 38.043102,
+      "lng": 23.772811,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10107195213,
+      "name": "ΒΕΑΤ",
+      "names": {},
+      "lat": 38.012824,
+      "lng": 23.657153,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10107206945,
+      "name": "ΒΕΑΤ",
+      "names": {},
+      "lat": 37.962379,
+      "lng": 23.682243,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10108610711,
+      "name": "the Big Bad Wolf",
+      "names": {},
+      "lat": 38.06026,
+      "lng": 23.836397,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10109532301,
+      "name": "L' Artigiano",
+      "names": {},
+      "lat": 38.039162,
+      "lng": 23.763267,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "craft=caterer",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10109690796,
+      "name": "l'artigiano",
+      "names": {},
+      "lat": 37.995952,
+      "lng": 23.772325,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "craft=caterer",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10109884150,
+      "name": "l'artigiano",
+      "names": {},
+      "lat": 37.944334,
+      "lng": 23.714108,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "craft=caterer",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10151933732,
+      "name": "ΒΕΑΤ",
+      "names": {},
+      "lat": 37.994436,
+      "lng": 23.774356,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10155741067,
+      "name": "Γρηγόρης",
+      "names": {
+        "el": "Γρηγόρης",
+        "en": "Gregory's"
+      },
+      "lat": 37.994062,
+      "lng": 23.775231,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10155809167,
+      "name": "l'artigiano",
+      "names": {},
+      "lat": 37.91541,
+      "lng": 23.750357,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "craft=caterer",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10156742714,
+      "name": "Οικογένεια Δασκαλάκη",
+      "names": {},
+      "lat": 37.943626,
+      "lng": 23.747252,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=health_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10156772101,
+      "name": "MrsButter",
+      "names": {},
+      "lat": 37.987704,
+      "lng": 23.766579,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "craft=nuts",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10156792274,
+      "name": "Dao",
+      "names": {},
+      "lat": 37.978804,
+      "lng": 23.722102,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10156796693,
+      "name": "Mother",
+      "names": {},
+      "lat": 37.96277,
+      "lng": 23.721591,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-02-20"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10156805135,
+      "name": "Δίκτυο Ελληνικής Σπιρουλίνας",
+      "names": {},
+      "lat": 38.003515,
+      "lng": 23.734046,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10156805136,
+      "name": "Bio-logos",
+      "names": {},
+      "lat": 37.993394,
+      "lng": 23.71798,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "craft=protein",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10156805426,
+      "name": "Raja Jee",
+      "names": {},
+      "lat": 37.991516,
+      "lng": 23.72703,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10156805427,
+      "name": "Vego",
+      "names": {},
+      "lat": 38.020049,
+      "lng": 23.797831,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10156807858,
+      "name": "Vegan carousel",
+      "names": {},
+      "lat": 38.021978,
+      "lng": 23.802726,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=health_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10156809890,
+      "name": "Ertha",
+      "names": {},
+      "lat": 38.051544,
+      "lng": 23.829911,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "craft=tea",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10156810227,
+      "name": "The Nutlers",
+      "names": {},
+      "lat": 38.061454,
+      "lng": 23.762619,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "craft=nut_butter",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10156810230,
+      "name": "Life Roots",
+      "names": {},
+      "lat": 37.965861,
+      "lng": 23.727317,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=cosmetics",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10156814147,
+      "name": "Soap Up Project",
+      "names": {},
+      "lat": 37.927782,
+      "lng": 23.69505,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "craft=soap",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10156817023,
+      "name": "Bio Diatrofiki",
+      "names": {},
+      "lat": 37.964596,
+      "lng": 23.670931,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "craft=health_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10156817024,
+      "name": "Ichnos",
+      "names": {},
+      "lat": 38.042461,
+      "lng": 23.816144,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "craft=soap",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10156851538,
+      "name": "The barking barber",
+      "names": {},
+      "lat": 37.944479,
+      "lng": 23.712988,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=pet_grooming",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10156854981,
+      "name": "Τα κάρβουνα",
+      "names": {},
+      "lat": 37.95861,
+      "lng": 23.741038,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10156855259,
+      "name": "Καισαριανιώτισσα",
+      "names": {},
+      "lat": 37.968079,
+      "lng": 23.75943,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10156856957,
+      "name": "Bonbon fait maison",
+      "names": {},
+      "lat": 37.975646,
+      "lng": 23.730604,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=ice_cream",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10156857067,
+      "name": "Fontana",
+      "names": {},
+      "lat": 37.976723,
+      "lng": 23.727523,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2025-05-10"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10156857068,
+      "name": "Γρηγόρης",
+      "names": {
+        "el": "Γρηγόρης",
+        "en": "Gregory's"
+      },
+      "lat": 37.939508,
+      "lng": 23.750426,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10156861118,
+      "name": "Bufala Gelato",
+      "names": {},
+      "lat": 37.946463,
+      "lng": 23.713428,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=ice_cream",
+      "check_date": "2025-04-06"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10156865151,
+      "name": "Slim Bites",
+      "names": {},
+      "lat": 38.004612,
+      "lng": 23.776743,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=pastry",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10159431733,
+      "name": "l'artigiano",
+      "names": {},
+      "lat": 37.996305,
+      "lng": 23.681105,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "craft=caterer",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10159440807,
+      "name": "Γρηγόρης",
+      "names": {
+        "el": "Γρηγόρης",
+        "en": "Gregory's"
+      },
+      "lat": 38.05606,
+      "lng": 23.812257,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10159441842,
+      "name": "l'artigiano",
+      "names": {},
+      "lat": 38.025398,
+      "lng": 23.696203,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "craft=caterer",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10159456671,
+      "name": "Το μαγκάλι",
+      "names": {},
+      "lat": 38.013334,
+      "lng": 23.686911,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10166271017,
+      "name": "Coffee Art",
+      "names": {
+        "en": "Coffee Art"
+      },
+      "lat": 37.986188,
+      "lng": 23.75705,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10166932079,
+      "name": null,
+      "names": {},
+      "lat": 37.933204,
+      "lng": 23.692916,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10166932084,
+      "name": null,
+      "names": {},
+      "lat": 37.927718,
+      "lng": 23.685891,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10169131679,
+      "name": "Arte italiana",
+      "names": {},
+      "lat": 37.967916,
+      "lng": 23.657912,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=ice_cream",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10169131680,
+      "name": "l'artigiano",
+      "names": {},
+      "lat": 37.966189,
+      "lng": 23.636515,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "craft=caterer",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10184167572,
+      "name": null,
+      "names": {
+        "el": "Παν. Παπαδάκης"
+      },
+      "lat": 37.931435,
+      "lng": 23.695718,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=doctors",
+      "check_date": "2024-12-30"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10240056625,
+      "name": "Mama Tierra Acropolis",
+      "names": {},
+      "lat": 37.967542,
+      "lng": 23.729834,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2025-11-11"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10301239263,
+      "name": "Wagamama",
+      "names": {},
+      "lat": 38.034128,
+      "lng": 23.792257,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10304067046,
+      "name": "No Harm Charm",
+      "names": {},
+      "lat": 37.946406,
+      "lng": 23.71184,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=cosmetics",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10304643833,
+      "name": "Little bear",
+      "names": {},
+      "lat": 37.94632,
+      "lng": 23.647672,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=pastry",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10307260452,
+      "name": "Αρισμαρί & Μέλι",
+      "names": {},
+      "lat": 38.024084,
+      "lng": 23.805556,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=supermarket",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10573357275,
+      "name": "Slim bites",
+      "names": {},
+      "lat": 38.042031,
+      "lng": 23.832853,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=pastry",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10573658151,
+      "name": "Σπανού Αγγελική",
+      "names": {},
+      "lat": 38.039487,
+      "lng": 23.827537,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=doctors",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10576819547,
+      "name": "Δήμητρα Μακρυγιάννη",
+      "names": {},
+      "lat": 37.984667,
+      "lng": 23.739839,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10576880148,
+      "name": "Γεύσεις της Δαμασκού",
+      "names": {},
+      "lat": 38.001046,
+      "lng": 23.735495,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10581644427,
+      "name": "Ηλίανθος",
+      "names": {},
+      "lat": 38.012109,
+      "lng": 23.687614,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=health_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10581902453,
+      "name": "Kitchen Lab",
+      "names": {},
+      "lat": 38.005881,
+      "lng": 23.827044,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10582726015,
+      "name": "Άννα",
+      "names": {},
+      "lat": 37.976382,
+      "lng": 23.74143,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=hairdresser",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10582823730,
+      "name": "LuxOlympus Collection",
+      "names": {},
+      "lat": 37.976248,
+      "lng": 23.730991,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=cosmetics",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10582914865,
+      "name": "Αργώ",
+      "names": {},
+      "lat": 37.926181,
+      "lng": 23.693422,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=alcohol",
+      "check_date": "2025-12-20"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10582952936,
+      "name": "La Baguette",
+      "names": {},
+      "lat": 37.913717,
+      "lng": 23.71229,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=bakery",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10594082416,
+      "name": "Getactive",
+      "names": {},
+      "lat": 37.939344,
+      "lng": 23.645768,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10595299513,
+      "name": "Little Darling",
+      "names": {},
+      "lat": 37.906368,
+      "lng": 23.752034,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "craft=pastry",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10616282718,
+      "name": "the Big Bad Wolf",
+      "names": {},
+      "lat": 37.943656,
+      "lng": 23.713884,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10698261498,
+      "name": "Holy Llama",
+      "names": {},
+      "lat": 37.973981,
+      "lng": 23.733125,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10698261499,
+      "name": "Holy Llama",
+      "names": {},
+      "lat": 37.954193,
+      "lng": 23.747593,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10797722752,
+      "name": "Αξάρι",
+      "names": {},
+      "lat": 37.944512,
+      "lng": 23.720521,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2023-04-10"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11055362736,
+      "name": "Jaipur Palace",
+      "names": {},
+      "lat": 37.974741,
+      "lng": 23.7286,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11216143778,
+      "name": "Hanoi",
+      "names": {},
+      "lat": 37.975618,
+      "lng": 23.731546,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2023-09-24"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11303178261,
+      "name": "Πάρκο σκύλων",
+      "names": {},
+      "lat": 37.954588,
+      "lng": 23.719628,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11592628116,
+      "name": "Λέιλιμ λέι",
+      "names": {
+        "el": "Λέιλιμ λέι",
+        "en": "Leylim Ley"
+      },
+      "lat": 37.988685,
+      "lng": 23.748248,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-06-26"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11816203285,
+      "name": "Colour Youth",
+      "names": {},
+      "lat": 37.979603,
+      "lng": 23.722971,
+      "tags": {
+        "lgbtq": "primary"
+      },
+      "themes": [
+        "lgbtq"
+      ],
+      "category": "amenity=community_centre",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11823169573,
+      "name": "Το Αιγυπτιακόν",
+      "names": {},
+      "lat": 37.973078,
+      "lng": 23.660194,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11964894631,
+      "name": "Worship coffee",
+      "names": {},
+      "lat": 37.999884,
+      "lng": 23.771766,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-09-22"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12016048369,
+      "name": null,
+      "names": {
+        "en": "Picky Brunch & Speciality Coffee"
+      },
+      "lat": 37.97806,
+      "lng": 23.723416,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-09-29"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12302124511,
+      "name": "Plan(e)t Ice Cream",
+      "names": {},
+      "lat": 37.976904,
+      "lng": 23.725442,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12454300836,
+      "name": "Kalipita",
+      "names": {},
+      "lat": 37.936032,
+      "lng": 23.701008,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=catering",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12456101962,
+      "name": "Vegan Life",
+      "names": {},
+      "lat": 37.954152,
+      "lng": 23.70286,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12458965630,
+      "name": "Dirty Gourmet",
+      "names": {},
+      "lat": 38.029557,
+      "lng": 23.817114,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12492809905,
+      "name": "Apola Souvlaki",
+      "names": {},
+      "lat": 37.980674,
+      "lng": 23.678401,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12520749111,
+      "name": "Ο κήπος 1961",
+      "names": {},
+      "lat": 37.957065,
+      "lng": 23.73812,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=health_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12533748958,
+      "name": "Worship Coffee",
+      "names": {},
+      "lat": 38.026426,
+      "lng": 23.810749,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12533774434,
+      "name": "Worship Coffee",
+      "names": {},
+      "lat": 37.946183,
+      "lng": 23.711412,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2025-12-29"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12533792294,
+      "name": "Worship Coffee",
+      "names": {},
+      "lat": 38.036344,
+      "lng": 23.825451,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12533803940,
+      "name": "Worship Coffee",
+      "names": {},
+      "lat": 38.055188,
+      "lng": 23.807707,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12535178781,
+      "name": "Vegan Meat",
+      "names": {},
+      "lat": 37.96776,
+      "lng": 23.643905,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12535203229,
+      "name": "Ο Βέγκαν 269",
+      "names": {},
+      "lat": 38.032639,
+      "lng": 23.714982,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12547505072,
+      "name": "Bon Bon fait maison",
+      "names": {},
+      "lat": 37.976945,
+      "lng": 23.729008,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=ice_cream",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12550939477,
+      "name": "Slim bites",
+      "names": {},
+      "lat": 37.978188,
+      "lng": 23.744488,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=pastry",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12572210896,
+      "name": "Goody's",
+      "names": {},
+      "lat": 37.939047,
+      "lng": 23.739888,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12583248567,
+      "name": "Goody's",
+      "names": {},
+      "lat": 38.02314,
+      "lng": 23.735835,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12599983859,
+      "name": "Planethealth.gr",
+      "names": {},
+      "lat": 38.046779,
+      "lng": 23.750683,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12609743785,
+      "name": "to Falafel tou Psyrri",
+      "names": {},
+      "lat": 38.043594,
+      "lng": 23.753598,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12616022717,
+      "name": "Goodys",
+      "names": {},
+      "lat": 38.013619,
+      "lng": 23.751739,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-10-11"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12631410524,
+      "name": "Enjoy free",
+      "names": {},
+      "lat": 38.043227,
+      "lng": 23.752855,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=health_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12639048363,
+      "name": "Vegan carousel",
+      "names": {},
+      "lat": 37.991195,
+      "lng": 23.766609,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=health_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12640412089,
+      "name": "Food We Love",
+      "names": {},
+      "lat": 38.054232,
+      "lng": 23.804431,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=health_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12659537294,
+      "name": "Delicious Farm",
+      "names": {},
+      "lat": 38.007278,
+      "lng": 23.802102,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=deli",
+      "check_date": "2025-05-13"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13027193216,
+      "name": null,
+      "names": {},
+      "lat": 37.994373,
+      "lng": 23.793561,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13461967101,
+      "name": "Kitsune Athens",
+      "names": {},
+      "lat": 37.985887,
+      "lng": 23.741729,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13475093701,
+      "name": "TASTE OF PUNJAB",
+      "names": {},
+      "lat": 37.9591,
+      "lng": 23.671623,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13819752801,
+      "name": "Lovely Days",
+      "names": {},
+      "lat": 38.005305,
+      "lng": 23.695162,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-05-12"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13909637673,
+      "name": "Γρηγόρης",
+      "names": {
+        "el": "Γρηγόρης",
+        "en": "Gregory's"
+      },
+      "lat": 38.04238,
+      "lng": 23.752964,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-06-20"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13936895701,
+      "name": "Roof Top Garden",
+      "names": {},
+      "lat": 37.970137,
+      "lng": 23.730228,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-09-10"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 14102857745,
+      "name": "Meze21",
+      "names": {},
+      "lat": 37.980949,
+      "lng": 23.727557,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 14132960047,
+      "name": "Robolo",
+      "names": {},
+      "lat": 37.978636,
+      "lng": 23.72209,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 14280542501,
+      "name": "Vegan stories by Konstantinos",
+      "names": {},
+      "lat": 37.98634,
+      "lng": 23.731173,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-10-13"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 98192082,
+      "name": "Πλατεία Ευαγγελικής Σχολής",
+      "names": {},
+      "lat": 37.985896,
+      "lng": 23.760486,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 195415732,
+      "name": "Kayak",
+      "names": {},
+      "lat": 37.97094,
+      "lng": 23.730193,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=ice_cream",
+      "check_date": "2025-05-14"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 196384164,
+      "name": "Πλατεία Ευαγγελικής Σχολής",
+      "names": {},
+      "lat": 37.985896,
+      "lng": 23.760486,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 223578260,
+      "name": "Hard Rock Cafe",
+      "names": {},
+      "lat": 37.975626,
+      "lng": 23.725277,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-03-23"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 223874594,
+      "name": "It",
+      "names": {},
+      "lat": 37.978718,
+      "lng": 23.739324,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 228724510,
+      "name": "ΙΕΚ ΣΒΙΕ",
+      "names": {},
+      "lat": 37.985418,
+      "lng": 23.730528,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": null,
+      "check_date": "2026-01-18"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 271123115,
+      "name": null,
+      "names": {},
+      "lat": 37.936432,
+      "lng": 23.63916,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 378927139,
+      "name": "Domino's",
+      "names": {},
+      "lat": 38.054706,
+      "lng": 23.811927,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 390831464,
+      "name": "Kayak",
+      "names": {},
+      "lat": 37.97094,
+      "lng": 23.730193,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=ice_cream",
+      "check_date": "2025-05-14"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 436656903,
+      "name": null,
+      "names": {},
+      "lat": 37.961915,
+      "lng": 23.71535,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 447156520,
+      "name": "Hard Rock Cafe",
+      "names": {},
+      "lat": 37.975626,
+      "lng": 23.725277,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-03-23"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 447749188,
+      "name": "It",
+      "names": {},
+      "lat": 37.978718,
+      "lng": 23.739324,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 455038747,
+      "name": "Grand Foyer",
+      "names": {},
+      "lat": 37.992473,
+      "lng": 23.729604,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 455685178,
+      "name": "Alexander the Great",
+      "names": {},
+      "lat": 37.98472,
+      "lng": 23.721543,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 456416414,
+      "name": "The Place by COCO-MAT.bike",
+      "names": {},
+      "lat": 37.979283,
+      "lng": 23.711828,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2023-09-24"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 457449020,
+      "name": "ΙΕΚ ΣΒΙΕ",
+      "names": {},
+      "lat": 37.985418,
+      "lng": 23.730528,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": null,
+      "check_date": "2026-01-18"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 540537048,
+      "name": "ΒΕΑΤ",
+      "names": {},
+      "lat": 37.973247,
+      "lng": 23.661736,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 542246230,
+      "name": null,
+      "names": {},
+      "lat": 37.936432,
+      "lng": 23.63916,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 550785404,
+      "name": "Vego",
+      "names": {},
+      "lat": 37.940482,
+      "lng": 23.739629,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 675388164,
+      "name": "l'artigiano",
+      "names": {},
+      "lat": 37.93561,
+      "lng": 23.729308,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "craft=caterer",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 679583847,
+      "name": "Πάρκο Σκύλων",
+      "names": {
+        "el": "Πάρκο Σκύλων",
+        "en": "Puppies Park"
+      },
+      "lat": 37.932469,
+      "lng": 23.721815,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 701718343,
+      "name": null,
+      "names": {},
+      "lat": 38.03245,
+      "lng": 23.697414,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 701718344,
+      "name": null,
+      "names": {},
+      "lat": 38.03248,
+      "lng": 23.69766,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 707853662,
+      "name": "Βιολογικό Χωριό",
+      "names": {},
+      "lat": 38.052218,
+      "lng": 23.767402,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=supermarket",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 716719154,
+      "name": "Πάρκο κοινωνικοποίησης & άσκησης σκύλων",
+      "names": {},
+      "lat": 38.029623,
+      "lng": 23.765349,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 757854278,
+      "name": "Domino's",
+      "names": {},
+      "lat": 38.054706,
+      "lng": 23.811927,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 765159932,
+      "name": "Παντοπωλείο Αθμόνιον",
+      "names": {},
+      "lat": 38.043442,
+      "lng": 23.813328,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=greengrocer",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 785372130,
+      "name": null,
+      "names": {},
+      "lat": 37.927722,
+      "lng": 23.685854,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 798740274,
+      "name": "Πάρκο σκύλων",
+      "names": {},
+      "lat": 37.927623,
+      "lng": 23.71871,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 815922041,
+      "name": "Αίγλη",
+      "names": {
+        "el": "Αίγλη",
+        "en": "Aegli"
+      },
+      "lat": 37.970998,
+      "lng": 23.737493,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 854166496,
+      "name": "Misafir",
+      "names": {},
+      "lat": 37.976738,
+      "lng": 23.724894,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 862211251,
+      "name": "Δημοτικό Πάρκο Σκύλων Ιλίου (Πάρκο Ραδιοφωνίας)",
+      "names": {},
+      "lat": 38.040532,
+      "lng": 23.708685,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 873313806,
+      "name": null,
+      "names": {},
+      "lat": 37.961915,
+      "lng": 23.71535,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 876214883,
+      "name": null,
+      "names": {},
+      "lat": 37.922123,
+      "lng": 23.739011,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 877658944,
+      "name": null,
+      "names": {},
+      "lat": 37.919436,
+      "lng": 23.738859,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 910077494,
+      "name": "Grand Foyer",
+      "names": {},
+      "lat": 37.992473,
+      "lng": 23.729604,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 911370356,
+      "name": "Alexander the Great",
+      "names": {},
+      "lat": 37.98472,
+      "lng": 23.721543,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 912832828,
+      "name": "The Place by COCO-MAT.bike",
+      "names": {},
+      "lat": 37.979283,
+      "lng": 23.711828,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2023-09-24"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 925880059,
+      "name": null,
+      "names": {},
+      "lat": 38.001874,
+      "lng": 23.702894,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 939553238,
+      "name": null,
+      "names": {},
+      "lat": 37.909691,
+      "lng": 23.730005,
+      "tags": {
+        "dog": "yes",
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 962413335,
+      "name": "Πάρκο Σκύλων Άλσους Μητέρας",
+      "names": {
+        "el": "Πάρκο Σκύλων Άλσους Μητέρας",
+        "en": "Dog Park of Mother's Grove"
+      },
+      "lat": 37.993025,
+      "lng": 23.662313,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 978623825,
+      "name": "Σουβλακούπολη Hammam",
+      "names": {},
+      "lat": 38.034081,
+      "lng": 23.737217,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1009577047,
+      "name": "Πάρκο Σκύλων Αιόλου",
+      "names": {
+        "el": "Πάρκο Σκύλων Αιόλου",
+        "en": "Aiolou Dog Park"
+      },
+      "lat": 37.990247,
+      "lng": 23.664735,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1081074096,
+      "name": "ΒΕΑΤ",
+      "names": {},
+      "lat": 37.973247,
+      "lng": 23.661736,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1092134657,
+      "name": "Πάρκο σκύλων Άλσος Προμπονά",
+      "names": {},
+      "lat": 38.030827,
+      "lng": 23.741491,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1101570808,
+      "name": "Vego",
+      "names": {},
+      "lat": 37.940482,
+      "lng": 23.739629,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1112137326,
+      "name": "Kaldi Καφεκοπτείο",
+      "names": {},
+      "lat": 37.987214,
+      "lng": 23.744765,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-06-04"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1148179887,
+      "name": "Veganact Νικολοπούλου",
+      "names": {},
+      "lat": 38.01222,
+      "lng": 23.71661,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1195207521,
+      "name": null,
+      "names": {},
+      "lat": 37.903593,
+      "lng": 23.744048,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1195656206,
+      "name": null,
+      "names": {},
+      "lat": 37.942589,
+      "lng": 23.662439,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1196902201,
+      "name": null,
+      "names": {},
+      "lat": 37.914687,
+      "lng": 23.750849,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1229068753,
+      "name": null,
+      "names": {},
+      "lat": 37.982073,
+      "lng": 23.644964,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": "2023-12-06"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1245946854,
+      "name": null,
+      "names": {},
+      "lat": 37.99206,
+      "lng": 23.721657,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1296135391,
+      "name": null,
+      "names": {},
+      "lat": 38.034779,
+      "lng": 23.772042,
+      "tags": {
+        "dog": "unleashed",
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1300430468,
+      "name": "Μαντανία",
+      "names": {},
+      "lat": 37.947649,
+      "lng": 23.737093,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1301297886,
+      "name": "Πάρκο Κοινωνικοποίησης Σκύλων",
+      "names": {},
+      "lat": 37.984065,
+      "lng": 23.651026,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1350776328,
+      "name": "l'artigiano",
+      "names": {},
+      "lat": 37.93561,
+      "lng": 23.729308,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "craft=caterer",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1359167694,
+      "name": "Πάρκο Σκύλων",
+      "names": {
+        "el": "Πάρκο Σκύλων",
+        "en": "Puppies Park"
+      },
+      "lat": 37.932469,
+      "lng": 23.721815,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1403436686,
+      "name": null,
+      "names": {},
+      "lat": 38.03245,
+      "lng": 23.697414,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1403436688,
+      "name": null,
+      "names": {},
+      "lat": 38.03248,
+      "lng": 23.69766,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1415707324,
+      "name": "Βιολογικό Χωριό",
+      "names": {},
+      "lat": 38.052218,
+      "lng": 23.767402,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=supermarket",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1433438308,
+      "name": "Πάρκο κοινωνικοποίησης & άσκησης σκύλων",
+      "names": {},
+      "lat": 38.029623,
+      "lng": 23.765349,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1444492728,
+      "name": null,
+      "names": {},
+      "lat": 37.937728,
+      "lng": 23.74088,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1492496560,
+      "name": "Δημοτικό Πάρκο Σκύλων Ιλίου (Πάρκο Ραδιοφωνίας)",
+      "names": {},
+      "lat": 38.040829,
+      "lng": 23.708829,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1511319370,
+      "name": "Δούκισσα Μεζεδοπωλείο",
+      "names": {},
+      "lat": 38.019396,
+      "lng": 23.810363,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1530319864,
+      "name": "Παντοπωλείο Αθμόνιον",
+      "names": {},
+      "lat": 38.043442,
+      "lng": 23.813328,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=greengrocer",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1549105061,
+      "name": null,
+      "names": {},
+      "lat": 37.964771,
+      "lng": 23.61396,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1570744260,
+      "name": null,
+      "names": {},
+      "lat": 37.927722,
+      "lng": 23.685854,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1597480548,
+      "name": "Πάρκο σκύλων",
+      "names": {},
+      "lat": 37.927623,
+      "lng": 23.71871,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1631844082,
+      "name": "Αίγλη",
+      "names": {
+        "el": "Αίγλη",
+        "en": "Aegli"
+      },
+      "lat": 37.970998,
+      "lng": 23.737493,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1708332992,
+      "name": "Misafir",
+      "names": {},
+      "lat": 37.976738,
+      "lng": 23.724894,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1724422502,
+      "name": "Δημοτικό Πάρκο Σκύλων Ιλίου (Πάρκο Ραδιοφωνίας)",
+      "names": {},
+      "lat": 38.040532,
+      "lng": 23.708685,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1752429766,
+      "name": null,
+      "names": {},
+      "lat": 37.922123,
+      "lng": 23.739011,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1755317888,
+      "name": null,
+      "names": {},
+      "lat": 37.919436,
+      "lng": 23.738859,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1851760118,
+      "name": null,
+      "names": {},
+      "lat": 38.001874,
+      "lng": 23.702894,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1879106476,
+      "name": null,
+      "names": {},
+      "lat": 37.909691,
+      "lng": 23.730005,
+      "tags": {
+        "dog": "yes",
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1924826670,
+      "name": "Πάρκο Σκύλων Άλσους Μητέρας",
+      "names": {
+        "el": "Πάρκο Σκύλων Άλσους Μητέρας",
+        "en": "Dog Park of Mother's Grove"
+      },
+      "lat": 37.993025,
+      "lng": 23.662313,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1957247650,
+      "name": "Σουβλακούπολη Hammam",
+      "names": {},
+      "lat": 38.034081,
+      "lng": 23.737217,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2019154094,
+      "name": "Πάρκο Σκύλων Αιόλου",
+      "names": {
+        "el": "Πάρκο Σκύλων Αιόλου",
+        "en": "Aiolou Dog Park"
+      },
+      "lat": 37.990247,
+      "lng": 23.664735,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2184269314,
+      "name": "Πάρκο σκύλων Άλσος Προμπονά",
+      "names": {},
+      "lat": 38.030827,
+      "lng": 23.741491,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2224274652,
+      "name": "Kaldi Καφεκοπτείο",
+      "names": {},
+      "lat": 37.987214,
+      "lng": 23.744765,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-06-04"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2296359774,
+      "name": "Veganact Νικολοπούλου",
+      "names": {},
+      "lat": 38.01222,
+      "lng": 23.71661,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2390415042,
+      "name": null,
+      "names": {},
+      "lat": 37.903593,
+      "lng": 23.744048,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2391312412,
+      "name": null,
+      "names": {},
+      "lat": 37.942589,
+      "lng": 23.662439,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2393804402,
+      "name": null,
+      "names": {},
+      "lat": 37.914687,
+      "lng": 23.750849,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2458137506,
+      "name": null,
+      "names": {},
+      "lat": 37.982073,
+      "lng": 23.644964,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": "2023-12-06"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2491893708,
+      "name": null,
+      "names": {},
+      "lat": 37.99206,
+      "lng": 23.721657,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2592270782,
+      "name": null,
+      "names": {},
+      "lat": 38.034779,
+      "lng": 23.772042,
+      "tags": {
+        "dog": "unleashed",
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2600860936,
+      "name": "Μαντανία",
+      "names": {},
+      "lat": 37.947649,
+      "lng": 23.737093,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2602595772,
+      "name": "Πάρκο Κοινωνικοποίησης Σκύλων",
+      "names": {},
+      "lat": 37.984065,
+      "lng": 23.651026,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2888985456,
+      "name": null,
+      "names": {},
+      "lat": 37.937728,
+      "lng": 23.74088,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2984993120,
+      "name": "Δημοτικό Πάρκο Σκύλων Ιλίου (Πάρκο Ραδιοφωνίας)",
+      "names": {},
+      "lat": 38.040829,
+      "lng": 23.708829,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 3022638740,
+      "name": "Δούκισσα Μεζεδοπωλείο",
+      "names": {},
+      "lat": 38.019396,
+      "lng": 23.810363,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 3098210122,
+      "name": null,
+      "names": {},
+      "lat": 37.964771,
+      "lng": 23.61396,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    }
+  ]
+}

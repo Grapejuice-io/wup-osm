@@ -1,0 +1,240 @@
+{
+  "version": 1,
+  "city": "dubrovnik",
+  "country": "HR",
+  "region": "europe/croatia",
+  "extract_timestamp": "2026-10-27T21:23:59Z",
+  "radius_km": 10,
+  "bbox": [
+    17.98622,
+    42.55045,
+    18.23045,
+    42.73011
+  ],
+  "venues": [
+    {
+      "osm_type": "node",
+      "osm_id": 1871515433,
+      "name": "Nishta",
+      "names": {},
+      "lat": 42.641797,
+      "lng": 18.108587,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2024-05-04"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4917055921,
+      "name": "VegeDub",
+      "names": {},
+      "lat": 42.641383,
+      "lng": 18.109375,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8890649717,
+      "name": "Urban & Veggie",
+      "names": {},
+      "lat": 42.65503,
+      "lng": 18.088023,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10128527317,
+      "name": "Otto street food",
+      "names": {},
+      "lat": 42.646775,
+      "lng": 18.093782,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11057111483,
+      "name": "Soul Kitchen",
+      "names": {},
+      "lat": 42.640553,
+      "lng": 18.107749,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2023-07-21"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11874306755,
+      "name": "Bòkār Dubrovnik",
+      "names": {},
+      "lat": 42.64073,
+      "lng": 18.110076,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2024-05-02"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12235866345,
+      "name": "Milk",
+      "names": {},
+      "lat": 42.640216,
+      "lng": 18.109304,
+      "tags": {
+        "lgbtq": "primary"
+      },
+      "themes": [
+        "lgbtq"
+      ],
+      "category": "amenity=bar",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 14181892341,
+      "name": "Bosančica Dubrovnik",
+      "names": {},
+      "lat": 42.652566,
+      "lng": 18.080224,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-08-20"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 239483045,
+      "name": "Ankora",
+      "names": {},
+      "lat": 42.582478,
+      "lng": 18.21678,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2024-08-30"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 478966090,
+      "name": "Ankora",
+      "names": {},
+      "lat": 42.582478,
+      "lng": 18.21678,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2024-08-30"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 613131242,
+      "name": "Dog beach",
+      "names": {},
+      "lat": 42.664146,
+      "lng": 18.072237,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1016563183,
+      "name": "Restoran Agora",
+      "names": {},
+      "lat": 42.656021,
+      "lng": 18.072405,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2023-07-21"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1226262484,
+      "name": "Dog beach",
+      "names": {},
+      "lat": 42.664146,
+      "lng": 18.072237,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2033126366,
+      "name": "Restoran Agora",
+      "names": {},
+      "lat": 42.656021,
+      "lng": 18.072405,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2023-07-21"
+    }
+  ]
+}

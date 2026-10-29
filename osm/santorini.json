@@ -1,0 +1,180 @@
+{
+  "version": 1,
+  "city": "santorini",
+  "country": "GR",
+  "region": "europe/greece",
+  "extract_timestamp": "2026-10-27T21:23:59Z",
+  "radius_km": 10,
+  "bbox": [
+    25.32087,
+    36.32517,
+    25.54413,
+    36.50483
+  ],
+  "venues": [
+    {
+      "osm_type": "node",
+      "osm_id": 3074840846,
+      "name": "5 Senses",
+      "names": {},
+      "lat": 36.420195,
+      "lng": 25.431216,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4344549892,
+      "name": "Tranquilo",
+      "names": {},
+      "lat": 36.350584,
+      "lng": 25.46992,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4394170306,
+      "name": "Sky Lounge",
+      "names": {},
+      "lat": 36.371422,
+      "lng": 25.481625,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5500171523,
+      "name": "JuiceMe",
+      "names": {
+        "en": "juiceme"
+      },
+      "lat": 36.372504,
+      "lng": 25.480326,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5902081085,
+      "name": "Paradox",
+      "names": {},
+      "lat": 36.463019,
+      "lng": 25.378468,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6419236296,
+      "name": "Karma",
+      "names": {},
+      "lat": 36.461938,
+      "lng": 25.374796,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6661272185,
+      "name": "FalafeLAND",
+      "names": {},
+      "lat": 36.418109,
+      "lng": 25.433632,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8773056017,
+      "name": null,
+      "names": {
+        "en": "Santo Athiri Restaurant"
+      },
+      "lat": 36.38043,
+      "lng": 25.486884,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9609330617,
+      "name": "Ohh boy",
+      "names": {},
+      "lat": 36.418496,
+      "lng": 25.43102,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9673489664,
+      "name": "Mod",
+      "names": {},
+      "lat": 36.426006,
+      "lng": 25.43052,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "tourism=hotel",
+      "check_date": null
+    }
+  ]
+}

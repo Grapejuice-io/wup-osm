@@ -1,0 +1,1074 @@
+{
+  "version": 1,
+  "city": "angers",
+  "country": "FR",
+  "region": "europe/france/pays-de-la-loire",
+  "extract_timestamp": "2026-10-27T21:23:59Z",
+  "radius_km": 10,
+  "bbox": [
+    -0.68845,
+    47.38295,
+    -0.42266,
+    47.56261
+  ],
+  "venues": [
+    {
+      "osm_type": "node",
+      "osm_id": 2343238881,
+      "name": "Pasta al Dente",
+      "names": {},
+      "lat": 47.471724,
+      "lng": -0.552935,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2024-01-14"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2862085560,
+      "name": "Marlaguette",
+      "names": {},
+      "lat": 47.461144,
+      "lng": -0.538315,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2914974468,
+      "name": "Association : les Amis du Chat Libre",
+      "names": {},
+      "lat": 47.479639,
+      "lng": -0.586268,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3817027083,
+      "name": "Burgers & friends",
+      "names": {},
+      "lat": 47.476362,
+      "lng": -0.551596,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4693824393,
+      "name": "Le Punjab",
+      "names": {
+        "fr": "Le Punjab"
+      },
+      "lat": 47.473088,
+      "lng": -0.549098,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-09-15"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5592639433,
+      "name": "Les Casse-Croûte de Suzy",
+      "names": {},
+      "lat": 47.472346,
+      "lng": -0.552278,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2025-03-17"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6008051961,
+      "name": "Paku Paku",
+      "names": {},
+      "lat": 47.467361,
+      "lng": -0.550026,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6022982097,
+      "name": "Akan Ton Education",
+      "names": {},
+      "lat": 47.466399,
+      "lng": -0.632927,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=animal_training",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6067268886,
+      "name": "Potiron & Ciboulette",
+      "names": {},
+      "lat": 47.471783,
+      "lng": -0.55516,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6722822045,
+      "name": "Le Grandgousier",
+      "names": {},
+      "lat": 47.47272,
+      "lng": -0.55203,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6789256838,
+      "name": "Croccante",
+      "names": {},
+      "lat": 47.473643,
+      "lng": -0.551198,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7070213678,
+      "name": "La table 33",
+      "names": {},
+      "lat": 47.478201,
+      "lng": -0.545608,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2023-10-27"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7134312286,
+      "name": "Le Relais",
+      "names": {},
+      "lat": 47.465873,
+      "lng": -0.556937,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2023-10-28"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7227294285,
+      "name": "Foodista",
+      "names": {},
+      "lat": 47.475012,
+      "lng": -0.550326,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7304548467,
+      "name": "La Soufflerie",
+      "names": {},
+      "lat": 47.473021,
+      "lng": -0.550156,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-03-09"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7638178572,
+      "name": "Le 2.4.9",
+      "names": {},
+      "lat": 47.478194,
+      "lng": -0.56437,
+      "tags": {
+        "lgbtq": "primary"
+      },
+      "themes": [
+        "lgbtq"
+      ],
+      "category": "amenity=bar",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8286178814,
+      "name": "Heiko",
+      "names": {},
+      "lat": 47.469558,
+      "lng": -0.553687,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8330324640,
+      "name": "Pokawa",
+      "names": {},
+      "lat": 47.471849,
+      "lng": -0.552231,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8605876118,
+      "name": "Maison Watson",
+      "names": {},
+      "lat": 47.472279,
+      "lng": -0.554365,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2024-11-10"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8841451163,
+      "name": "Icerolls & co",
+      "names": {},
+      "lat": 47.472147,
+      "lng": -0.555084,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8842476478,
+      "name": "Gongcha",
+      "names": {},
+      "lat": 47.47224,
+      "lng": -0.554317,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8871315271,
+      "name": "Prends-en de la Graine",
+      "names": {},
+      "lat": 47.473521,
+      "lng": -0.550744,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=convenience",
+      "check_date": "2026-08-18"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8879219102,
+      "name": "Frikadel",
+      "names": {},
+      "lat": 47.472282,
+      "lng": -0.540575,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9999289971,
+      "name": "Mauvaise Graine",
+      "names": {},
+      "lat": 47.474082,
+      "lng": -0.560094,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11042222776,
+      "name": "Quazar",
+      "names": {},
+      "lat": 47.474516,
+      "lng": -0.532587,
+      "tags": {
+        "lgbtq": "primary"
+      },
+      "themes": [
+        "lgbtq"
+      ],
+      "category": "amenity=community_centre",
+      "check_date": "2024-12-06"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11119807446,
+      "name": "La Maison",
+      "names": {},
+      "lat": 47.47257,
+      "lng": -0.561169,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12551669285,
+      "name": "Chardon",
+      "names": {},
+      "lat": 47.462887,
+      "lng": -0.559162,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13006859604,
+      "name": "Café-cantine La Bulle En Bois",
+      "names": {},
+      "lat": 47.477919,
+      "lng": -0.604248,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13339481881,
+      "name": "Mauvaise Graine",
+      "names": {},
+      "lat": 47.473021,
+      "lng": -0.552323,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-02-27"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13814187679,
+      "name": "La Guinguette de Port Thibault",
+      "names": {},
+      "lat": 47.417499,
+      "lng": -0.583099,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 14080640105,
+      "name": "Le Refuge",
+      "names": {},
+      "lat": 47.469899,
+      "lng": -0.536081,
+      "tags": {
+        "lgbtq": "primary"
+      },
+      "themes": [
+        "lgbtq"
+      ],
+      "category": "amenity=community_centre",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 23555708,
+      "name": "Parc de Pignerolle",
+      "names": {},
+      "lat": 47.470337,
+      "lng": -0.475216,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 31050558,
+      "name": "Place Ney",
+      "names": {},
+      "lat": 47.478649,
+      "lng": -0.543811,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 44358687,
+      "name": "Chemin Rural des Raffoux",
+      "names": {},
+      "lat": 47.506048,
+      "lng": -0.567417,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 47111416,
+      "name": "Parc de Pignerolle",
+      "names": {},
+      "lat": 47.470337,
+      "lng": -0.475216,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 62101116,
+      "name": "Place Ney",
+      "names": {},
+      "lat": 47.478649,
+      "lng": -0.543811,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 420892637,
+      "name": "Aire d'accueil de camping-car de Montreuil-Juigné",
+      "names": {},
+      "lat": 47.54156,
+      "lng": -0.615306,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "tourism=caravan_site",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 504463787,
+      "name": null,
+      "names": {},
+      "lat": 47.454604,
+      "lng": -0.673964,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 504463823,
+      "name": null,
+      "names": {},
+      "lat": 47.451328,
+      "lng": -0.679372,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 504510977,
+      "name": null,
+      "names": {},
+      "lat": 47.452902,
+      "lng": -0.675316,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 504697543,
+      "name": "Chemin de la Butte",
+      "names": {},
+      "lat": 47.457239,
+      "lng": -0.664782,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 692597272,
+      "name": null,
+      "names": {},
+      "lat": 47.458064,
+      "lng": -0.670386,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 699632908,
+      "name": null,
+      "names": {},
+      "lat": 47.457128,
+      "lng": -0.669664,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 699889955,
+      "name": null,
+      "names": {},
+      "lat": 47.462972,
+      "lng": -0.668967,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 699933250,
+      "name": null,
+      "names": {},
+      "lat": 47.457551,
+      "lng": -0.665019,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 700095571,
+      "name": "Chemin de la Butte",
+      "names": {},
+      "lat": 47.457211,
+      "lng": -0.662748,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 727753480,
+      "name": "Le Park des Écots",
+      "names": {},
+      "lat": 47.472843,
+      "lng": -0.687964,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 841785274,
+      "name": "Aire d'accueil de camping-car de Montreuil-Juigné",
+      "names": {},
+      "lat": 47.54156,
+      "lng": -0.615306,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "tourism=caravan_site",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 908568612,
+      "name": null,
+      "names": {},
+      "lat": 47.457262,
+      "lng": -0.66571,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 972874285,
+      "name": "Chemin Rural des Raffoux",
+      "names": {},
+      "lat": 47.50554,
+      "lng": -0.568818,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1018658749,
+      "name": null,
+      "names": {},
+      "lat": 47.489871,
+      "lng": -0.559033,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1018658750,
+      "name": null,
+      "names": {},
+      "lat": 47.489342,
+      "lng": -0.559369,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1267860353,
+      "name": null,
+      "names": {},
+      "lat": 47.462395,
+      "lng": -0.518407,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1286497976,
+      "name": null,
+      "names": {},
+      "lat": 47.457417,
+      "lng": -0.663492,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1286497978,
+      "name": null,
+      "names": {},
+      "lat": 47.457428,
+      "lng": -0.663628,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1327178640,
+      "name": "Chemin Rural des Raffoux",
+      "names": {},
+      "lat": 47.505398,
+      "lng": -0.56914,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1442554153,
+      "name": null,
+      "names": {},
+      "lat": 47.460858,
+      "lng": -0.558515,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1455506960,
+      "name": "Le Park des Écots",
+      "names": {},
+      "lat": 47.472843,
+      "lng": -0.687964,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1513667369,
+      "name": null,
+      "names": {},
+      "lat": 47.467952,
+      "lng": -0.473618,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1539699988,
+      "name": null,
+      "names": {},
+      "lat": 47.460801,
+      "lng": -0.557615,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1539699990,
+      "name": "Oasis Nature",
+      "names": {},
+      "lat": 47.460878,
+      "lng": -0.55745,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1539699991,
+      "name": null,
+      "names": {},
+      "lat": 47.46091,
+      "lng": -0.557247,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1549700988,
+      "name": null,
+      "names": {},
+      "lat": 47.460862,
+      "lng": -0.55822,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2535720706,
+      "name": null,
+      "names": {},
+      "lat": 47.462395,
+      "lng": -0.518407,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 3027334738,
+      "name": null,
+      "names": {},
+      "lat": 47.467952,
+      "lng": -0.473618,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 3079399980,
+      "name": "Oasis Nature",
+      "names": {},
+      "lat": 47.460878,
+      "lng": -0.55745,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    }
+  ]
+}

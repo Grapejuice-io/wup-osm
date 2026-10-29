@@ -1,0 +1,844 @@
+{
+  "version": 1,
+  "city": "beijing",
+  "country": "CN",
+  "region": "asia/china",
+  "extract_timestamp": "2026-10-27T21:23:59Z",
+  "radius_km": 20,
+  "bbox": [
+    116.17332,
+    39.72437,
+    116.64173,
+    40.08369
+  ],
+  "venues": [
+    {
+      "osm_type": "node",
+      "osm_id": 3955542629,
+      "name": "花开素食（东直门店）",
+      "names": {
+        "en": "Blossom Vegetarian"
+      },
+      "lat": 39.93942,
+      "lng": 116.419796,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4890763521,
+      "name": "珍爱时刻·Botanica植物园",
+      "names": {
+        "de": "Botanica",
+        "en": "Botanica"
+      },
+      "lat": 39.982867,
+      "lng": 116.491933,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5135249124,
+      "name": "The Veggie Table",
+      "names": {
+        "en": "The Veggie Table"
+      },
+      "lat": 39.94702,
+      "lng": 116.408656,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5184435991,
+      "name": "静莲斋",
+      "names": {
+        "en": "Jing Lian Zhai"
+      },
+      "lat": 39.946614,
+      "lng": 116.333517,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5468522923,
+      "name": null,
+      "names": {
+        "en": "Root Pop"
+      },
+      "lat": 39.898815,
+      "lng": 116.464768,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5925864186,
+      "name": "The Veggie Table",
+      "names": {
+        "de": "The Veggie Table",
+        "es": "The Veggie Table",
+        "fr": "The Veggie Table",
+        "it": "The Veggie Table"
+      },
+      "lat": 39.947021,
+      "lng": 116.408576,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6220865486,
+      "name": "正隆斋",
+      "names": {
+        "en": "Zhenglong zhai veg"
+      },
+      "lat": 39.928724,
+      "lng": 116.367148,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6390479986,
+      "name": "素虎净素",
+      "names": {
+        "en": "Vege-Tiger Vegan Buffet"
+      },
+      "lat": 39.898351,
+      "lng": 116.386937,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-05-12"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6594267102,
+      "name": "功德林",
+      "names": {
+        "zh": "功德林"
+      },
+      "lat": 39.899172,
+      "lng": 116.405278,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6621727385,
+      "name": "Xi Meng Yi Hao Yuan (Dong Men)",
+      "names": {
+        "en": "24 hour Chinese restaurant"
+      },
+      "lat": 39.847138,
+      "lng": 116.359084,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6622850785,
+      "name": null,
+      "names": {
+        "en": "Lao Qi Yan Su vegetarian restaurant"
+      },
+      "lat": 40.008073,
+      "lng": 116.460678,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6818813966,
+      "name": "Vegan",
+      "names": {},
+      "lat": 39.925722,
+      "lng": 116.433926,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7099203790,
+      "name": "苗祖咖啡",
+      "names": {},
+      "lat": 40.000705,
+      "lng": 116.400244,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8733119992,
+      "name": "Destination目的地",
+      "names": {
+        "en": "Destination",
+        "zh": "目的地酒吧"
+      },
+      "lat": 39.927073,
+      "lng": 116.437184,
+      "tags": {
+        "lgbtq": "primary"
+      },
+      "themes": [
+        "lgbtq"
+      ],
+      "category": "amenity=nightclub",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9816298598,
+      "name": "天厨妙香",
+      "names": {
+        "en": "Tianchu Miaoxiang Vegetarian Restaurant",
+        "zh": "天厨妙香"
+      },
+      "lat": 39.993861,
+      "lng": 116.323047,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10130539056,
+      "name": "喜食方",
+      "names": {},
+      "lat": 39.959551,
+      "lng": 116.29781,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10136670051,
+      "name": "一穗堂放心包子铺",
+      "names": {},
+      "lat": 40.03373,
+      "lng": 116.416191,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10136670053,
+      "name": "一穗堂放心包子铺",
+      "names": {},
+      "lat": 40.044871,
+      "lng": 116.42666,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10147234130,
+      "name": "百易兰州素拉面",
+      "names": {
+        "zh": "百易兰州素拉面"
+      },
+      "lat": 39.97524,
+      "lng": 116.42112,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10173316600,
+      "name": "五台云养生素食馆",
+      "names": {
+        "zh": "五台云养生素食馆"
+      },
+      "lat": 39.948221,
+      "lng": 116.342679,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10763588887,
+      "name": "清和园素食餐厅",
+      "names": {},
+      "lat": 39.909056,
+      "lng": 116.369921,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11264696354,
+      "name": "颐和宜林便民餐厅",
+      "names": {},
+      "lat": 39.93558,
+      "lng": 116.19456,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11264696365,
+      "name": "如意素食",
+      "names": {},
+      "lat": 39.913449,
+      "lng": 116.1924,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11789311287,
+      "name": "静莲斋",
+      "names": {},
+      "lat": 39.961252,
+      "lng": 116.411425,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11873257583,
+      "name": "素虎",
+      "names": {},
+      "lat": 40.04582,
+      "lng": 116.27408,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12176608360,
+      "name": "素虎蔬食料理",
+      "names": {},
+      "lat": 39.99409,
+      "lng": 116.38456,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12298368485,
+      "name": "悦食小筑蔬食茶空间",
+      "names": {},
+      "lat": 40.078659,
+      "lng": 116.339591,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12347376415,
+      "name": "素满香全民食养自助",
+      "names": {},
+      "lat": 39.92395,
+      "lng": 116.59314,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12433719333,
+      "name": "植场素食Vegspot",
+      "names": {},
+      "lat": 39.931769,
+      "lng": 116.447177,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12433719335,
+      "name": "庆春朴门",
+      "names": {},
+      "lat": 39.936569,
+      "lng": 116.448977,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12459928251,
+      "name": "天厨妙香",
+      "names": {},
+      "lat": 39.91919,
+      "lng": 116.44837,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12459928253,
+      "name": "花开素食",
+      "names": {},
+      "lat": 39.917546,
+      "lng": 116.447114,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12459928255,
+      "name": "素小禾·轻素食自助",
+      "names": {},
+      "lat": 39.917749,
+      "lng": 116.446569,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12497428054,
+      "name": "卡贝拉咖啡",
+      "names": {},
+      "lat": 39.98237,
+      "lng": 116.42534,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12640827236,
+      "name": "Mensa",
+      "names": {},
+      "lat": 39.950394,
+      "lng": 116.461561,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12733582954,
+      "name": "如是心素食",
+      "names": {},
+      "lat": 39.92019,
+      "lng": 116.42686,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13503512601,
+      "name": null,
+      "names": {
+        "en": "ChaoChao"
+      },
+      "lat": 39.936478,
+      "lng": 116.402343,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13673861175,
+      "name": null,
+      "names": {},
+      "lat": 39.885121,
+      "lng": 116.554694,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13673861176,
+      "name": null,
+      "names": {},
+      "lat": 39.885613,
+      "lng": 116.55462,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13742814136,
+      "name": "素虎蔬食",
+      "names": {},
+      "lat": 39.90531,
+      "lng": 116.46775,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13742829827,
+      "name": "SUSU·粟粟蔬食料理（阜成门店）",
+      "names": {},
+      "lat": 39.92263,
+      "lng": 116.34782,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13840411249,
+      "name": "植场素食",
+      "names": {
+        "en": "Vegspot Burgers"
+      },
+      "lat": 39.93751,
+      "lng": 116.41145,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 14174619402,
+      "name": "Fayuansi hutong",
+      "names": {},
+      "lat": 39.884944,
+      "lng": 116.366295,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "tourism=attraction",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 534625953,
+      "name": null,
+      "names": {
+        "en": "Lu Yu Xuan Tea House"
+      },
+      "lat": 39.966143,
+      "lng": 116.36747,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 729798105,
+      "name": "小广场",
+      "names": {},
+      "lat": 39.925974,
+      "lng": 116.188297,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1069251906,
+      "name": null,
+      "names": {
+        "en": "Lu Yu Xuan Tea House"
+      },
+      "lat": 39.966143,
+      "lng": 116.36747,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1348424058,
+      "name": "ONSITEEE",
+      "names": {},
+      "lat": 39.950664,
+      "lng": 116.493629,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1459596210,
+      "name": "小广场",
+      "names": {},
+      "lat": 39.925974,
+      "lng": 116.188297,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2696848116,
+      "name": "ONSITEEE",
+      "names": {},
+      "lat": 39.950664,
+      "lng": 116.493629,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    }
+  ]
+}

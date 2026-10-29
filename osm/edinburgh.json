@@ -1,0 +1,3197 @@
+{
+  "version": 1,
+  "city": "edinburgh",
+  "country": "GB",
+  "region": "europe/united-kingdom/scotland",
+  "extract_timestamp": "2026-10-27T21:23:59Z",
+  "radius_km": 10,
+  "bbox": [
+    -3.34962,
+    55.8635,
+    -3.02872,
+    56.04316
+  ],
+  "venues": [
+    {
+      "osm_type": "node",
+      "osm_id": 30452540,
+      "name": "Sheep Heid Inn",
+      "names": {},
+      "lat": 55.941979,
+      "lng": -3.148544,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=pub",
+      "check_date": "2024-07-28"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 49334495,
+      "name": "Braid Hills Hotel",
+      "names": {},
+      "lat": 55.917055,
+      "lng": -3.212645,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "tourism=hotel",
+      "check_date": "2025-11-18"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 57543992,
+      "name": "Cumberland Bar",
+      "names": {},
+      "lat": 55.958966,
+      "lng": -3.197166,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=pub",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 255760161,
+      "name": "The Auld Hoose",
+      "names": {},
+      "lat": 55.943492,
+      "lng": -3.180283,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=pub",
+      "check_date": "2026-09-12"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 324368460,
+      "name": "The Earl Grange Cafe",
+      "names": {},
+      "lat": 55.933222,
+      "lng": -3.177965,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-07-30"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 333159417,
+      "name": "The Regent",
+      "names": {},
+      "lat": 55.95633,
+      "lng": -3.171941,
+      "tags": {
+        "lgbtq": "primary"
+      },
+      "themes": [
+        "lgbtq"
+      ],
+      "category": "amenity=pub",
+      "check_date": "2026-02-03"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 367085460,
+      "name": "The Fountain",
+      "names": {},
+      "lat": 55.940287,
+      "lng": -3.217948,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=pub",
+      "check_date": "2026-07-09"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 482452170,
+      "name": "Mountain Momo",
+      "names": {},
+      "lat": 55.939601,
+      "lng": -3.220596,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-08-06"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 499991676,
+      "name": "Kebab Mahal",
+      "names": {},
+      "lat": 55.946161,
+      "lng": -3.185979,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-09-03"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 499992022,
+      "name": "BaGet Stuffed",
+      "names": {},
+      "lat": 55.945579,
+      "lng": -3.184899,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-10-06"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 499993818,
+      "name": "Starbucks",
+      "names": {},
+      "lat": 55.944059,
+      "lng": -3.191918,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-07-30"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 499994305,
+      "name": "The Treehouse Cafe",
+      "names": {},
+      "lat": 55.940906,
+      "lng": -3.203299,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-02-26"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 499994322,
+      "name": "Hendersons",
+      "names": {},
+      "lat": 55.940278,
+      "lng": -3.203762,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-02-26"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 504203387,
+      "name": "Kalpna",
+      "names": {},
+      "lat": 55.943471,
+      "lng": -3.183115,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-08-29"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 504921049,
+      "name": "Love, Peace and Coffee",
+      "names": {},
+      "lat": 55.941759,
+      "lng": -3.18205,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-08-13"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 510281633,
+      "name": "Betty & George",
+      "names": {},
+      "lat": 55.962826,
+      "lng": -3.20027,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-01-17"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 511213029,
+      "name": "PizzaExpress",
+      "names": {},
+      "lat": 55.948801,
+      "lng": -3.192583,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-01-05"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 529834622,
+      "name": "Hummus",
+      "names": {},
+      "lat": 55.926594,
+      "lng": -3.209411,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2025-05-31"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 548101638,
+      "name": "Cafe S. Luca",
+      "names": {},
+      "lat": 55.933722,
+      "lng": -3.210379,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=ice_cream",
+      "check_date": "2026-08-08"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 551579452,
+      "name": "Filling Station",
+      "names": {},
+      "lat": 55.950064,
+      "lng": -3.18925,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2024-09-24"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 570313191,
+      "name": "Dreadnought",
+      "names": {},
+      "lat": 55.978931,
+      "lng": -3.186494,
+      "tags": {
+        "lgbtq": "welcome"
+      },
+      "themes": [
+        "lgbtq"
+      ],
+      "category": "amenity=pub",
+      "check_date": "2026-02-20"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 573376763,
+      "name": "Roadies",
+      "names": {},
+      "lat": 55.976364,
+      "lng": -3.170698,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2025-09-28"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 573453391,
+      "name": "Cafe Truva",
+      "names": {},
+      "lat": 55.974858,
+      "lng": -3.171525,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2024-09-03"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 585214845,
+      "name": "One Canon Mills",
+      "names": {},
+      "lat": 55.962334,
+      "lng": -3.197187,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=pub",
+      "check_date": "2026-10-16"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 588498400,
+      "name": "Renroc",
+      "names": {},
+      "lat": 55.959571,
+      "lng": -3.178818,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-07-10"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 588498410,
+      "name": "Brass Monkey",
+      "names": {},
+      "lat": 55.964034,
+      "lng": -3.177826,
+      "tags": {
+        "diet:vegan": "yes",
+        "dog": "yes"
+      },
+      "themes": [
+        "vegan",
+        "dogs"
+      ],
+      "category": "amenity=pub",
+      "check_date": "2026-10-01"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 613208739,
+      "name": "Caffè Nero",
+      "names": {},
+      "lat": 55.929094,
+      "lng": -3.209334,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-04-24"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 650558365,
+      "name": "Civerinos Slice",
+      "names": {},
+      "lat": 55.945541,
+      "lng": -3.191384,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-07-18"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 650558404,
+      "name": "Bowls",
+      "names": {},
+      "lat": 55.946259,
+      "lng": -3.191253,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-10-02"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 658120536,
+      "name": "Alandas Gelato",
+      "names": {},
+      "lat": 55.946525,
+      "lng": -3.191165,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=ice_cream",
+      "check_date": "2026-10-15"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 663693264,
+      "name": "Brücks",
+      "names": {},
+      "lat": 55.944397,
+      "lng": -3.186814,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-02-25"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 676296938,
+      "name": "Cowan & Sons",
+      "names": {},
+      "lat": 55.958908,
+      "lng": -3.211705,
+      "tags": {
+        "diet:vegan": "yes",
+        "dog": "yes"
+      },
+      "themes": [
+        "vegan",
+        "dogs"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-01-17"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 709317020,
+      "name": "Soul",
+      "names": {},
+      "lat": 55.946014,
+      "lng": -3.182114,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2024-07-17"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 727348486,
+      "name": "Mootz",
+      "names": {},
+      "lat": 55.959206,
+      "lng": -3.212677,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-06-12"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 730163709,
+      "name": "Landy's",
+      "names": {},
+      "lat": 55.950336,
+      "lng": -3.18735,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-10-06"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 732958018,
+      "name": "The Mitre",
+      "names": {},
+      "lat": 55.950382,
+      "lng": -3.186896,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=pub",
+      "check_date": "2026-09-20"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 913823207,
+      "name": "PizzaExpress",
+      "names": {},
+      "lat": 55.950608,
+      "lng": -3.187462,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-10-05"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1131236034,
+      "name": "Nucleus Shop & Wrap Bar",
+      "names": {},
+      "lat": 55.923065,
+      "lng": -3.174038,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-06-24"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1131236474,
+      "name": "The Magnet",
+      "names": {},
+      "lat": 55.92173,
+      "lng": -3.174402,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1241883587,
+      "name": "Zizzi",
+      "names": {},
+      "lat": 55.980902,
+      "lng": -3.178409,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-07-11"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1249972539,
+      "name": "Jeremiah's Taproom",
+      "names": {},
+      "lat": 55.958359,
+      "lng": -3.183624,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=pub",
+      "check_date": "2026-09-04"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1327629860,
+      "name": "Real Foods",
+      "names": {},
+      "lat": 55.957278,
+      "lng": -3.188126,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=convenience",
+      "check_date": "2025-08-09"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1327629873,
+      "name": "The Street",
+      "names": {},
+      "lat": 55.956875,
+      "lng": -3.187766,
+      "tags": {
+        "lgbtq": "primary"
+      },
+      "themes": [
+        "lgbtq"
+      ],
+      "category": "amenity=bar",
+      "check_date": "2026-07-18"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1356336504,
+      "name": "Redcoat Café",
+      "names": {},
+      "lat": 55.948967,
+      "lng": -3.201061,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-01-03"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1406360719,
+      "name": "Think Pastry",
+      "names": {},
+      "lat": 55.957128,
+      "lng": -3.169721,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-05-05"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1432920160,
+      "name": "Pizza Hut",
+      "names": {},
+      "lat": 55.927227,
+      "lng": -3.209502,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-05-08"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1437376911,
+      "name": "C.C. Blooms",
+      "names": {},
+      "lat": 55.957071,
+      "lng": -3.185202,
+      "tags": {
+        "diet:vegan": "yes",
+        "lgbtq": "primary"
+      },
+      "themes": [
+        "vegan",
+        "lgbtq"
+      ],
+      "category": "amenity=bar",
+      "check_date": "2026-10-19"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1558430340,
+      "name": "The Doric",
+      "names": {},
+      "lat": 55.950888,
+      "lng": -3.190592,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=pub",
+      "check_date": "2025-09-22"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1660995244,
+      "name": "The Edinburgh Bookshop",
+      "names": {},
+      "lat": 55.936203,
+      "lng": -3.209276,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "shop=books",
+      "check_date": "2026-09-24"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1666691913,
+      "name": "Beetroot Sauvage",
+      "names": {},
+      "lat": 55.934092,
+      "lng": -3.177667,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": null,
+      "check_date": "2024-07-31"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1699579372,
+      "name": "Mamacita's",
+      "names": {},
+      "lat": 55.953491,
+      "lng": -3.115057,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-06-03"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1770134132,
+      "name": "Paradise Palms",
+      "names": {},
+      "lat": 55.946265,
+      "lng": -3.189155,
+      "tags": {
+        "diet:vegan": "yes",
+        "lgbtq": "welcome"
+      },
+      "themes": [
+        "vegan",
+        "lgbtq"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-07-30"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1797498237,
+      "name": "The Bami",
+      "names": {},
+      "lat": 55.965397,
+      "lng": -3.175886,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-10-21"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1880706124,
+      "name": "Matto",
+      "names": {},
+      "lat": 55.926511,
+      "lng": -3.209401,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2024-11-03"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1882300370,
+      "name": "Minto Cafe",
+      "names": {},
+      "lat": 55.937141,
+      "lng": -3.178399,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2025-03-17"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1951328191,
+      "name": "Bread Meats Bread",
+      "names": {},
+      "lat": 55.946312,
+      "lng": -3.205987,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-05-06"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1953434783,
+      "name": "Pret A Manger",
+      "names": {},
+      "lat": 55.94594,
+      "lng": -3.205855,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-05-06"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1977943248,
+      "name": "Starbucks",
+      "names": {},
+      "lat": 55.951098,
+      "lng": -3.203136,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-10-22"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1977943304,
+      "name": "Pret A Manger",
+      "names": {},
+      "lat": 55.950583,
+      "lng": -3.206251,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-02-01"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1977943380,
+      "name": "Greggs",
+      "names": {},
+      "lat": 55.950154,
+      "lng": -3.208604,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-02-01"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1977943413,
+      "name": "Zizzi",
+      "names": {},
+      "lat": 55.95055,
+      "lng": -3.208777,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-04-06"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2052777462,
+      "name": "The Clock",
+      "names": {},
+      "lat": 55.943098,
+      "lng": -3.220346,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-08-08"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2089177361,
+      "name": "Non Viet",
+      "names": {},
+      "lat": 55.942745,
+      "lng": -3.201723,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-07-09"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2089197627,
+      "name": "Barburrito",
+      "names": {},
+      "lat": 55.945423,
+      "lng": -3.191494,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": null,
+      "check_date": "2026-07-22"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2089203631,
+      "name": "Mum's",
+      "names": {},
+      "lat": 55.94602,
+      "lng": -3.190823,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-06-26"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2095179857,
+      "name": "Dean Village Coffee House",
+      "names": {},
+      "lat": 55.951243,
+      "lng": -3.219234,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2095179867,
+      "name": "Oriento",
+      "names": {},
+      "lat": 55.96045,
+      "lng": -3.201217,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2099120303,
+      "name": "Pho",
+      "names": {},
+      "lat": 55.94618,
+      "lng": -3.205315,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-04-04"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2106254362,
+      "name": "Topping & Company Booksellers",
+      "names": {},
+      "lat": 55.957648,
+      "lng": -3.184285,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=books",
+      "check_date": "2026-09-08"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2112358194,
+      "name": "Coffee House",
+      "names": {},
+      "lat": 55.949836,
+      "lng": -3.188704,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2024-09-24"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2112387185,
+      "name": "Bread Meats Bread",
+      "names": {},
+      "lat": 55.951134,
+      "lng": -3.187685,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-10-06"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2112387188,
+      "name": "Black Sheep Coffee",
+      "names": {},
+      "lat": 55.950527,
+      "lng": -3.187427,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-10-05"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2120176398,
+      "name": "Maki & Ramen",
+      "names": {},
+      "lat": 55.944013,
+      "lng": -3.206459,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-09-20"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2126282041,
+      "name": "Pret A Manger",
+      "names": {},
+      "lat": 55.952042,
+      "lng": -3.202979,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2025-08-12"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2153099983,
+      "name": "Pret A Manger",
+      "names": {},
+      "lat": 55.953163,
+      "lng": -3.196763,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2024-04-27"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2153220538,
+      "name": "Greggs",
+      "names": {},
+      "lat": 55.953032,
+      "lng": -3.196087,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-01-13"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2155024956,
+      "name": "Krispy Kreme",
+      "names": {},
+      "lat": 55.925885,
+      "lng": -3.310619,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2024-09-28"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2164008700,
+      "name": "Pickles",
+      "names": {},
+      "lat": 55.958713,
+      "lng": -3.19048,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=bar",
+      "check_date": "2025-08-22"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2177385449,
+      "name": "PizzaExpress",
+      "names": {},
+      "lat": 55.926533,
+      "lng": -3.208429,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2023-07-01"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2323807241,
+      "name": "The Advocate",
+      "names": {},
+      "lat": 55.949516,
+      "lng": -3.187951,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=pub",
+      "check_date": "2026-04-01"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2325957220,
+      "name": "Crumbs Cafe",
+      "names": {},
+      "lat": 55.96354,
+      "lng": -3.195086,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2335634468,
+      "name": "Söderberg Bakery Shop",
+      "names": {},
+      "lat": 55.943703,
+      "lng": -3.192405,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-02-05"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2338734297,
+      "name": "Greyfriars Bobby",
+      "names": {},
+      "lat": 55.946823,
+      "lng": -3.191508,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=pub",
+      "check_date": "2026-10-15"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2339288030,
+      "name": "Union Of Genius",
+      "names": {},
+      "lat": 55.945965,
+      "lng": -3.190834,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-04-20"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2339288032,
+      "name": "Piemaker",
+      "names": {},
+      "lat": 55.948643,
+      "lng": -3.186577,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-06-03"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2339288037,
+      "name": "Mariachi",
+      "names": {},
+      "lat": 55.94849,
+      "lng": -3.193887,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2025-02-08"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2339288042,
+      "name": "Koyama",
+      "names": {},
+      "lat": 55.945777,
+      "lng": -3.190874,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-10-15"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2339288067,
+      "name": "Divino",
+      "names": {},
+      "lat": 55.947707,
+      "lng": -3.19195,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-10-15"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2381052766,
+      "name": "Greggs",
+      "names": {},
+      "lat": 55.945373,
+      "lng": -3.1842,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-09-03"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2398126243,
+      "name": "Wagamama",
+      "names": {},
+      "lat": 55.933404,
+      "lng": -3.106166,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2025-07-19"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2399961299,
+      "name": "Alaburrito",
+      "names": {},
+      "lat": 55.926873,
+      "lng": -3.20945,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-05-08"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2399961319,
+      "name": "The Clay Oven",
+      "names": {},
+      "lat": 55.929112,
+      "lng": -3.209744,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-05-08"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2399961329,
+      "name": "Pure Pizza",
+      "names": {},
+      "lat": 55.924449,
+      "lng": -3.210324,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2025-05-17"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2399961339,
+      "name": "La’telve Cafe & Bistro",
+      "names": {},
+      "lat": 55.929312,
+      "lng": -3.209374,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-05-08"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2441578936,
+      "name": "Deacon's House Cafe",
+      "names": {},
+      "lat": 55.949155,
+      "lng": -3.193154,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2024-09-02"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2470816598,
+      "name": "Garlands",
+      "names": {},
+      "lat": 55.965046,
+      "lng": -3.1801,
+      "tags": {
+        "lgbtq": "welcome"
+      },
+      "themes": [
+        "lgbtq"
+      ],
+      "category": "tourism=guest_house",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2470816618,
+      "name": "Ardmor House",
+      "names": {},
+      "lat": 55.965855,
+      "lng": -3.181084,
+      "tags": {
+        "lgbtq": "welcome"
+      },
+      "themes": [
+        "lgbtq"
+      ],
+      "category": "tourism=guest_house",
+      "check_date": "2024-11-14"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2494817113,
+      "name": "Considerit",
+      "names": {},
+      "lat": 55.939626,
+      "lng": -3.182981,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=pastry",
+      "check_date": "2026-09-28"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2654390057,
+      "name": "The New Hill Station",
+      "names": {},
+      "lat": 55.922409,
+      "lng": -3.210837,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2025-07-27"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2687496698,
+      "name": "Bonnie Burgers",
+      "names": {},
+      "lat": 55.930565,
+      "lng": -3.176062,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-06-13"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2700632684,
+      "name": "The Lounge Cafe",
+      "names": {},
+      "lat": 55.943578,
+      "lng": -3.183222,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-08-29"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2710887580,
+      "name": "The Eng Inn",
+      "names": {},
+      "lat": 55.922614,
+      "lng": -3.171296,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2718792113,
+      "name": "Pret A Manger",
+      "names": {},
+      "lat": 55.950863,
+      "lng": -3.188155,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-10-05"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2718835126,
+      "name": "Hot Kungfu",
+      "names": {},
+      "lat": 55.938913,
+      "lng": -3.17966,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-03-23"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2774743770,
+      "name": "Sora Diana",
+      "names": {},
+      "lat": 55.938743,
+      "lng": -3.181503,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-01-26"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2802306659,
+      "name": "Leo's Beanery",
+      "names": {},
+      "lat": 55.956494,
+      "lng": -3.202047,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2911628554,
+      "name": "102 Tiramisu",
+      "names": {},
+      "lat": 55.937524,
+      "lng": -3.181017,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-09-03"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2954633076,
+      "name": "Greek Gyros Grill",
+      "names": {},
+      "lat": 55.949199,
+      "lng": -3.187306,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-10-21"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3000236862,
+      "name": "Curran Geal",
+      "names": {},
+      "lat": 55.941366,
+      "lng": -3.203265,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-02-26"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3014805285,
+      "name": "David Bann Vegetarian Restaurant & Bar",
+      "names": {},
+      "lat": 55.949498,
+      "lng": -3.183204,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-10-15"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3035226051,
+      "name": "The Hall",
+      "names": {},
+      "lat": 55.949657,
+      "lng": -3.183311,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-10-15"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3094165625,
+      "name": "Bobby’s Sandwich Bar",
+      "names": {},
+      "lat": 55.946606,
+      "lng": -3.191246,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-10-15"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3120543866,
+      "name": "Côte Brasserie",
+      "names": {},
+      "lat": 55.953824,
+      "lng": -3.200587,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3129081215,
+      "name": "Not Just Coffee",
+      "names": {},
+      "lat": 55.961399,
+      "lng": -3.180262,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2025-08-04"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3129081221,
+      "name": "Word of Mouth Bistro Cafe",
+      "names": {},
+      "lat": 55.96248,
+      "lng": -3.178676,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2025-03-09"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3141440816,
+      "name": "Pera",
+      "names": {},
+      "lat": 55.960242,
+      "lng": -3.181749,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-10-16"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3141642940,
+      "name": "Folks Café",
+      "names": {},
+      "lat": 55.959456,
+      "lng": -3.171843,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-05-31"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3152958376,
+      "name": "FacePlant Foods",
+      "names": {},
+      "lat": 55.97007,
+      "lng": -3.169742,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-10-26"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3184564576,
+      "name": "Meze Meze",
+      "names": {},
+      "lat": 55.95245,
+      "lng": -3.199426,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-01-13"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3201174949,
+      "name": "Greenwoods",
+      "names": {},
+      "lat": 55.954122,
+      "lng": -3.200769,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2025-02-02"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3201174951,
+      "name": "Bento",
+      "names": {},
+      "lat": 55.959233,
+      "lng": -3.213072,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-06-12"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3209392101,
+      "name": "275 cafe",
+      "names": {},
+      "lat": 55.96532,
+      "lng": -3.170492,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3228480826,
+      "name": "Campervan Brewery Tap Room",
+      "names": {},
+      "lat": 55.971067,
+      "lng": -3.177729,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=pub",
+      "check_date": "2026-06-13"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3292175224,
+      "name": "Planet",
+      "names": {},
+      "lat": 55.957567,
+      "lng": -3.184607,
+      "tags": {
+        "lgbtq": "primary"
+      },
+      "themes": [
+        "lgbtq"
+      ],
+      "category": "amenity=bar",
+      "check_date": "2026-09-08"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3292351651,
+      "name": "Ramen Ramen",
+      "names": {},
+      "lat": 55.954132,
+      "lng": -3.187486,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-10-19"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3298755392,
+      "name": "Easter Greens",
+      "names": {},
+      "lat": 55.957844,
+      "lng": -3.17176,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=greengrocer",
+      "check_date": "2026-08-30"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3349693096,
+      "name": "Sunshine Cafe",
+      "names": {},
+      "lat": 55.946048,
+      "lng": -3.222037,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-08-27"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3395149899,
+      "name": "IKEA Restaurant",
+      "names": {
+        "en": "IKEA Restaurant",
+        "ru": "Ресторан ИКЕА"
+      },
+      "lat": 55.880265,
+      "lng": -3.168447,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-08-29"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3402048920,
+      "name": "Vinyl Villains",
+      "names": {},
+      "lat": 55.958281,
+      "lng": -3.1837,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "shop=music",
+      "check_date": "2026-02-03"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3638060534,
+      "name": "Go Outdoors",
+      "names": {},
+      "lat": 55.982782,
+      "lng": -3.226193,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "shop=outdoor",
+      "check_date": "2024-10-07"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3864818865,
+      "name": "Bonnie Burrito",
+      "names": {},
+      "lat": 55.939552,
+      "lng": -3.180156,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2024-07-07"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3955302305,
+      "name": "Fir Espresso Bar",
+      "names": {},
+      "lat": 55.942725,
+      "lng": -3.208467,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-04-27"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3966744414,
+      "name": "Chapter One",
+      "names": {},
+      "lat": 55.943297,
+      "lng": -3.219901,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-01-20"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3974215953,
+      "name": "LGBT Youth Edinburgh",
+      "names": {},
+      "lat": 55.97437,
+      "lng": -3.16648,
+      "tags": {
+        "lgbtq": "primary"
+      },
+      "themes": [
+        "lgbtq"
+      ],
+      "category": "amenity=community_centre",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4212223911,
+      "name": "Brücks",
+      "names": {},
+      "lat": 55.923092,
+      "lng": -3.173043,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": null,
+      "check_date": "2026-05-21"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4278252749,
+      "name": "The Haggis Box",
+      "names": {},
+      "lat": 55.950638,
+      "lng": -3.18487,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2024-10-30"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4377395775,
+      "name": "Maki & Ramen",
+      "names": {},
+      "lat": 55.945026,
+      "lng": -3.183827,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-10-06"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4380680654,
+      "name": "KB Café",
+      "names": {},
+      "lat": 55.922969,
+      "lng": -3.175008,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4385893274,
+      "name": "40 George Square Café",
+      "names": {},
+      "lat": 55.943415,
+      "lng": -3.186875,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-02-25"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4548150786,
+      "name": "Dishoom",
+      "names": {},
+      "lat": 55.953543,
+      "lng": -3.192513,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-01-04"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4548150787,
+      "name": "Novapizza",
+      "names": {},
+      "lat": 55.956646,
+      "lng": -3.202747,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-05-18"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4625806992,
+      "name": "Steamworks Sauna",
+      "names": {},
+      "lat": 55.957543,
+      "lng": -3.192397,
+      "tags": {
+        "lgbtq": "primary"
+      },
+      "themes": [
+        "lgbtq"
+      ],
+      "category": "leisure=sauna",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4847390763,
+      "name": "Milk",
+      "names": {},
+      "lat": 55.978518,
+      "lng": -3.191041,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-05-04"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4953299525,
+      "name": "Pret A Manger",
+      "names": {},
+      "lat": 55.951918,
+      "lng": -3.189543,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2025-11-16"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5023032908,
+      "name": "Greggs",
+      "names": {},
+      "lat": 55.893738,
+      "lng": -3.069992,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5111052221,
+      "name": "Holy Cow",
+      "names": {},
+      "lat": 55.955791,
+      "lng": -3.190759,
+      "tags": {
+        "diet:vegan": "only",
+        "dog": "yes"
+      },
+      "themes": [
+        "vegan",
+        "dogs"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-05-18"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5139210363,
+      "name": "Kai Thai",
+      "names": {},
+      "lat": 55.961173,
+      "lng": -3.171026,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-10-10"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5243281645,
+      "name": "Potoba",
+      "names": {},
+      "lat": 55.937184,
+      "lng": -3.235714,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-02-24"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5600831859,
+      "name": "Bandits",
+      "names": {},
+      "lat": 55.967747,
+      "lng": -3.174559,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-10-01"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5600831861,
+      "name": "Kiki's Cafe",
+      "names": {},
+      "lat": 55.968345,
+      "lng": -3.17401,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-01-18"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5934172875,
+      "name": "Element",
+      "names": {},
+      "lat": 55.924215,
+      "lng": -3.179047,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6126733145,
+      "name": "Mørn Coffee",
+      "names": {},
+      "lat": 55.956664,
+      "lng": -3.16213,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-07-25"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6294309960,
+      "name": "Loudons",
+      "names": {},
+      "lat": 55.951236,
+      "lng": -3.182065,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6720646285,
+      "name": "Black Rabbit",
+      "names": {},
+      "lat": 55.942863,
+      "lng": -3.2019,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2025-06-05"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6913915184,
+      "name": "Ripple Grove Coffee",
+      "names": {},
+      "lat": 55.962439,
+      "lng": -3.17683,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-10-17"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7022331603,
+      "name": "Swanston Brasserie",
+      "names": {},
+      "lat": 55.893636,
+      "lng": -3.217249,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2023-03-25"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7095385682,
+      "name": "KUBA",
+      "names": {},
+      "lat": 55.942039,
+      "lng": -3.212956,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-05-02"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7113165787,
+      "name": "One Allanfield",
+      "names": {},
+      "lat": 55.961169,
+      "lng": -3.175301,
+      "tags": {
+        "lgbtq": "welcome"
+      },
+      "themes": [
+        "lgbtq"
+      ],
+      "category": "tourism=apartment",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7397794381,
+      "name": "Iona Cafe",
+      "names": {},
+      "lat": 55.979897,
+      "lng": -3.212578,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8315556418,
+      "name": "Eden Rock Edinburgh",
+      "names": {},
+      "lat": 55.883703,
+      "lng": -3.150317,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=sports_centre",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8621764675,
+      "name": "Gourmet Sausage Rolls",
+      "names": {},
+      "lat": 55.942518,
+      "lng": -3.19018,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-08-25"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8621764676,
+      "name": "Uplands Roast Coffee",
+      "names": {},
+      "lat": 55.942495,
+      "lng": -3.19006,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-01-30"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9455575495,
+      "name": "Costa",
+      "names": {},
+      "lat": 55.957782,
+      "lng": -3.163812,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-09-02"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9739455217,
+      "name": "Milk",
+      "names": {},
+      "lat": 55.962421,
+      "lng": -3.214751,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-02-01"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10226495523,
+      "name": "Salerno",
+      "names": {},
+      "lat": 55.954783,
+      "lng": -3.188695,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-05-18"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10226495553,
+      "name": "Maki & Ramen",
+      "names": {},
+      "lat": 55.954529,
+      "lng": -3.188415,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-09-12"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10226495568,
+      "name": "Krispy Kreme",
+      "names": {},
+      "lat": 55.954496,
+      "lng": -3.188582,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-10-20"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10649064370,
+      "name": "Pho & Roll",
+      "names": {},
+      "lat": 55.958538,
+      "lng": -3.208161,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-06-08"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10655112951,
+      "name": "Nucleus",
+      "names": {},
+      "lat": 55.922841,
+      "lng": -3.174542,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10735826452,
+      "name": "1802 Lounge",
+      "names": {},
+      "lat": 55.957407,
+      "lng": -3.184683,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-10-15"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10785545157,
+      "name": "Edinburgh Street Food",
+      "names": {},
+      "lat": 55.955841,
+      "lng": -3.185707,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=food_court",
+      "check_date": "2024-10-22"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10853538417,
+      "name": "Herringbone",
+      "names": {},
+      "lat": 55.95741,
+      "lng": -3.172866,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=bar",
+      "check_date": "2026-09-02"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11205452336,
+      "name": "Café & Organic Farm Shop",
+      "names": {},
+      "lat": 55.972769,
+      "lng": -3.165962,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-10-03"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11248332737,
+      "name": "Pulse PlantBased HomeCooking",
+      "names": {},
+      "lat": 55.949903,
+      "lng": -3.206486,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-06-10"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11537193343,
+      "name": "Slow Progress Records & Coffee",
+      "names": {},
+      "lat": 55.949434,
+      "lng": -3.18561,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11638430418,
+      "name": "Potter Shop",
+      "names": {},
+      "lat": 55.946032,
+      "lng": -3.188357,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=convenience",
+      "check_date": "2026-10-12"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11998767715,
+      "name": "Canopy",
+      "names": {},
+      "lat": 55.944867,
+      "lng": -3.191771,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-06-26"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12447443119,
+      "name": "The Happy Fish",
+      "names": {},
+      "lat": 55.942744,
+      "lng": -3.18245,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2024-12-23"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12894580945,
+      "name": "Longshot Coffee",
+      "names": {},
+      "lat": 55.983354,
+      "lng": -3.242256,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-10-10"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13938401326,
+      "name": "The Real Greek",
+      "names": {},
+      "lat": 55.955099,
+      "lng": -3.188338,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-06-14"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 14167353979,
+      "name": "Subway",
+      "names": {},
+      "lat": 55.938607,
+      "lng": -3.103752,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 60684490,
+      "name": "Old Chain Pier",
+      "names": {},
+      "lat": 55.980049,
+      "lng": -3.204183,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=pub",
+      "check_date": "2026-09-04"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 121368980,
+      "name": "Old Chain Pier",
+      "names": {},
+      "lat": 55.980049,
+      "lng": -3.204183,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=pub",
+      "check_date": "2026-09-04"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 543355395,
+      "name": "Domino's",
+      "names": {},
+      "lat": 55.933122,
+      "lng": -3.134361,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 665032276,
+      "name": "Barklay Park",
+      "names": {},
+      "lat": 55.907438,
+      "lng": -3.106544,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 732625381,
+      "name": null,
+      "names": {},
+      "lat": 55.902562,
+      "lng": -3.27776,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1086710790,
+      "name": "Domino's",
+      "names": {},
+      "lat": 55.933122,
+      "lng": -3.134361,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1125511042,
+      "name": "Greggs",
+      "names": {},
+      "lat": 55.881281,
+      "lng": -3.087323,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2024-07-30"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1191294129,
+      "name": "John's Place Park",
+      "names": {},
+      "lat": 55.972937,
+      "lng": -3.165752,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1278117369,
+      "name": null,
+      "names": {},
+      "lat": 55.880146,
+      "lng": -3.085587,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1330064552,
+      "name": "Barklay Park",
+      "names": {},
+      "lat": 55.907438,
+      "lng": -3.106544,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1351671422,
+      "name": null,
+      "names": {},
+      "lat": 55.980622,
+      "lng": -3.244583,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=playground",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1507470523,
+      "name": "The Four Sisters",
+      "names": {},
+      "lat": 55.942653,
+      "lng": -3.207986,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "tourism=hotel",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2251022084,
+      "name": "Greggs",
+      "names": {},
+      "lat": 55.881281,
+      "lng": -3.087323,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2024-07-30"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2382588258,
+      "name": "John's Place Park",
+      "names": {},
+      "lat": 55.972937,
+      "lng": -3.165752,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2556234738,
+      "name": null,
+      "names": {},
+      "lat": 55.880146,
+      "lng": -3.085587,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2703342844,
+      "name": null,
+      "names": {},
+      "lat": 55.980622,
+      "lng": -3.244583,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=playground",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 3014941046,
+      "name": "The Four Sisters",
+      "names": {},
+      "lat": 55.942653,
+      "lng": -3.207986,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "tourism=hotel",
+      "check_date": null
+    }
+  ]
+}

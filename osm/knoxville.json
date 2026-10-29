@@ -1,0 +1,594 @@
+{
+  "version": 1,
+  "city": "knoxville",
+  "country": "US",
+  "region": "north-america/us/tennessee",
+  "extract_timestamp": "2026-10-27T21:23:59Z",
+  "radius_km": 10,
+  "bbox": [
+    -84.03432,
+    35.87184,
+    -83.81235,
+    36.0515
+  ],
+  "venues": [
+    {
+      "osm_type": "node",
+      "osm_id": 6426537496,
+      "name": "Cruze Farm",
+      "names": {},
+      "lat": 35.965155,
+      "lng": -83.918411,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9194469082,
+      "name": "Volunteer Landing",
+      "names": {},
+      "lat": 35.958692,
+      "lng": -83.916881,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9194469083,
+      "name": null,
+      "names": {},
+      "lat": 35.958611,
+      "lng": -83.91751,
+      "tags": {
+        "dog": "leashed",
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9194469096,
+      "name": "university walk and society 865 dog park",
+      "names": {},
+      "lat": 35.957127,
+      "lng": -83.9432,
+      "tags": {
+        "dog": "yes",
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9203567217,
+      "name": "Kaizen",
+      "names": {},
+      "lat": 35.969466,
+      "lng": -83.918247,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9579181447,
+      "name": "Good Golly Tamale",
+      "names": {},
+      "lat": 35.970037,
+      "lng": -83.918198,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9581348214,
+      "name": "Kopita Authentic Mediterranean",
+      "names": {},
+      "lat": 35.964729,
+      "lng": -83.91767,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9581806324,
+      "name": "Stokley Dining Hall",
+      "names": {},
+      "lat": 35.951773,
+      "lng": -83.92915,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-09-10"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11294963395,
+      "name": "CORE Knoxville",
+      "names": {},
+      "lat": 35.930989,
+      "lng": -84.02932,
+      "tags": {
+        "lgbtq": "primary"
+      },
+      "themes": [
+        "lgbtq"
+      ],
+      "category": "amenity=bar",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11857651913,
+      "name": null,
+      "names": {},
+      "lat": 35.952123,
+      "lng": -83.865844,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=drinking_water",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13845390081,
+      "name": "Knoxville DIY Skatepark",
+      "names": {},
+      "lat": 35.939369,
+      "lng": -84.003619,
+      "tags": {
+        "dog": "unleashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 14174193447,
+      "name": "Abridged Food Truck",
+      "names": {},
+      "lat": 35.975043,
+      "lng": -83.920068,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 486143968,
+      "name": "Hummus Republic",
+      "names": {},
+      "lat": 36.027907,
+      "lng": -83.9288,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-09-30"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 487075056,
+      "name": "Victor Ashe Dog Park",
+      "names": {},
+      "lat": 35.982632,
+      "lng": -83.992515,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 899341638,
+      "name": null,
+      "names": {},
+      "lat": 36.018223,
+      "lng": -83.936196,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 926255834,
+      "name": "Forks of the River Park",
+      "names": {},
+      "lat": 35.97844,
+      "lng": -83.830116,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 930343115,
+      "name": "The Bark Knoxville",
+      "names": {},
+      "lat": 35.975178,
+      "lng": -83.921941,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 972287936,
+      "name": "Hummus Republic",
+      "names": {},
+      "lat": 36.027907,
+      "lng": -83.9288,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-09-30"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 974150112,
+      "name": "Victor Ashe Dog Park",
+      "names": {},
+      "lat": 35.982632,
+      "lng": -83.992515,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 995660431,
+      "name": "Mountcastle Park",
+      "names": {},
+      "lat": 35.953798,
+      "lng": -83.935843,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1053215311,
+      "name": null,
+      "names": {},
+      "lat": 35.976788,
+      "lng": -84.004448,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1076102659,
+      "name": "Rocky Top Dining Hall",
+      "names": {},
+      "lat": 35.951783,
+      "lng": -83.934091,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-09-14"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1252728127,
+      "name": null,
+      "names": {},
+      "lat": 35.902842,
+      "lng": -83.941015,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1252728128,
+      "name": null,
+      "names": {},
+      "lat": 35.902926,
+      "lng": -83.941636,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1310964589,
+      "name": null,
+      "names": {},
+      "lat": 35.960531,
+      "lng": -83.93002,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1559166046,
+      "name": "Fountain City Dog Park",
+      "names": {},
+      "lat": 36.031087,
+      "lng": -83.930875,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": "2026-09-15"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1798683276,
+      "name": null,
+      "names": {},
+      "lat": 36.018223,
+      "lng": -83.936196,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1852511668,
+      "name": "Forks of the River Park",
+      "names": {},
+      "lat": 35.97844,
+      "lng": -83.830116,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1860686230,
+      "name": "The Bark Knoxville",
+      "names": {},
+      "lat": 35.975178,
+      "lng": -83.921941,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1991320862,
+      "name": "Mountcastle Park",
+      "names": {},
+      "lat": 35.953798,
+      "lng": -83.935843,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2106430622,
+      "name": null,
+      "names": {},
+      "lat": 35.976788,
+      "lng": -84.004448,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2152205318,
+      "name": "Rocky Top Dining Hall",
+      "names": {},
+      "lat": 35.951783,
+      "lng": -83.934091,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-09-14"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2505456254,
+      "name": null,
+      "names": {},
+      "lat": 35.902842,
+      "lng": -83.941015,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2505456256,
+      "name": null,
+      "names": {},
+      "lat": 35.902926,
+      "lng": -83.941636,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2621929178,
+      "name": null,
+      "names": {},
+      "lat": 35.960531,
+      "lng": -83.93002,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 3118332092,
+      "name": "Fountain City Dog Park",
+      "names": {},
+      "lat": 36.031087,
+      "lng": -83.930875,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": "2026-09-15"
+    }
+  ]
+}

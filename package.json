@@ -1,0 +1,15 @@
+{
+  "name": "wup-osm",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "test": "bun test",
+    "fixture": "bun scripts/cli.ts fixture",
+    "verify": "bun run typecheck && bun run test"
+  },
+  "devDependencies": {
+    "@types/bun": "1.2.19",
+    "typescript": "5.9.2"
+  }
+}

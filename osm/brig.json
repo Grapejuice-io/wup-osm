@@ -1,0 +1,288 @@
+{
+  "version": 1,
+  "city": "brig",
+  "country": "CH",
+  "region": "europe/switzerland",
+  "extract_timestamp": "2026-10-27T21:23:59Z",
+  "radius_km": 10,
+  "bbox": [
+    7.85756,
+    46.22609,
+    8.11768,
+    46.40575
+  ],
+  "venues": [
+    {
+      "osm_type": "node",
+      "osm_id": 1976199291,
+      "name": "Belalp",
+      "names": {},
+      "lat": 46.325499,
+      "lng": 7.989572,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2862222459,
+      "name": "Kaffee Klatsch",
+      "names": {},
+      "lat": 46.316188,
+      "lng": 7.989034,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2986077011,
+      "name": "Gletschertisch",
+      "names": {},
+      "lat": 46.388187,
+      "lng": 8.059036,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-02-17"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5473862027,
+      "name": "Imhof",
+      "names": {},
+      "lat": 46.389071,
+      "lng": 8.059797,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": null,
+      "check_date": "2026-02-17"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8878817221,
+      "name": "Runder Store Brig",
+      "names": {},
+      "lat": 46.316224,
+      "lng": 7.988788,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9936659072,
+      "name": "Promenade",
+      "names": {},
+      "lat": 46.321302,
+      "lng": 7.989739,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10683015755,
+      "name": "Riederfurka",
+      "names": {},
+      "lat": 46.377717,
+      "lng": 8.017615,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11224815411,
+      "name": "Schlosskellwr Take-Away",
+      "names": {},
+      "lat": 46.315573,
+      "lng": 7.990058,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2023-09-28"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12537123761,
+      "name": "Your Happy Food",
+      "names": {},
+      "lat": 46.292871,
+      "lng": 7.881691,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-08-22"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 38781889,
+      "name": "Naturschutzgebiet Aletschwald",
+      "names": {},
+      "lat": 46.391151,
+      "lng": 8.030156,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=nature_reserve",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 77563778,
+      "name": "Naturschutzgebiet Aletschwald",
+      "names": {},
+      "lat": 46.391151,
+      "lng": 8.030156,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=nature_reserve",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 271772639,
+      "name": "Ferienhotel Waldhaus",
+      "names": {},
+      "lat": 46.385537,
+      "lng": 8.0569,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "tourism=hotel",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 274171059,
+      "name": "Camping Geschina",
+      "names": {},
+      "lat": 46.308802,
+      "lng": 7.993729,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "tourism=camp_site",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 543545278,
+      "name": "Ferienhotel Waldhaus",
+      "names": {},
+      "lat": 46.385537,
+      "lng": 8.0569,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "tourism=hotel",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 548342118,
+      "name": "Camping Geschina",
+      "names": {},
+      "lat": 46.308802,
+      "lng": 7.993729,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "tourism=camp_site",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 995543410,
+      "name": "Restaurant Walliserstube",
+      "names": {},
+      "lat": 46.392476,
+      "lng": 8.066486,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1991086820,
+      "name": "Restaurant Walliserstube",
+      "names": {},
+      "lat": 46.392476,
+      "lng": 8.066486,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    }
+  ]
+}

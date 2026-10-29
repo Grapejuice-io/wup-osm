@@ -1,0 +1,934 @@
+{
+  "version": 1,
+  "city": "valletta",
+  "country": "MT",
+  "region": "europe/malta",
+  "extract_timestamp": "2026-10-27T21:23:59Z",
+  "radius_km": 10,
+  "bbox": [
+    14.40161,
+    35.80795,
+    14.62339,
+    35.98761
+  ],
+  "venues": [
+    {
+      "osm_type": "node",
+      "osm_id": 2471607174,
+      "name": "Mina's",
+      "names": {},
+      "lat": 35.896925,
+      "lng": 14.509513,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2472720772,
+      "name": "Coogi's",
+      "names": {},
+      "lat": 35.886781,
+      "lng": 14.403093,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2025-10-02"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3258628980,
+      "name": "Palazzo Gatto Murina",
+      "names": {},
+      "lat": 35.885791,
+      "lng": 14.403291,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-03-19"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3834476049,
+      "name": "Badass Burgers",
+      "names": {},
+      "lat": 35.918728,
+      "lng": 14.489452,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3944952857,
+      "name": "Don Mesquita",
+      "names": {},
+      "lat": 35.885853,
+      "lng": 14.402404,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-03-19"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4245130996,
+      "name": "Dolce Latte",
+      "names": {},
+      "lat": 35.863516,
+      "lng": 14.564263,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=ice_cream",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4344290325,
+      "name": "Soul Food",
+      "names": {},
+      "lat": 35.898363,
+      "lng": 14.514853,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2023-11-07"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4394666512,
+      "name": "Coogi's Restaurant & Tea Garden",
+      "names": {
+        "en": "Coogi's"
+      },
+      "lat": 35.887424,
+      "lng": 14.402562,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2024-04-18"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5894556242,
+      "name": "eeetwell",
+      "names": {},
+      "lat": 35.905774,
+      "lng": 14.496887,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2025-08-23"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6247417466,
+      "name": "Storie & Sapori",
+      "names": {},
+      "lat": 35.905997,
+      "lng": 14.49709,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2025-08-23"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6249900296,
+      "name": "Dr. Juice",
+      "names": {},
+      "lat": 35.90353,
+      "lng": 14.49494,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2025-08-23"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6558354107,
+      "name": "97 Notes",
+      "names": {},
+      "lat": 35.900316,
+      "lng": 14.514642,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=bar",
+      "check_date": "2026-06-03"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6652710861,
+      "name": "Balance Bowl",
+      "names": {},
+      "lat": 35.90519,
+      "lng": 14.496305,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6765235985,
+      "name": "Posh Turkish",
+      "names": {},
+      "lat": 35.906074,
+      "lng": 14.497144,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2025-08-23"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6779711685,
+      "name": "eeetwell",
+      "names": {},
+      "lat": 35.924946,
+      "lng": 14.488048,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2025-09-01"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7002888929,
+      "name": "Mezzaluna",
+      "names": {},
+      "lat": 35.947339,
+      "lng": 14.406898,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2025-08-21"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7014676685,
+      "name": "Pastaus",
+      "names": {},
+      "lat": 35.899432,
+      "lng": 14.512802,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-03-10"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7139358556,
+      "name": "Bacino",
+      "names": {},
+      "lat": 35.885351,
+      "lng": 14.521306,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7283724858,
+      "name": "Sottozero",
+      "names": {},
+      "lat": 35.819553,
+      "lng": 14.453509,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=ice_cream",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9196044976,
+      "name": "Palio's Trattoria",
+      "names": {},
+      "lat": 35.924703,
+      "lng": 14.492942,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2025-09-01"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9197328717,
+      "name": "U Bistrot",
+      "names": {},
+      "lat": 35.914265,
+      "lng": 14.493677,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10816243931,
+      "name": "Costa",
+      "names": {},
+      "lat": 35.894561,
+      "lng": 14.507637,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-03-17"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11169780318,
+      "name": "Sirena - Drag Bar & Gay Café",
+      "names": {},
+      "lat": 35.915382,
+      "lng": 14.503657,
+      "tags": {
+        "lgbtq": "primary"
+      },
+      "themes": [
+        "lgbtq"
+      ],
+      "category": "amenity=bar",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11300751052,
+      "name": "Leyla Lebanese Cuisine",
+      "names": {},
+      "lat": 35.920146,
+      "lng": 14.490853,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-01-27"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11578375363,
+      "name": "Pho 01",
+      "names": {},
+      "lat": 35.906446,
+      "lng": 14.497507,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2025-08-23"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11579064982,
+      "name": "Pulcinella",
+      "names": {},
+      "lat": 35.904992,
+      "lng": 14.495889,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2025-08-23"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13160803410,
+      "name": "Vecchia Napoli Salini",
+      "names": {},
+      "lat": 35.947969,
+      "lng": 14.427254,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2025-09-21"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13365826636,
+      "name": "Sabatino",
+      "names": {},
+      "lat": 35.914842,
+      "lng": 14.420183,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13647684959,
+      "name": "Yum",
+      "names": {},
+      "lat": 35.897102,
+      "lng": 14.510098,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13655846818,
+      "name": "The Everest",
+      "names": {},
+      "lat": 35.897884,
+      "lng": 14.514619,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 155250608,
+      "name": "Park tal-Klieb Santa Luċija",
+      "names": {
+        "en": "Santa Luċija Dog Park",
+        "mt": "Park tal-Klieb Santa Luċija"
+      },
+      "lat": 35.863302,
+      "lng": 14.505629,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 222920947,
+      "name": "Fontanella Tea Garden",
+      "names": {},
+      "lat": 35.887167,
+      "lng": 14.403714,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-03-19"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 294785416,
+      "name": "Chukkas Razzett l-Aħmar",
+      "names": {},
+      "lat": 35.902121,
+      "lng": 14.419778,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-03-19"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 310501216,
+      "name": "Park tal-Klieb Santa Luċija",
+      "names": {
+        "en": "Santa Luċija Dog Park",
+        "mt": "Park tal-Klieb Santa Luċija"
+      },
+      "lat": 35.863302,
+      "lng": 14.505629,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 445841894,
+      "name": "Fontanella Tea Garden",
+      "names": {},
+      "lat": 35.887167,
+      "lng": 14.403714,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-03-19"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 462381469,
+      "name": "San Ġwann Dog Park",
+      "names": {},
+      "lat": 35.915956,
+      "lng": 14.478849,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 550906626,
+      "name": "Café Barrakka",
+      "names": {},
+      "lat": 35.895297,
+      "lng": 14.51204,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2025-07-30"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 589570832,
+      "name": "Chukkas Razzett l-Aħmar",
+      "names": {},
+      "lat": 35.902121,
+      "lng": 14.419778,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-03-19"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 710706472,
+      "name": "Mamma Mia",
+      "names": {},
+      "lat": 35.897245,
+      "lng": 14.49393,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-06-17"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 724532800,
+      "name": "Il-Park tal-Klieb Ta' Qali",
+      "names": {
+        "en": "Ta' Qali Dog Park"
+      },
+      "lat": 35.898489,
+      "lng": 14.414065,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 924762938,
+      "name": "San Ġwann Dog Park",
+      "names": {},
+      "lat": 35.915956,
+      "lng": 14.478849,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 978337768,
+      "name": "Il-Park tal-Klieb Ta' Ġawhar",
+      "names": {
+        "en": "Ta' Ġawhar Dog Park"
+      },
+      "lat": 35.833111,
+      "lng": 14.502532,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1101813252,
+      "name": "Café Barrakka",
+      "names": {},
+      "lat": 35.895297,
+      "lng": 14.51204,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2025-07-30"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1173352998,
+      "name": "Ġnien Għarram",
+      "names": {
+        "en": "Għarram Garden",
+        "mt": "Ġnien Għarram"
+      },
+      "lat": 35.871808,
+      "lng": 14.456417,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1184681563,
+      "name": "Mason's Bistro",
+      "names": {},
+      "lat": 35.913454,
+      "lng": 14.506937,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2025-06-26"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1343435654,
+      "name": null,
+      "names": {},
+      "lat": 35.859148,
+      "lng": 14.501439,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1370671895,
+      "name": null,
+      "names": {},
+      "lat": 35.879519,
+      "lng": 14.530249,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1421412944,
+      "name": "Mamma Mia",
+      "names": {},
+      "lat": 35.897245,
+      "lng": 14.49393,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-06-17"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1421778814,
+      "name": "The Oriental Garden Express",
+      "names": {},
+      "lat": 35.891552,
+      "lng": 14.458581,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1449065600,
+      "name": "Il-Park tal-Klieb Ta' Qali",
+      "names": {
+        "en": "Ta' Qali Dog Park"
+      },
+      "lat": 35.898489,
+      "lng": 14.414065,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1956675536,
+      "name": "Il-Park tal-Klieb Ta' Ġawhar",
+      "names": {
+        "en": "Ta' Ġawhar Dog Park"
+      },
+      "lat": 35.833111,
+      "lng": 14.502532,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2346705996,
+      "name": "Ġnien Għarram",
+      "names": {
+        "en": "Għarram Garden",
+        "mt": "Ġnien Għarram"
+      },
+      "lat": 35.871808,
+      "lng": 14.456417,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2369363126,
+      "name": "Mason's Bistro",
+      "names": {},
+      "lat": 35.913454,
+      "lng": 14.506937,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2025-06-26"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2686871308,
+      "name": null,
+      "names": {},
+      "lat": 35.859148,
+      "lng": 14.501439,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2741343790,
+      "name": null,
+      "names": {},
+      "lat": 35.879519,
+      "lng": 14.530249,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2843557628,
+      "name": "The Oriental Garden Express",
+      "names": {},
+      "lat": 35.891552,
+      "lng": 14.458581,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    }
+  ]
+}

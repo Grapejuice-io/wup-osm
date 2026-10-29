@@ -1,0 +1,1528 @@
+{
+  "version": 1,
+  "city": "nice",
+  "country": "FR",
+  "region": "europe/france/provence-alpes-cote-d-azur",
+  "extract_timestamp": "2026-10-27T21:23:59Z",
+  "radius_km": 10,
+  "bbox": [
+    7.14408,
+    43.61211,
+    7.39259,
+    43.79178
+  ],
+  "venues": [
+    {
+      "osm_type": "node",
+      "osm_id": 297594236,
+      "name": "Subway",
+      "names": {},
+      "lat": 43.703451,
+      "lng": 7.265322,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 373343492,
+      "name": "Shalimar",
+      "names": {},
+      "lat": 43.70291,
+      "lng": 7.269547,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2025-07-10"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 465035450,
+      "name": "Le Romarin",
+      "names": {},
+      "lat": 43.69742,
+      "lng": 7.275871,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 469796898,
+      "name": "Maison Jin",
+      "names": {},
+      "lat": 43.704557,
+      "lng": 7.263306,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 530728217,
+      "name": "Metà e metà",
+      "names": {},
+      "lat": 43.703749,
+      "lng": 7.269951,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 707729988,
+      "name": "Ibis Styles",
+      "names": {},
+      "lat": 43.706258,
+      "lng": 7.33105,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "tourism=hotel",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1377323630,
+      "name": "Chez Tintin",
+      "names": {},
+      "lat": 43.710231,
+      "lng": 7.261511,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1486397327,
+      "name": "Lou Gesu",
+      "names": {},
+      "lat": 43.696841,
+      "lng": 7.277096,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1486397336,
+      "name": "Indian Lounge",
+      "names": {},
+      "lat": 43.696896,
+      "lng": 7.277226,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1631051912,
+      "name": "Subway",
+      "names": {},
+      "lat": 43.698264,
+      "lng": 7.276497,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1749731304,
+      "name": "Mi-Am",
+      "names": {},
+      "lat": 43.704518,
+      "lng": 7.263205,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1888427840,
+      "name": "FOAM",
+      "names": {},
+      "lat": 43.698004,
+      "lng": 7.286569,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=bar",
+      "check_date": "2026-05-03"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1901937170,
+      "name": "Lou Pilha Leva",
+      "names": {},
+      "lat": 43.698115,
+      "lng": 7.276718,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1941671048,
+      "name": "Socca Tram",
+      "names": {},
+      "lat": 43.710807,
+      "lng": 7.262056,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2779377535,
+      "name": "Le Swing",
+      "names": {},
+      "lat": 43.702091,
+      "lng": 7.276999,
+      "tags": {
+        "lgbtq": "welcome"
+      },
+      "themes": [
+        "lgbtq"
+      ],
+      "category": "amenity=bar",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4768361526,
+      "name": "Amorino",
+      "names": {},
+      "lat": 43.697056,
+      "lng": 7.265879,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=ice_cream",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5060166723,
+      "name": "Koko Green",
+      "names": {},
+      "lat": 43.698029,
+      "lng": 7.276887,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5489074324,
+      "name": "Gigi Tavola",
+      "names": {},
+      "lat": 43.697703,
+      "lng": 7.286527,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-05-03"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5623112962,
+      "name": "BA MA",
+      "names": {},
+      "lat": 43.697239,
+      "lng": 7.262321,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2025-11-15"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5855725314,
+      "name": "Burger King",
+      "names": {},
+      "lat": 43.703954,
+      "lng": 7.26566,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6585169969,
+      "name": "Amour",
+      "names": {},
+      "lat": 43.700417,
+      "lng": 7.274689,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6665520585,
+      "name": "Chez Thérésa",
+      "names": {},
+      "lat": 43.697081,
+      "lng": 7.277257,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6866407968,
+      "name": "21 Paysans",
+      "names": {},
+      "lat": 43.704303,
+      "lng": 7.270793,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6924617950,
+      "name": "Paper plane",
+      "names": {},
+      "lat": 43.699837,
+      "lng": 7.273247,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6986352134,
+      "name": "Alma Goût Méditerranée - Villefranche",
+      "names": {},
+      "lat": 43.704973,
+      "lng": 7.312821,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7103267085,
+      "name": "Panivore",
+      "names": {},
+      "lat": 43.704267,
+      "lng": 7.270935,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2025-08-28"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7233617866,
+      "name": "Saj",
+      "names": {},
+      "lat": 43.69657,
+      "lng": 7.277055,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8137738579,
+      "name": null,
+      "names": {},
+      "lat": 43.687833,
+      "lng": 7.229994,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9229513910,
+      "name": "Il paesello",
+      "names": {},
+      "lat": 43.704182,
+      "lng": 7.267837,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9380199324,
+      "name": "Nha trang",
+      "names": {},
+      "lat": 43.703317,
+      "lng": 7.264478,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9695350020,
+      "name": "Tandoori Flame",
+      "names": {},
+      "lat": 43.698335,
+      "lng": 7.276835,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10572661110,
+      "name": "Deli Bao",
+      "names": {},
+      "lat": 43.697678,
+      "lng": 7.266238,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10678742039,
+      "name": "Ya Habibi",
+      "names": {},
+      "lat": 43.696681,
+      "lng": 7.264394,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10746728714,
+      "name": null,
+      "names": {},
+      "lat": 43.723435,
+      "lng": 7.259468,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10969661707,
+      "name": "Le Banthai",
+      "names": {},
+      "lat": 43.697038,
+      "lng": 7.277146,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11017482877,
+      "name": "Cabane du 12",
+      "names": {},
+      "lat": 43.701225,
+      "lng": 7.275382,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=deli",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11145776838,
+      "name": "Lou Pelandroun",
+      "names": {},
+      "lat": 43.710219,
+      "lng": 7.261176,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11184340237,
+      "name": "Coco",
+      "names": {},
+      "lat": 43.698202,
+      "lng": 7.277591,
+      "tags": {
+        "lgbtq": "welcome"
+      },
+      "themes": [
+        "lgbtq"
+      ],
+      "category": "amenity=bar",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11392843795,
+      "name": "Full Bloom Café",
+      "names": {},
+      "lat": 43.699097,
+      "lng": 7.28303,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11524528756,
+      "name": "Blitz",
+      "names": {},
+      "lat": 43.696702,
+      "lng": 7.274825,
+      "tags": {
+        "lgbtq": "primary"
+      },
+      "themes": [
+        "lgbtq"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11528454616,
+      "name": "Hit à Nissa !",
+      "names": {},
+      "lat": 43.703971,
+      "lng": 7.269962,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11840453069,
+      "name": "Kooc Bao",
+      "names": {},
+      "lat": 43.70322,
+      "lng": 7.270428,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-08-05"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12088482469,
+      "name": "Utopia",
+      "names": {},
+      "lat": 43.701286,
+      "lng": 7.27715,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12181811601,
+      "name": "Mange Voyage Aime",
+      "names": {},
+      "lat": 43.703519,
+      "lng": 7.285435,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13049586701,
+      "name": "Atelier Alfred",
+      "names": {},
+      "lat": 43.707169,
+      "lng": 7.261673,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13183928717,
+      "name": "Centre LGBTQIA+ Côte d'Azur",
+      "names": {},
+      "lat": 43.703189,
+      "lng": 7.282166,
+      "tags": {
+        "lgbtq": "primary"
+      },
+      "themes": [
+        "lgbtq"
+      ],
+      "category": "amenity=community_centre",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13200724237,
+      "name": null,
+      "names": {},
+      "lat": 43.696465,
+      "lng": 7.195194,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 23291523,
+      "name": null,
+      "names": {},
+      "lat": 43.710125,
+      "lng": 7.274884,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 25427297,
+      "name": "Jardin Léon Teisseire",
+      "names": {},
+      "lat": 43.709865,
+      "lng": 7.268081,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 50854594,
+      "name": "Jardin Léon Teisseire",
+      "names": {},
+      "lat": 43.709865,
+      "lng": 7.268081,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 63440512,
+      "name": "Le four de César",
+      "names": {},
+      "lat": 43.657373,
+      "lng": 7.185289,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 63443201,
+      "name": "Cap 3000",
+      "names": {},
+      "lat": 43.658451,
+      "lng": 7.19738,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "shop=mall",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 126881024,
+      "name": "Le four de César",
+      "names": {},
+      "lat": 43.657373,
+      "lng": 7.185289,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 126886402,
+      "name": "Cap 3000",
+      "names": {},
+      "lat": 43.658451,
+      "lng": 7.19738,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "shop=mall",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 138658091,
+      "name": "Leroy Merlin",
+      "names": {},
+      "lat": 43.73167,
+      "lng": 7.186443,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "shop=doityourself",
+      "check_date": "2024-01-27"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 277316182,
+      "name": "Leroy Merlin",
+      "names": {},
+      "lat": 43.73167,
+      "lng": 7.186443,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "shop=doityourself",
+      "check_date": "2024-01-27"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 317246075,
+      "name": "Camping Green Park",
+      "names": {},
+      "lat": 43.69078,
+      "lng": 7.157766,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "tourism=camp_site",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 634492150,
+      "name": "Camping Green Park",
+      "names": {},
+      "lat": 43.69078,
+      "lng": 7.157766,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "tourism=camp_site",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 821653841,
+      "name": null,
+      "names": {},
+      "lat": 43.676723,
+      "lng": 7.220463,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 824704412,
+      "name": null,
+      "names": {},
+      "lat": 43.714559,
+      "lng": 7.262662,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 846227345,
+      "name": null,
+      "names": {},
+      "lat": 43.678076,
+      "lng": 7.23059,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "natural=beach",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 932822860,
+      "name": "Jardin Joseph Pisano",
+      "names": {},
+      "lat": 43.704476,
+      "lng": 7.294555,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 961374583,
+      "name": "Plage des chiens Brigitte Bardot",
+      "names": {
+        "en": "Brigitte Bardot Beach",
+        "hy": "լողափ Brigitte Bardot",
+        "it": "Spiaggia Brigitte Bardot"
+      },
+      "lat": 43.689211,
+      "lng": 7.24309,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "natural=beach",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 992325338,
+      "name": null,
+      "names": {},
+      "lat": 43.685392,
+      "lng": 7.222594,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1005349301,
+      "name": null,
+      "names": {},
+      "lat": 43.686636,
+      "lng": 7.223392,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1080926145,
+      "name": null,
+      "names": {},
+      "lat": 43.684853,
+      "lng": 7.227776,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1080933020,
+      "name": null,
+      "names": {},
+      "lat": 43.680045,
+      "lng": 7.214848,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1187821265,
+      "name": null,
+      "names": {},
+      "lat": 43.729532,
+      "lng": 7.255902,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1289180289,
+      "name": null,
+      "names": {},
+      "lat": 43.653448,
+      "lng": 7.155574,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1322897966,
+      "name": null,
+      "names": {},
+      "lat": 43.662938,
+      "lng": 7.154606,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1332448024,
+      "name": null,
+      "names": {},
+      "lat": 43.708186,
+      "lng": 7.267515,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1346598554,
+      "name": null,
+      "names": {},
+      "lat": 43.700467,
+      "lng": 7.289967,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1449703309,
+      "name": null,
+      "names": {},
+      "lat": 43.727453,
+      "lng": 7.240718,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1471571340,
+      "name": "Jardin des Lucayas",
+      "names": {},
+      "lat": 43.66162,
+      "lng": 7.168041,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1488587048,
+      "name": null,
+      "names": {},
+      "lat": 43.657631,
+      "lng": 7.154052,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1560852179,
+      "name": null,
+      "names": {},
+      "lat": 43.668451,
+      "lng": 7.151216,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1643307682,
+      "name": null,
+      "names": {},
+      "lat": 43.676723,
+      "lng": 7.220463,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1649408824,
+      "name": null,
+      "names": {},
+      "lat": 43.714559,
+      "lng": 7.262662,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1692454690,
+      "name": null,
+      "names": {},
+      "lat": 43.678076,
+      "lng": 7.23059,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "natural=beach",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1865645720,
+      "name": "Jardin Joseph Pisano",
+      "names": {},
+      "lat": 43.704476,
+      "lng": 7.294555,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1922749166,
+      "name": "Plage des chiens Brigitte Bardot",
+      "names": {
+        "en": "Brigitte Bardot Beach",
+        "hy": "լողափ Brigitte Bardot",
+        "it": "Spiaggia Brigitte Bardot"
+      },
+      "lat": 43.689211,
+      "lng": 7.24309,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "natural=beach",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1984650676,
+      "name": null,
+      "names": {},
+      "lat": 43.685392,
+      "lng": 7.222594,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2010698602,
+      "name": null,
+      "names": {},
+      "lat": 43.686636,
+      "lng": 7.223392,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2161852290,
+      "name": null,
+      "names": {},
+      "lat": 43.684853,
+      "lng": 7.227776,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2161866040,
+      "name": null,
+      "names": {},
+      "lat": 43.680045,
+      "lng": 7.214848,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2375642530,
+      "name": null,
+      "names": {},
+      "lat": 43.729532,
+      "lng": 7.255902,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2578360578,
+      "name": null,
+      "names": {},
+      "lat": 43.653448,
+      "lng": 7.155574,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2645795932,
+      "name": null,
+      "names": {},
+      "lat": 43.662938,
+      "lng": 7.154606,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2664896048,
+      "name": null,
+      "names": {},
+      "lat": 43.708186,
+      "lng": 7.267515,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2693197108,
+      "name": null,
+      "names": {},
+      "lat": 43.700467,
+      "lng": 7.289967,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2899406618,
+      "name": null,
+      "names": {},
+      "lat": 43.727453,
+      "lng": 7.240718,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2943142680,
+      "name": "Jardin des Lucayas",
+      "names": {},
+      "lat": 43.66162,
+      "lng": 7.168041,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2977174096,
+      "name": null,
+      "names": {},
+      "lat": 43.657631,
+      "lng": 7.154052,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 3121704358,
+      "name": null,
+      "names": {},
+      "lat": 43.668451,
+      "lng": 7.151216,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    }
+  ]
+}

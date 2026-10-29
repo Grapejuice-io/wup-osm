@@ -1,0 +1,242 @@
+{
+  "version": 1,
+  "city": "heraklion",
+  "country": "GR",
+  "region": "europe/greece",
+  "extract_timestamp": "2026-10-27T21:23:59Z",
+  "radius_km": 10,
+  "bbox": [
+    25.02432,
+    35.25045,
+    25.24457,
+    35.43011
+  ],
+  "venues": [
+    {
+      "osm_type": "node",
+      "osm_id": 3611958761,
+      "name": "Beer o' clock",
+      "names": {},
+      "lat": 35.33979,
+      "lng": 25.132754,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=pub",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4456192693,
+      "name": "The Little Garden",
+      "names": {},
+      "lat": 35.298106,
+      "lng": 25.161434,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2023-06-01"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5819743372,
+      "name": "Beer o' clock 2",
+      "names": {},
+      "lat": 35.339787,
+      "lng": 25.132603,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=pub",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6507013786,
+      "name": "Το Ροβύθι",
+      "names": {},
+      "lat": 35.339769,
+      "lng": 25.135225,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9017471617,
+      "name": "Umami",
+      "names": {},
+      "lat": 35.339696,
+      "lng": 25.135052,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9610510117,
+      "name": "Macoo Eatery",
+      "names": {},
+      "lat": 35.34011,
+      "lng": 25.135297,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9610677717,
+      "name": "The Home",
+      "names": {},
+      "lat": 35.339257,
+      "lng": 25.134516,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10594379890,
+      "name": "Aphrodite",
+      "names": {},
+      "lat": 35.339777,
+      "lng": 25.058745,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10594547578,
+      "name": "Ίριδα",
+      "names": {},
+      "lat": 35.340991,
+      "lng": 25.133339,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=health_food",
+      "check_date": "2025-10-06"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10781629205,
+      "name": "Veganato",
+      "names": {},
+      "lat": 35.339473,
+      "lng": 25.131785,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11227871100,
+      "name": "Veganato",
+      "names": {},
+      "lat": 35.339017,
+      "lng": 25.131649,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12438469777,
+      "name": "Tiny Rebels",
+      "names": {},
+      "lat": 35.339861,
+      "lng": 25.131716,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-09-25"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13551346601,
+      "name": "Petousis Tavern",
+      "names": {},
+      "lat": 35.340189,
+      "lng": 25.13215,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 14089520038,
+      "name": "Mavrokostas",
+      "names": {
+        "el": "Μαυροκωστας"
+      },
+      "lat": 35.335566,
+      "lng": 25.118967,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    }
+  ]
+}

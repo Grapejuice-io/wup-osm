@@ -1,0 +1,7 @@
+{"type": "Feature", "id": "n1001", "geometry": {"type": "Point", "coordinates": [-9.14, 38.71]}, "properties": {"name": "Ao 26 Vegan Food Project", "name:en": "Ao 26", "amenity": "restaurant", "diet:vegan": "only", "check_date": "2025-03-01", "check_date:diet:vegan": "2025-09-12"}}
+{"type": "Feature", "id": "w2002", "geometry": {"type": "Polygon", "coordinates": [[[-9.16, 38.73], [-9.15, 38.73], [-9.15, 38.74], [-9.16, 38.74], [-9.16, 38.73]]]}, "properties": {"leisure": "dog_park", "name": "Parque canino"}}
+{"type": "Feature", "id": "n3003", "geometry": {"type": "Point", "coordinates": [-9.155, 38.73]}, "properties": {"barrier": "gate"}}
+{"type": "Feature", "id": "n4004", "geometry": {"type": "Point", "coordinates": [-9.142, 38.713]}, "properties": {"amenity": "bar", "lgbtq": "primary", "dog": "yes", "diet:vegan": "no"}}
+{"type": "Feature", "id": "w5005", "geometry": {"type": "LineString", "coordinates": [[-9.3, 38.69], [-9.29, 38.7]]}, "properties": {"natural": "beach", "dog:conditional": "no @ (Jun 01-Sep 30)", "name": "Praia", "name:pt": "Praia", "name:en": "Beach"}}
+{"type": "Feature", "id": "r6006", "geometry": {"type": "MultiPolygon", "coordinates": [[[[-9.2, 38.75], [-9.19, 38.75], [-9.19, 38.76], [-9.2, 38.75]]]]}, "properties": {"type": "multipolygon", "shop": "bakery", "diet:vegan": "yes"}}
+{"type": "Feature", "id": "n7007", "geometry": {"type": "Point", "coordinates": [-9.1301234567, 38.7101234567]}, "properties": {"name": "  Café Lésbico  ", "amenity": "cafe", "lgbtq": "welcome", "check_date": "2024-05"}}

@@ -1,0 +1,119 @@
+{
+  "version": 1,
+  "city": "lisbon",
+  "country": "PT",
+  "region": "europe/portugal",
+  "extract_timestamp": "2026-10-27T20:21:02Z",
+  "radius_km": 10,
+  "bbox": [
+    -9.24843,
+    38.62687,
+    -9.01817,
+    38.80653
+  ],
+  "venues": [
+    {
+      "osm_type": "node",
+      "osm_id": 1001,
+      "name": "Ao 26 Vegan Food Project",
+      "names": {
+        "en": "Ao 26"
+      },
+      "lat": 38.71,
+      "lng": -9.14,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2025-09-12"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4004,
+      "name": null,
+      "names": {},
+      "lat": 38.713,
+      "lng": -9.142,
+      "tags": {
+        "dog": "yes",
+        "lgbtq": "primary"
+      },
+      "themes": [
+        "dogs",
+        "lgbtq"
+      ],
+      "category": "amenity=bar",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7007,
+      "name": "Café Lésbico",
+      "names": {},
+      "lat": 38.710123,
+      "lng": -9.130123,
+      "tags": {
+        "lgbtq": "welcome"
+      },
+      "themes": [
+        "lgbtq"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2024-05"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2002,
+      "name": "Parque canino",
+      "names": {},
+      "lat": 38.735,
+      "lng": -9.155,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 5005,
+      "name": "Praia",
+      "names": {
+        "pt": "Praia",
+        "en": "Beach"
+      },
+      "lat": 38.695,
+      "lng": -9.295,
+      "tags": {
+        "dog:conditional": "no @ (Jun 01-Sep 30)"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "natural=beach",
+      "check_date": null
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 6006,
+      "name": null,
+      "names": {},
+      "lat": 38.755,
+      "lng": -9.195,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "shop=bakery",
+      "check_date": null
+    }
+  ]
+}

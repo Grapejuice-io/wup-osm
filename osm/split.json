@@ -1,0 +1,825 @@
+{
+  "version": 1,
+  "city": "split",
+  "country": "HR",
+  "region": "europe/croatia",
+  "extract_timestamp": "2026-10-27T21:23:59Z",
+  "radius_km": 10,
+  "bbox": [
+    16.31614,
+    43.42017,
+    16.56386,
+    43.59983
+  ],
+  "venues": [
+    {
+      "osm_type": "node",
+      "osm_id": 1676805995,
+      "name": "Ginger Juice & Smoothie Bar",
+      "names": {},
+      "lat": 43.508805,
+      "lng": 16.43762,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2556833174,
+      "name": "Submarine Burger",
+      "names": {},
+      "lat": 43.508684,
+      "lng": 16.437373,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2025-03-02"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3019564636,
+      "name": null,
+      "names": {},
+      "lat": 43.507438,
+      "lng": 16.478919,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3671529255,
+      "name": "Vege Fast Food",
+      "names": {},
+      "lat": 43.507191,
+      "lng": 16.442066,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4460020795,
+      "name": "Voćni trg",
+      "names": {
+        "en": "KOKOLO juice & mojito bar",
+        "hr": "KOKOLO juice & mojito bar"
+      },
+      "lat": 43.508037,
+      "lng": 16.438449,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=bar",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4784296338,
+      "name": "Gelateria pumparela",
+      "names": {},
+      "lat": 43.508322,
+      "lng": 16.44055,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=ice_cream",
+      "check_date": "2025-07-30"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5727483122,
+      "name": "Maka maka",
+      "names": {},
+      "lat": 43.507759,
+      "lng": 16.46903,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2025-04-09"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6658938433,
+      "name": "Fig",
+      "names": {},
+      "lat": 43.508592,
+      "lng": 16.440273,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2024-09-02"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9248559758,
+      "name": "Službeni park za pse GK Spinut",
+      "names": {},
+      "lat": 43.514229,
+      "lng": 16.428897,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9442750378,
+      "name": null,
+      "names": {},
+      "lat": 43.509816,
+      "lng": 16.466365,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9698894517,
+      "name": "Feel Green",
+      "names": {
+        "hr": "Feel Green"
+      },
+      "lat": 43.508654,
+      "lng": 16.434853,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2024-09-26"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10050798760,
+      "name": "Pandora Greenbox",
+      "names": {},
+      "lat": 43.509245,
+      "lng": 16.437665,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2025-03-02"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12104177101,
+      "name": "Barakokula",
+      "names": {},
+      "lat": 43.508742,
+      "lng": 16.43977,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2024-11-09"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12372493825,
+      "name": "Soul Kitchen",
+      "names": {
+        "hr": "Soul Kitchen"
+      },
+      "lat": 43.503001,
+      "lng": 16.44595,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2024-11-24"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12593015175,
+      "name": "Salt - Gluten Free House",
+      "names": {},
+      "lat": 43.510996,
+      "lng": 16.439766,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2025-10-02"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 14266061691,
+      "name": "X Night Club",
+      "names": {},
+      "lat": 43.510546,
+      "lng": 16.439518,
+      "tags": {
+        "lgbtq": "primary"
+      },
+      "themes": [
+        "lgbtq"
+      ],
+      "category": "amenity=nightclub",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 114700757,
+      "name": null,
+      "names": {},
+      "lat": 43.514335,
+      "lng": 16.450524,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 122516392,
+      "name": null,
+      "names": {},
+      "lat": 43.502738,
+      "lng": 16.423515,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "natural=beach",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 127253354,
+      "name": "Blatine",
+      "names": {},
+      "lat": 43.506796,
+      "lng": 16.459515,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 140646334,
+      "name": null,
+      "names": {},
+      "lat": 43.516994,
+      "lng": 16.47511,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 141682706,
+      "name": null,
+      "names": {},
+      "lat": 43.519676,
+      "lng": 16.455731,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 229401514,
+      "name": null,
+      "names": {},
+      "lat": 43.514335,
+      "lng": 16.450524,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 245032784,
+      "name": null,
+      "names": {},
+      "lat": 43.502738,
+      "lng": 16.423515,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "natural=beach",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 254506708,
+      "name": "Blatine",
+      "names": {},
+      "lat": 43.506796,
+      "lng": 16.459515,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 281292668,
+      "name": null,
+      "names": {},
+      "lat": 43.516994,
+      "lng": 16.47511,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 283365412,
+      "name": null,
+      "names": {},
+      "lat": 43.519676,
+      "lng": 16.455731,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 297928308,
+      "name": null,
+      "names": {},
+      "lat": 43.501441,
+      "lng": 16.492361,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "natural=beach",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 308202315,
+      "name": "Beach for dogs",
+      "names": {},
+      "lat": 43.50479,
+      "lng": 16.401616,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "natural=beach",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 421275349,
+      "name": null,
+      "names": {},
+      "lat": 43.503916,
+      "lng": 16.414963,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 480253054,
+      "name": "Park za pse",
+      "names": {},
+      "lat": 43.502907,
+      "lng": 16.424327,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 595856616,
+      "name": null,
+      "names": {},
+      "lat": 43.501441,
+      "lng": 16.492361,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "natural=beach",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 616404630,
+      "name": "Beach for dogs",
+      "names": {},
+      "lat": 43.50479,
+      "lng": 16.401616,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "natural=beach",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 769961476,
+      "name": null,
+      "names": {},
+      "lat": 43.518776,
+      "lng": 16.472315,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 842550698,
+      "name": null,
+      "names": {},
+      "lat": 43.503916,
+      "lng": 16.414963,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 893957942,
+      "name": null,
+      "names": {},
+      "lat": 43.561016,
+      "lng": 16.523104,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 919258701,
+      "name": null,
+      "names": {},
+      "lat": 43.511986,
+      "lng": 16.453252,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1002068099,
+      "name": null,
+      "names": {},
+      "lat": 43.514207,
+      "lng": 16.429004,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1002068300,
+      "name": "Službeni park za pse GK Spinut",
+      "names": {},
+      "lat": 43.517453,
+      "lng": 16.432248,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1111534896,
+      "name": "Park za pse",
+      "names": {},
+      "lat": 43.508914,
+      "lng": 16.47887,
+      "tags": {
+        "dog": "yes",
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1164488749,
+      "name": "Park za pse",
+      "names": {},
+      "lat": 43.537046,
+      "lng": 16.493754,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1512532048,
+      "name": null,
+      "names": {},
+      "lat": 43.520539,
+      "lng": 16.47018,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1539922952,
+      "name": null,
+      "names": {},
+      "lat": 43.518776,
+      "lng": 16.472315,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1787915884,
+      "name": null,
+      "names": {},
+      "lat": 43.561016,
+      "lng": 16.523104,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1838517402,
+      "name": null,
+      "names": {},
+      "lat": 43.511986,
+      "lng": 16.453252,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1932509218,
+      "name": null,
+      "names": {},
+      "lat": 43.54997,
+      "lng": 16.36455,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2004136198,
+      "name": null,
+      "names": {},
+      "lat": 43.514207,
+      "lng": 16.429004,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2004136600,
+      "name": "Službeni park za pse GK Spinut",
+      "names": {},
+      "lat": 43.517453,
+      "lng": 16.432248,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2223069792,
+      "name": "Park za pse",
+      "names": {},
+      "lat": 43.508914,
+      "lng": 16.47887,
+      "tags": {
+        "dog": "yes",
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2328977498,
+      "name": "Park za pse",
+      "names": {},
+      "lat": 43.537046,
+      "lng": 16.493754,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 3025064096,
+      "name": null,
+      "names": {},
+      "lat": 43.520539,
+      "lng": 16.47018,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    }
+  ]
+}

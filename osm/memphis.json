@@ -1,0 +1,274 @@
+{
+  "version": 1,
+  "city": "memphis",
+  "country": "US",
+  "region": "north-america/us/tennessee",
+  "extract_timestamp": "2026-10-27T21:23:59Z",
+  "radius_km": 10,
+  "bbox": [
+    -90.1618,
+    35.05628,
+    -89.94208,
+    35.23594
+  ],
+  "venues": [
+    {
+      "osm_type": "node",
+      "osm_id": 4142466444,
+      "name": "Big Cypress Lodge",
+      "names": {},
+      "lat": 35.155541,
+      "lng": -90.052349,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "tourism=hotel",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11127159123,
+      "name": "Plant Based Heat",
+      "names": {},
+      "lat": 35.113369,
+      "lng": -89.945999,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2023-08-19"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 11127162893,
+      "name": "Phở Binh",
+      "names": {
+        "en": "Pho Binh"
+      },
+      "lat": 35.137725,
+      "lng": -90.007447,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12206144660,
+      "name": "Imagine Vegan Cafe",
+      "names": {},
+      "lat": 35.119739,
+      "lng": -89.990282,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13518506001,
+      "name": "LuLu's Cafe and Bakery",
+      "names": {},
+      "lat": 35.131143,
+      "lng": -89.957992,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13939641837,
+      "name": "DRUS Bar",
+      "names": {},
+      "lat": 35.138649,
+      "lng": -90.012116,
+      "tags": {
+        "lgbtq": "primary"
+      },
+      "themes": [
+        "lgbtq"
+      ],
+      "category": "amenity=bar",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 356065315,
+      "name": null,
+      "names": {},
+      "lat": 35.132258,
+      "lng": -89.956663,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 479628075,
+      "name": "The Barking Lot Dog Park",
+      "names": {},
+      "lat": 35.147205,
+      "lng": -90.051577,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 544815814,
+      "name": "Overton Bark",
+      "names": {},
+      "lat": 35.146171,
+      "lng": -89.99146,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 712130630,
+      "name": null,
+      "names": {},
+      "lat": 35.132258,
+      "lng": -89.956663,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 959256150,
+      "name": "The Barking Lot Dog Park",
+      "names": {},
+      "lat": 35.147205,
+      "lng": -90.051577,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1089631628,
+      "name": "Overton Bark",
+      "names": {},
+      "lat": 35.146171,
+      "lng": -89.99146,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1550615333,
+      "name": "Central Bank Dog Park",
+      "names": {},
+      "lat": 35.132687,
+      "lng": -90.061081,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1550639132,
+      "name": "Fourth Ruff Park",
+      "names": {},
+      "lat": 35.14827,
+      "lng": -90.053205,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 3101230666,
+      "name": "Central Bank Dog Park",
+      "names": {},
+      "lat": 35.132687,
+      "lng": -90.061081,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 3101278264,
+      "name": "Fourth Ruff Park",
+      "names": {},
+      "lat": 35.14827,
+      "lng": -90.053205,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    }
+  ]
+}

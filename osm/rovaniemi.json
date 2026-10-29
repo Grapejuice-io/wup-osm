@@ -1,0 +1,402 @@
+{
+  "version": 1,
+  "city": "rovaniemi",
+  "country": "FI",
+  "region": "europe/finland",
+  "extract_timestamp": "2026-10-27T21:23:59Z",
+  "radius_km": 10,
+  "bbox": [
+    25.50317,
+    66.41296,
+    25.95379,
+    66.59262
+  ],
+  "venues": [
+    {
+      "osm_type": "node",
+      "osm_id": 282473902,
+      "name": "Rosso",
+      "names": {},
+      "lat": 66.502033,
+      "lng": 25.730775,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 292014971,
+      "name": "Hesburger",
+      "names": {},
+      "lat": 66.518143,
+      "lng": 25.755124,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 292014972,
+      "name": "Hesburger",
+      "names": {},
+      "lat": 66.502249,
+      "lng": 25.729907,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-09-27"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 292014973,
+      "name": "Hesburger",
+      "names": {},
+      "lat": 66.492062,
+      "lng": 25.688949,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7743607154,
+      "name": "Kotipizza",
+      "names": {},
+      "lat": 66.500685,
+      "lng": 25.712635,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8261659867,
+      "name": "Tori Falafel",
+      "names": {},
+      "lat": 66.500596,
+      "lng": 25.714101,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10050324245,
+      "name": "Toramon frisbeegolfrata",
+      "names": {
+        "en": "Toramo disc golf park"
+      },
+      "lat": 66.475283,
+      "lng": 25.848467,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=disc_golf_course",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10571221209,
+      "name": "Burger King",
+      "names": {},
+      "lat": 66.503136,
+      "lng": 25.727624,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12151769481,
+      "name": "Hanki",
+      "names": {},
+      "lat": 66.497734,
+      "lng": 25.729486,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13261228299,
+      "name": "Saarenkylä Turkinpippuri",
+      "names": {},
+      "lat": 66.520629,
+      "lng": 25.781664,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-03-27"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13343548324,
+      "name": "Subway",
+      "names": {},
+      "lat": 66.501953,
+      "lng": 25.730221,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 28440961,
+      "name": null,
+      "names": {},
+      "lat": 66.511234,
+      "lng": 25.656446,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 28532308,
+      "name": null,
+      "names": {},
+      "lat": 66.514691,
+      "lng": 25.645144,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 31498425,
+      "name": "McDonald's",
+      "names": {},
+      "lat": 66.49553,
+      "lng": 25.711231,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 62996850,
+      "name": "McDonald's",
+      "names": {},
+      "lat": 66.49553,
+      "lng": 25.711231,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 204015318,
+      "name": null,
+      "names": {},
+      "lat": 66.513063,
+      "lng": 25.650279,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 204015319,
+      "name": null,
+      "names": {},
+      "lat": 66.513678,
+      "lng": 25.650483,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 723185509,
+      "name": "Lainaanrannan koirapuisto",
+      "names": {},
+      "lat": 66.507432,
+      "lng": 25.73296,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 911554999,
+      "name": "Koivusaaren koiralatu",
+      "names": {},
+      "lat": 66.514703,
+      "lng": 25.747472,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1340993147,
+      "name": null,
+      "names": {},
+      "lat": 66.489091,
+      "lng": 25.805368,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1361253369,
+      "name": null,
+      "names": {},
+      "lat": 66.510147,
+      "lng": 25.756789,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1446371018,
+      "name": "Lainaanrannan koirapuisto",
+      "names": {},
+      "lat": 66.507432,
+      "lng": 25.73296,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 1823109998,
+      "name": "Koivusaaren koiralatu",
+      "names": {},
+      "lat": 66.514703,
+      "lng": 25.747472,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2681986294,
+      "name": null,
+      "names": {},
+      "lat": 66.489091,
+      "lng": 25.805368,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    }
+  ]
+}
