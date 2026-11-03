@@ -3,7 +3,7 @@
   "city": "brussels",
   "country": "BE",
   "region": "europe/belgium",
-  "extract_timestamp": "2026-10-27T21:23:59Z",
+  "extract_timestamp": "2026-11-02T21:21:26Z",
   "radius_km": 10,
   "bbox": [
     4.20939,
@@ -2235,9 +2235,7 @@
       "osm_type": "node",
       "osm_id": 6245160334,
       "name": "Donki",
-      "names": {
-        "de": "Donki Louise"
-      },
+      "names": {},
       "lat": 50.829788,
       "lng": 4.356131,
       "tags": {
@@ -2439,7 +2437,7 @@
         "vegan"
       ],
       "category": "amenity=fast_food",
-      "check_date": "2025-07-02"
+      "check_date": "2026-10-28"
     },
     {
       "osm_type": "node",

@@ -3,7 +3,7 @@
   "city": "london",
   "country": "GB",
   "region": "europe/united-kingdom/england/greater-london",
-  "extract_timestamp": "2026-10-27T21:23:59Z",
+  "extract_timestamp": "2026-11-02T21:21:26Z",
   "radius_km": 18,
   "bbox": [
     -0.38729,
@@ -2110,6 +2110,22 @@
     },
     {
       "osm_type": "node",
+      "osm_id": 852122514,
+      "name": "Il Blandford`s",
+      "names": {},
+      "lat": 51.52027,
+      "lng": -0.155682,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
       "osm_id": 874743654,
       "name": "Wasabi",
       "names": {},
@@ -2460,7 +2476,7 @@
         "vegan"
       ],
       "category": "amenity=restaurant",
-      "check_date": null
+      "check_date": "2026-10-30"
     },
     {
       "osm_type": "node",
@@ -5131,22 +5147,6 @@
     },
     {
       "osm_type": "node",
-      "osm_id": 4349228271,
-      "name": "Cantina Del Ponte",
-      "names": {},
-      "lat": 51.503488,
-      "lng": -0.072976,
-      "tags": {
-        "diet:vegan": "yes"
-      },
-      "themes": [
-        "vegan"
-      ],
-      "category": "amenity=restaurant",
-      "check_date": null
-    },
-    {
-      "osm_type": "node",
       "osm_id": 4354573789,
       "name": "Scandinavian Kitchen",
       "names": {},
@@ -5214,7 +5214,7 @@
     {
       "osm_type": "node",
       "osm_id": 4439716019,
-      "name": "Canada water cafe",
+      "name": "Canada Water Cafe",
       "names": {},
       "lat": 51.498776,
       "lng": -0.049132,
@@ -5225,7 +5225,7 @@
         "vegan"
       ],
       "category": "amenity=restaurant",
-      "check_date": null
+      "check_date": "2026-11-01"
     },
     {
       "osm_type": "node",
@@ -5666,6 +5666,22 @@
       ],
       "category": "shop=books",
       "check_date": "2023-12-19"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4784656734,
+      "name": "Butlers Wharf Chop House",
+      "names": {},
+      "lat": 51.503686,
+      "lng": -0.073682,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-11-01"
     },
     {
       "osm_type": "node",
@@ -7297,7 +7313,7 @@
     {
       "osm_type": "node",
       "osm_id": 6429327325,
-      "name": "Mamuska!",
+      "name": "Mamuśka!",
       "names": {},
       "lat": 51.50103,
       "lng": -0.115392,
@@ -7308,7 +7324,7 @@
         "vegan"
       ],
       "category": "amenity=restaurant",
-      "check_date": "2026-07-29"
+      "check_date": "2026-10-30"
     },
     {
       "osm_type": "node",
@@ -8195,6 +8211,24 @@
       ],
       "category": "amenity=cafe",
       "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7131596085,
+      "name": "Redemption Roasters",
+      "names": {
+        "en": "Redemption Roasters"
+      },
+      "lat": 51.535914,
+      "lng": -0.126169,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-10-28"
     },
     {
       "osm_type": "node",
@@ -10290,6 +10324,22 @@
     },
     {
       "osm_type": "node",
+      "osm_id": 9379765858,
+      "name": "GAIL's",
+      "names": {},
+      "lat": 51.53744,
+      "lng": -0.124686,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
       "osm_id": 9383332251,
       "name": "Maids of Honour",
       "names": {},
@@ -10611,7 +10661,7 @@
         "dogs"
       ],
       "category": "amenity=cafe",
-      "check_date": "2026-05-31"
+      "check_date": "2026-10-31"
     },
     {
       "osm_type": "node",
@@ -11469,7 +11519,7 @@
         "vegan"
       ],
       "category": "amenity=restaurant",
-      "check_date": "2026-03-29"
+      "check_date": "2026-10-30"
     },
     {
       "osm_type": "node",
@@ -11711,7 +11761,7 @@
         "dogs"
       ],
       "category": "amenity=cafe",
-      "check_date": "2026-01-15"
+      "check_date": "2026-10-29"
     },
     {
       "osm_type": "node",
@@ -12981,7 +13031,7 @@
         "vegan"
       ],
       "category": "amenity=fast_food",
-      "check_date": "2024-08-20"
+      "check_date": "2026-11-01"
     },
     {
       "osm_type": "node",
@@ -14094,23 +14144,7 @@
         "vegan"
       ],
       "category": "amenity=cafe",
-      "check_date": null
-    },
-    {
-      "osm_type": "node",
-      "osm_id": 12633520273,
-      "name": "GreenZen Poké",
-      "names": {},
-      "lat": 51.497738,
-      "lng": -0.0495,
-      "tags": {
-        "diet:vegan": "yes"
-      },
-      "themes": [
-        "vegan"
-      ],
-      "category": "amenity=fast_food",
-      "check_date": null
+      "check_date": "2026-11-01"
     },
     {
       "osm_type": "node",
@@ -15629,6 +15663,22 @@
     },
     {
       "osm_type": "node",
+      "osm_id": 14178744688,
+      "name": "Pizza Pilgrims",
+      "names": {},
+      "lat": 51.512545,
+      "lng": -0.13905,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-11-01"
+    },
+    {
+      "osm_type": "node",
       "osm_id": 14178836605,
       "name": "Jatra Restaurant Stockwell",
       "names": {},
@@ -16143,7 +16193,7 @@
         "dogs"
       ],
       "category": "amenity=bar",
-      "check_date": "2026-10-22"
+      "check_date": "2026-10-29"
     },
     {
       "osm_type": "node",
@@ -16160,6 +16210,22 @@
       ],
       "category": "amenity=restaurant",
       "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 14335680916,
+      "name": "Sophie's",
+      "names": {},
+      "lat": 51.51964,
+      "lng": -0.226196,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-10-31"
     },
     {
       "osm_type": "way",
@@ -26726,6 +26792,22 @@
     },
     {
       "osm_type": "way",
+      "osm_id": 347275186,
+      "name": "Lewis Cubitt Park",
+      "names": {},
+      "lat": 51.538152,
+      "lng": -0.125222,
+      "tags": {
+        "dog": "unleashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
       "osm_id": 348812072,
       "name": "Baked Bird",
       "names": {},
@@ -27087,6 +27169,22 @@
       ],
       "category": "shop=convenience",
       "check_date": "2026-03-22"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 369251666,
+      "name": "28°-50° Wine Workshop & Kitchen",
+      "names": {},
+      "lat": 51.516388,
+      "lng": -0.150444,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2024-12-18"
     },
     {
       "osm_type": "way",
@@ -27892,6 +27990,22 @@
       ],
       "category": "amenity=cafe",
       "check_date": "2026-01-11"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 392465039,
+      "name": "Salt Quay",
+      "names": {},
+      "lat": 51.504644,
+      "lng": -0.047594,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=pub",
+      "check_date": "2026-11-01"
     },
     {
       "osm_type": "way",
@@ -30223,6 +30337,22 @@
       ],
       "category": "amenity=fast_food",
       "check_date": "2026-05-23"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 498676661,
+      "name": "Umana Yana",
+      "names": {},
+      "lat": 51.450475,
+      "lng": -0.100404,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-10-29"
     },
     {
       "osm_type": "way",
@@ -33248,6 +33378,22 @@
     },
     {
       "osm_type": "way",
+      "osm_id": 694550372,
+      "name": "Lewis Cubitt Park",
+      "names": {},
+      "lat": 51.538152,
+      "lng": -0.125222,
+      "tags": {
+        "dog": "unleashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
       "osm_id": 696144274,
       "name": "Deeney's",
       "names": {},
@@ -33657,6 +33803,22 @@
       ],
       "category": "leisure=dog_park",
       "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 738503332,
+      "name": "28°-50° Wine Workshop & Kitchen",
+      "names": {},
+      "lat": 51.516388,
+      "lng": -0.150444,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2024-12-18"
     },
     {
       "osm_type": "way",
@@ -34331,6 +34493,22 @@
       ],
       "category": "leisure=park",
       "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 784930078,
+      "name": "Salt Quay",
+      "names": {},
+      "lat": 51.504644,
+      "lng": -0.047594,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=pub",
+      "check_date": "2026-11-01"
     },
     {
       "osm_type": "way",
@@ -37099,7 +37277,7 @@
         "dogs"
       ],
       "category": null,
-      "check_date": null
+      "check_date": "2026-10-31"
     },
     {
       "osm_type": "way",
@@ -37202,7 +37380,7 @@
     {
       "osm_type": "way",
       "osm_id": 962939054,
-      "name": "Mélo",
+      "name": "Bric",
       "names": {},
       "lat": 51.552899,
       "lng": -0.070359,
@@ -37215,7 +37393,7 @@
         "dogs"
       ],
       "category": "amenity=cafe",
-      "check_date": "2025-03-29"
+      "check_date": "2026-10-31"
     },
     {
       "osm_type": "way",
@@ -37601,6 +37779,22 @@
       ],
       "category": "leisure=park",
       "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 997353322,
+      "name": "Umana Yana",
+      "names": {},
+      "lat": 51.450475,
+      "lng": -0.100404,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-10-29"
     },
     {
       "osm_type": "way",
@@ -43545,7 +43739,7 @@
     {
       "osm_type": "way",
       "osm_id": 1925878108,
-      "name": "Mélo",
+      "name": "Bric",
       "names": {},
       "lat": 51.552899,
       "lng": -0.070359,
@@ -43558,7 +43752,7 @@
         "dogs"
       ],
       "category": "amenity=cafe",
-      "check_date": "2025-03-29"
+      "check_date": "2026-10-31"
     },
     {
       "osm_type": "way",

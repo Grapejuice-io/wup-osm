@@ -3,7 +3,7 @@
   "city": "milan",
   "country": "IT",
   "region": "europe/italy/nord-ovest",
-  "extract_timestamp": "2026-10-27T21:23:59Z",
+  "extract_timestamp": "2026-11-02T21:21:26Z",
   "radius_km": 10,
   "bbox": [
     9.06191,
@@ -2645,6 +2645,22 @@
         "vegan"
       ],
       "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 14299421118,
+      "name": null,
+      "names": {},
+      "lat": 45.50271,
+      "lng": 9.164218,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=cafe",
       "check_date": null
     },
     {

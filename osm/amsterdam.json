@@ -3,7 +3,7 @@
   "city": "amsterdam",
   "country": "NL",
   "region": "europe/netherlands/noord-holland",
-  "extract_timestamp": "2026-10-27T21:23:59Z",
+  "extract_timestamp": "2026-11-02T21:21:26Z",
   "radius_km": 10,
   "bbox": [
     4.73622,
@@ -399,7 +399,7 @@
     {
       "osm_type": "node",
       "osm_id": 1221354016,
-      "name": "Coffee Roastery",
+      "name": "vin fou",
       "names": {},
       "lat": 52.36137,
       "lng": 4.865064,
@@ -409,8 +409,8 @@
       "themes": [
         "vegan"
       ],
-      "category": "amenity=cafe",
-      "check_date": "2025-01-07"
+      "category": "amenity=restaurant",
+      "check_date": "2026-10-31"
     },
     {
       "osm_type": "node",
@@ -2538,7 +2538,7 @@
     {
       "osm_type": "node",
       "osm_id": 2818731478,
-      "name": "Hwa Won",
+      "name": "Hetsal",
       "names": {},
       "lat": 52.324322,
       "lng": 4.884682,
@@ -2549,7 +2549,7 @@
         "vegan"
       ],
       "category": "amenity=restaurant",
-      "check_date": "2026-07-26"
+      "check_date": "2026-11-01"
     },
     {
       "osm_type": "node",
@@ -3228,6 +3228,22 @@
       ],
       "category": "amenity=cafe",
       "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4780392356,
+      "name": "taal.coffee",
+      "names": {},
+      "lat": 52.360057,
+      "lng": 4.858091,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-11-01"
     },
     {
       "osm_type": "node",

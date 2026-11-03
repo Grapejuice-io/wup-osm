@@ -3,7 +3,7 @@
   "city": "oslo",
   "country": "NO",
   "region": "europe/norway",
-  "extract_timestamp": "2026-10-27T21:23:59Z",
+  "extract_timestamp": "2026-11-02T21:21:26Z",
   "radius_km": 10,
   "bbox": [
     10.5597,
@@ -2019,7 +2019,7 @@
     {
       "osm_type": "way",
       "osm_id": 111845747,
-      "name": "Elsker",
+      "name": null,
       "names": {},
       "lat": 59.915429,
       "lng": 10.737937,
@@ -2243,7 +2243,7 @@
     {
       "osm_type": "way",
       "osm_id": 223691494,
-      "name": "Elsker",
+      "name": null,
       "names": {},
       "lat": 59.915429,
       "lng": 10.737937,

@@ -3,7 +3,7 @@
   "city": "munich",
   "country": "DE",
   "region": "europe/germany/bayern/oberbayern",
-  "extract_timestamp": "2026-10-27T21:23:59Z",
+  "extract_timestamp": "2026-11-02T21:21:26Z",
   "radius_km": 10,
   "bbox": [
     11.44039,
@@ -380,7 +380,7 @@
         "vegan"
       ],
       "category": "amenity=cafe",
-      "check_date": "2024-11-16"
+      "check_date": "2026-08-31"
     },
     {
       "osm_type": "node",
@@ -429,22 +429,6 @@
       ],
       "category": "amenity=restaurant",
       "check_date": "2024-08-20"
-    },
-    {
-      "osm_type": "node",
-      "osm_id": 266698109,
-      "name": "Mehak",
-      "names": {},
-      "lat": 48.133255,
-      "lng": 11.60133,
-      "tags": {
-        "diet:vegan": "yes"
-      },
-      "themes": [
-        "vegan"
-      ],
-      "category": "amenity=restaurant",
-      "check_date": null
     },
     {
       "osm_type": "node",
@@ -640,7 +624,7 @@
         "vegan"
       ],
       "category": "amenity=restaurant",
-      "check_date": null
+      "check_date": "2026-10-28"
     },
     {
       "osm_type": "node",
@@ -1203,7 +1187,7 @@
         "vegan"
       ],
       "category": "shop=supermarket",
-      "check_date": "2025-10-24"
+      "check_date": "2026-10-30"
     },
     {
       "osm_type": "node",
@@ -4562,7 +4546,7 @@
         "vegan"
       ],
       "category": "amenity=restaurant",
-      "check_date": "2024-03-30"
+      "check_date": "2026-10-30"
     },
     {
       "osm_type": "node",
@@ -4946,7 +4930,7 @@
         "vegan"
       ],
       "category": "amenity=cafe",
-      "check_date": "2023-03-17"
+      "check_date": "2026-11-02"
     },
     {
       "osm_type": "node",
@@ -5766,7 +5750,7 @@
         "vegan"
       ],
       "category": "amenity=cafe",
-      "check_date": "2024-03-30"
+      "check_date": "2026-10-30"
     },
     {
       "osm_type": "node",
@@ -6713,7 +6697,7 @@
         "vegan"
       ],
       "category": "amenity=fast_food",
-      "check_date": "2026-08-02"
+      "check_date": "2026-11-01"
     },
     {
       "osm_type": "node",
@@ -8541,7 +8525,7 @@
         "vegan"
       ],
       "category": "amenity=fast_food",
-      "check_date": "2024-03-30"
+      "check_date": "2026-10-30"
     },
     {
       "osm_type": "node",
@@ -8960,7 +8944,7 @@
         "vegan"
       ],
       "category": "amenity=fast_food",
-      "check_date": "2025-04-24"
+      "check_date": "2026-10-30"
     },
     {
       "osm_type": "node",
@@ -11457,7 +11441,7 @@
         "vegan"
       ],
       "category": "amenity=cafe",
-      "check_date": "2026-06-27"
+      "check_date": "2026-10-29"
     },
     {
       "osm_type": "node",
@@ -12707,7 +12691,7 @@
         "vegan"
       ],
       "category": "amenity=restaurant",
-      "check_date": "2026-08-26"
+      "check_date": "2026-10-30"
     },
     {
       "osm_type": "node",
@@ -13441,22 +13425,6 @@
       "names": {},
       "lat": 48.127988,
       "lng": 11.558578,
-      "tags": {
-        "diet:vegan": "yes"
-      },
-      "themes": [
-        "vegan"
-      ],
-      "category": "amenity=cafe",
-      "check_date": null
-    },
-    {
-      "osm_type": "node",
-      "osm_id": 13481499802,
-      "name": "Café Fuud",
-      "names": {},
-      "lat": 48.161598,
-      "lng": 11.540424,
       "tags": {
         "diet:vegan": "yes"
       },
@@ -16236,7 +16204,7 @@
         "vegan"
       ],
       "category": "shop=supermarket",
-      "check_date": "2025-10-14"
+      "check_date": "2026-10-31"
     },
     {
       "osm_type": "way",
@@ -16992,7 +16960,7 @@
         "vegan"
       ],
       "category": "shop=supermarket",
-      "check_date": "2025-10-14"
+      "check_date": "2026-10-31"
     },
     {
       "osm_type": "way",

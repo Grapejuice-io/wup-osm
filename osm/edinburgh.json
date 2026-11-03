@@ -3,7 +3,7 @@
   "city": "edinburgh",
   "country": "GB",
   "region": "europe/united-kingdom/scotland",
-  "extract_timestamp": "2026-10-27T21:23:59Z",
+  "extract_timestamp": "2026-11-02T21:21:26Z",
   "radius_km": 10,
   "bbox": [
     -3.34962,
@@ -154,7 +154,7 @@
         "vegan"
       ],
       "category": "amenity=fast_food",
-      "check_date": "2026-09-03"
+      "check_date": "2026-11-02"
     },
     {
       "osm_type": "node",
@@ -330,7 +330,7 @@
         "vegan"
       ],
       "category": "amenity=restaurant",
-      "check_date": "2024-09-24"
+      "check_date": "2026-10-29"
     },
     {
       "osm_type": "node",
@@ -531,7 +531,7 @@
     {
       "osm_type": "node",
       "osm_id": 709317020,
-      "name": "Soul",
+      "name": "Soul Vegan",
       "names": {},
       "lat": 55.946014,
       "lng": -3.182114,
@@ -686,7 +686,7 @@
         "vegan"
       ],
       "category": "shop=convenience",
-      "check_date": "2025-08-09"
+      "check_date": "2026-10-31"
     },
     {
       "osm_type": "node",
@@ -750,7 +750,7 @@
         "vegan"
       ],
       "category": "amenity=fast_food",
-      "check_date": "2026-05-08"
+      "check_date": "2026-11-01"
     },
     {
       "osm_type": "node",
@@ -833,6 +833,22 @@
       ],
       "category": "amenity=fast_food",
       "check_date": "2026-06-03"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1699579383,
+      "name": "Go Go Beets",
+      "names": {},
+      "lat": 55.952678,
+      "lng": -3.114225,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2025-04-09"
     },
     {
       "osm_type": "node",
@@ -1138,7 +1154,7 @@
         "vegan"
       ],
       "category": "amenity=cafe",
-      "check_date": "2024-09-24"
+      "check_date": "2026-10-29"
     },
     {
       "osm_type": "node",
@@ -1298,7 +1314,7 @@
         "vegan"
       ],
       "category": "amenity=pub",
-      "check_date": "2026-04-01"
+      "check_date": "2026-10-29"
     },
     {
       "osm_type": "node",
@@ -1324,10 +1340,12 @@
       "lat": 55.943703,
       "lng": -3.192405,
       "tags": {
-        "diet:vegan": "yes"
+        "diet:vegan": "yes",
+        "dog": "yes"
       },
       "themes": [
-        "vegan"
+        "vegan",
+        "dogs"
       ],
       "category": "amenity=cafe",
       "check_date": "2026-02-05"
@@ -1900,7 +1918,7 @@
       "lat": 55.97007,
       "lng": -3.169742,
       "tags": {
-        "diet:vegan": "yes"
+        "diet:vegan": "only"
       },
       "themes": [
         "vegan"
@@ -1923,6 +1941,22 @@
       ],
       "category": "amenity=restaurant",
       "check_date": "2026-01-13"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3195489413,
+      "name": "The Sly Fox",
+      "names": {},
+      "lat": 55.972048,
+      "lng": -3.172728,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
     },
     {
       "osm_type": "node",
@@ -2271,7 +2305,7 @@
       "lat": 55.956646,
       "lng": -3.202747,
       "tags": {
-        "diet:vegan": "yes"
+        "diet:vegan": "only"
       },
       "themes": [
         "vegan"
@@ -2801,7 +2835,7 @@
       "lat": 55.949903,
       "lng": -3.206486,
       "tags": {
-        "diet:vegan": "yes"
+        "diet:vegan": "only"
       },
       "themes": [
         "vegan"
@@ -2891,6 +2925,38 @@
     },
     {
       "osm_type": "node",
+      "osm_id": 13545851359,
+      "name": "Lakeland",
+      "names": {},
+      "lat": 55.894725,
+      "lng": -3.098346,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "shop=houseware",
+      "check_date": "2026-11-02"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13545851362,
+      "name": "Edinburgh Woollen Mill",
+      "names": {},
+      "lat": 55.894826,
+      "lng": -3.098337,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "shop=clothes",
+      "check_date": "2026-11-02"
+    },
+    {
+      "osm_type": "node",
       "osm_id": 13938401326,
       "name": "The Real Greek",
       "names": {},
@@ -2922,6 +2988,40 @@
       "check_date": null
     },
     {
+      "osm_type": "node",
+      "osm_id": 14340425860,
+      "name": "Dobbies Cafe",
+      "names": {},
+      "lat": 55.895381,
+      "lng": -3.098463,
+      "tags": {
+        "diet:vegan": "yes",
+        "dog": "yes"
+      },
+      "themes": [
+        "vegan",
+        "dogs"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 31772307,
+      "name": "Dobbies",
+      "names": {},
+      "lat": 55.895328,
+      "lng": -3.098966,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "shop=garden_centre",
+      "check_date": "2026-02-08"
+    },
+    {
       "osm_type": "way",
       "osm_id": 60684490,
       "name": "Old Chain Pier",
@@ -2936,6 +3036,38 @@
       ],
       "category": "amenity=pub",
       "check_date": "2026-09-04"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 61111398,
+      "name": "Melville Inn",
+      "names": {},
+      "lat": 55.895065,
+      "lng": -3.096437,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=pub",
+      "check_date": "2026-11-01"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 63544614,
+      "name": "Dobbies",
+      "names": {},
+      "lat": 55.895328,
+      "lng": -3.098966,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "shop=garden_centre",
+      "check_date": "2026-02-08"
     },
     {
       "osm_type": "way",
@@ -2955,6 +3087,40 @@
     },
     {
       "osm_type": "way",
+      "osm_id": 122222796,
+      "name": "Melville Inn",
+      "names": {},
+      "lat": 55.895065,
+      "lng": -3.096437,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=pub",
+      "check_date": "2026-11-01"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 301536493,
+      "name": "The Holyrood 9A",
+      "names": {},
+      "lat": 55.949364,
+      "lng": -3.182669,
+      "tags": {
+        "diet:vegan": "yes",
+        "dog": "yes"
+      },
+      "themes": [
+        "vegan",
+        "dogs"
+      ],
+      "category": "amenity=pub",
+      "check_date": "2026-11-01"
+    },
+    {
+      "osm_type": "way",
       "osm_id": 543355395,
       "name": "Domino's",
       "names": {},
@@ -2968,6 +3134,24 @@
       ],
       "category": "amenity=fast_food",
       "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 603072986,
+      "name": "The Holyrood 9A",
+      "names": {},
+      "lat": 55.949364,
+      "lng": -3.182669,
+      "tags": {
+        "diet:vegan": "yes",
+        "dog": "yes"
+      },
+      "themes": [
+        "vegan",
+        "dogs"
+      ],
+      "category": "amenity=pub",
+      "check_date": "2026-11-01"
     },
     {
       "osm_type": "way",

@@ -3,7 +3,7 @@
   "city": "helsinki",
   "country": "FI",
   "region": "europe/finland",
-  "extract_timestamp": "2026-10-27T21:23:59Z",
+  "extract_timestamp": "2026-11-02T21:21:26Z",
   "radius_km": 10,
   "bbox": [
     24.7569,
@@ -138,7 +138,7 @@
         "vegan"
       ],
       "category": "amenity=restaurant",
-      "check_date": null
+      "check_date": "2026-11-01"
     },
     {
       "osm_type": "node",
@@ -170,7 +170,7 @@
         "vegan"
       ],
       "category": "amenity=restaurant",
-      "check_date": null
+      "check_date": "2026-11-01"
     },
     {
       "osm_type": "node",
@@ -1421,7 +1421,7 @@
         "vegan"
       ],
       "category": "amenity=restaurant",
-      "check_date": null
+      "check_date": "2026-11-01"
     },
     {
       "osm_type": "node",
@@ -2545,7 +2545,7 @@
     {
       "osm_type": "node",
       "osm_id": 4339457366,
-      "name": "PizzaExpress",
+      "name": "Pizza Meilahti",
       "names": {},
       "lat": 60.195039,
       "lng": 24.901346,
@@ -2556,7 +2556,7 @@
         "vegan"
       ],
       "category": "amenity=restaurant",
-      "check_date": "2021-02-10"
+      "check_date": "2026-10-30"
     },
     {
       "osm_type": "node",
@@ -3317,7 +3317,7 @@
         "vegan"
       ],
       "category": "amenity=restaurant",
-      "check_date": "2026-10-01"
+      "check_date": "2026-10-29"
     },
     {
       "osm_type": "node",
@@ -3542,22 +3542,6 @@
       ],
       "category": "amenity=fast_food",
       "check_date": "2024-08-05"
-    },
-    {
-      "osm_type": "node",
-      "osm_id": 6095700744,
-      "name": "Da Spizzico",
-      "names": {},
-      "lat": 60.155232,
-      "lng": 24.915527,
-      "tags": {
-        "dog": "yes"
-      },
-      "themes": [
-        "dogs"
-      ],
-      "category": "amenity=restaurant",
-      "check_date": null
     },
     {
       "osm_type": "node",
@@ -4783,7 +4767,7 @@
         "vegan"
       ],
       "category": "amenity=restaurant",
-      "check_date": null
+      "check_date": "2026-10-29"
     },
     {
       "osm_type": "node",
@@ -5154,7 +5138,7 @@
         "vegan"
       ],
       "category": "amenity=restaurant",
-      "check_date": null
+      "check_date": "2026-11-01"
     },
     {
       "osm_type": "node",

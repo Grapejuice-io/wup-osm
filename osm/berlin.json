@@ -3,7 +3,7 @@
   "city": "berlin",
   "country": "DE",
   "region": "europe/germany/berlin",
-  "extract_timestamp": "2026-10-27T21:23:59Z",
+  "extract_timestamp": "2026-11-02T21:21:26Z",
   "radius_km": 15,
   "bbox": [
     13.1619,
@@ -2774,7 +2774,7 @@
         "vegan"
       ],
       "category": "amenity=restaurant",
-      "check_date": "2025-05-19"
+      "check_date": "2026-11-01"
     },
     {
       "osm_type": "node",
@@ -3226,7 +3226,7 @@
         "vegan"
       ],
       "category": "amenity=restaurant",
-      "check_date": "2025-07-24"
+      "check_date": "2026-11-01"
     },
     {
       "osm_type": "node",
@@ -6734,6 +6734,22 @@
     },
     {
       "osm_type": "node",
+      "osm_id": 1096077605,
+      "name": "Spreeblick",
+      "names": {},
+      "lat": 52.516169,
+      "lng": 13.405817,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
       "osm_id": 1096182645,
       "name": "Zur Gerichtslaube",
       "names": {},
@@ -7230,6 +7246,22 @@
       ],
       "category": "amenity=restaurant",
       "check_date": "2026-09-15"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1244644982,
+      "name": "Ephraim's",
+      "names": {},
+      "lat": 52.51564,
+      "lng": 13.406953,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-10-31"
     },
     {
       "osm_type": "node",
@@ -8545,6 +8577,22 @@
       ],
       "category": "amenity=restaurant",
       "check_date": "2026-10-04"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1552074696,
+      "name": "Polish Dainty",
+      "names": {},
+      "lat": 52.53087,
+      "lng": 13.383661,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2025-09-10"
     },
     {
       "osm_type": "node",
@@ -10028,7 +10076,7 @@
         "vegan"
       ],
       "category": "amenity=restaurant",
-      "check_date": "2026-04-22"
+      "check_date": "2026-11-01"
     },
     {
       "osm_type": "node",
@@ -11417,6 +11465,22 @@
     },
     {
       "osm_type": "node",
+      "osm_id": 2345419495,
+      "name": "Zille Stube",
+      "names": {},
+      "lat": 52.516083,
+      "lng": 13.40584,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
       "osm_id": 2347507165,
       "name": "Green Flavor",
       "names": {},
@@ -11688,7 +11752,7 @@
         "vegan"
       ],
       "category": "amenity=fast_food",
-      "check_date": "2026-10-15"
+      "check_date": "2026-11-01"
     },
     {
       "osm_type": "node",
@@ -13025,7 +13089,7 @@
         "vegan"
       ],
       "category": "amenity=restaurant",
-      "check_date": null
+      "check_date": "2026-10-30"
     },
     {
       "osm_type": "node",
@@ -13041,7 +13105,7 @@
         "vegan"
       ],
       "category": "amenity=fast_food",
-      "check_date": "2026-10-05"
+      "check_date": "2026-10-31"
     },
     {
       "osm_type": "node",
@@ -14673,8 +14737,8 @@
       "osm_id": 3525559346,
       "name": "Eiskultur-Berlin",
       "names": {},
-      "lat": 52.455107,
-      "lng": 13.514748,
+      "lat": 52.455093,
+      "lng": 13.514834,
       "tags": {
         "diet:vegan": "yes"
       },
@@ -15661,7 +15725,7 @@
         "vegan"
       ],
       "category": "amenity=restaurant",
-      "check_date": "2025-10-23"
+      "check_date": "2026-03-26"
     },
     {
       "osm_type": "node",
@@ -15840,6 +15904,22 @@
       ],
       "category": "amenity=restaurant",
       "check_date": "2026-05-02"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3803711353,
+      "name": "Foodbag",
+      "names": {},
+      "lat": 52.503764,
+      "lng": 13.409906,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-10-28"
     },
     {
       "osm_type": "node",
@@ -16656,22 +16736,6 @@
       ],
       "category": "amenity=cafe",
       "check_date": "2025-07-12"
-    },
-    {
-      "osm_type": "node",
-      "osm_id": 3908299172,
-      "name": "tak tak",
-      "names": {},
-      "lat": 52.530594,
-      "lng": 13.400745,
-      "tags": {
-        "diet:vegan": "yes"
-      },
-      "themes": [
-        "vegan"
-      ],
-      "category": null,
-      "check_date": "2025-09-21"
     },
     {
       "osm_type": "node",
@@ -18488,24 +18552,6 @@
       ],
       "category": "amenity=restaurant",
       "check_date": "2025-09-12"
-    },
-    {
-      "osm_type": "node",
-      "osm_id": 4431708621,
-      "name": "Touline 92 Orient Fresh Food",
-      "names": {
-        "en": "Touline 92 Orient Fresh Food"
-      },
-      "lat": 52.476143,
-      "lng": 13.426232,
-      "tags": {
-        "diet:vegan": "yes"
-      },
-      "themes": [
-        "vegan"
-      ],
-      "category": "amenity=restaurant",
-      "check_date": null
     },
     {
       "osm_type": "node",
@@ -21154,7 +21200,7 @@
         "vegan"
       ],
       "category": "amenity=fast_food",
-      "check_date": "2026-07-24"
+      "check_date": "2026-10-30"
     },
     {
       "osm_type": "node",
@@ -26168,7 +26214,7 @@
         "vegan"
       ],
       "category": "amenity=fast_food",
-      "check_date": "2026-09-06"
+      "check_date": "2026-10-28"
     },
     {
       "osm_type": "node",
@@ -28156,6 +28202,22 @@
     },
     {
       "osm_type": "node",
+      "osm_id": 9971643710,
+      "name": "Chuan House",
+      "names": {},
+      "lat": 52.523115,
+      "lng": 13.434844,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
       "osm_id": 9978747702,
       "name": "Seven Coffee",
       "names": {},
@@ -28526,22 +28588,6 @@
       ],
       "category": "shop=cannabis",
       "check_date": null
-    },
-    {
-      "osm_type": "node",
-      "osm_id": 10293357409,
-      "name": "Polish Dainty",
-      "names": {},
-      "lat": 52.530831,
-      "lng": 13.383705,
-      "tags": {
-        "diet:vegan": "yes"
-      },
-      "themes": [
-        "vegan"
-      ],
-      "category": "amenity=restaurant",
-      "check_date": "2025-09-10"
     },
     {
       "osm_type": "node",
@@ -29701,6 +29747,22 @@
     },
     {
       "osm_type": "node",
+      "osm_id": 11795362338,
+      "name": "Suppe und Stulle",
+      "names": {},
+      "lat": 52.538338,
+      "lng": 13.480813,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2025-12-14"
+    },
+    {
+      "osm_type": "node",
       "osm_id": 11813552551,
       "name": "House of Healing Café",
       "names": {},
@@ -29985,22 +30047,6 @@
         "lgbtq"
       ],
       "category": "amenity=bar",
-      "check_date": null
-    },
-    {
-      "osm_type": "node",
-      "osm_id": 12069268229,
-      "name": "Let Enzo Out",
-      "names": {},
-      "lat": 52.507407,
-      "lng": 13.456827,
-      "tags": {
-        "diet:vegan": "yes"
-      },
-      "themes": [
-        "vegan"
-      ],
-      "category": "amenity=restaurant",
       "check_date": null
     },
     {
@@ -31125,6 +31171,22 @@
     },
     {
       "osm_type": "node",
+      "osm_id": 13038381901,
+      "name": "Company Catering",
+      "names": {},
+      "lat": 52.497645,
+      "lng": 13.46779,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-10-28"
+    },
+    {
+      "osm_type": "node",
       "osm_id": 13038604988,
       "name": "La Cesta",
       "names": {},
@@ -31234,6 +31296,38 @@
       ],
       "category": "amenity=fast_food",
       "check_date": "2026-08-08"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13119669651,
+      "name": "Moon Exquisite",
+      "names": {},
+      "lat": 52.515811,
+      "lng": 13.406545,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-10-31"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13119685710,
+      "name": "San Nicola",
+      "names": {},
+      "lat": 52.516001,
+      "lng": 13.405939,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-10-31"
     },
     {
       "osm_type": "node",
@@ -41043,6 +41137,22 @@
     },
     {
       "osm_type": "way",
+      "osm_id": 98557275,
+      "name": "Baran Kebap",
+      "names": {},
+      "lat": 52.502281,
+      "lng": 13.414919,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2025-06-18"
+    },
+    {
+      "osm_type": "way",
       "osm_id": 103682358,
       "name": "Bornträger",
       "names": {},
@@ -43375,6 +43485,22 @@
     },
     {
       "osm_type": "way",
+      "osm_id": 197114550,
+      "name": "Baran Kebap",
+      "names": {},
+      "lat": 52.502281,
+      "lng": 13.414919,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2025-06-18"
+    },
+    {
+      "osm_type": "way",
       "osm_id": 198375760,
       "name": null,
       "names": {},
@@ -45592,6 +45718,22 @@
     },
     {
       "osm_type": "way",
+      "osm_id": 355476495,
+      "name": "OXI",
+      "names": {},
+      "lat": 52.507592,
+      "lng": 13.474934,
+      "tags": {
+        "lgbtq": "welcome"
+      },
+      "themes": [
+        "lgbtq"
+      ],
+      "category": "amenity=nightclub",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
       "osm_id": 356890996,
       "name": null,
       "names": {},
@@ -47006,7 +47148,7 @@
       "name": null,
       "names": {},
       "lat": 52.465953,
-      "lng": 13.212081,
+      "lng": 13.212121,
       "tags": {
         "dog": "leashed"
       },
@@ -49033,6 +49175,22 @@
         "dogs"
       ],
       "category": null,
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 710952990,
+      "name": "OXI",
+      "names": {},
+      "lat": 52.507592,
+      "lng": 13.474934,
+      "tags": {
+        "lgbtq": "welcome"
+      },
+      "themes": [
+        "lgbtq"
+      ],
+      "category": "amenity=nightclub",
       "check_date": null
     },
     {
@@ -56739,6 +56897,22 @@
     },
     {
       "osm_type": "way",
+      "osm_id": 1414971354,
+      "name": "Fresh Stop",
+      "names": {},
+      "lat": 52.517317,
+      "lng": 13.342118,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-11-01"
+    },
+    {
+      "osm_type": "way",
       "osm_id": 1421370455,
       "name": null,
       "names": {},
@@ -58322,6 +58496,22 @@
       ],
       "category": "shop=supermarket",
       "check_date": "2026-10-16"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 2829942708,
+      "name": "Fresh Stop",
+      "names": {},
+      "lat": 52.517317,
+      "lng": 13.342118,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-11-01"
     },
     {
       "osm_type": "way",

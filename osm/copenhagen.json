@@ -3,7 +3,7 @@
   "city": "copenhagen",
   "country": "DK",
   "region": "europe/denmark",
-  "extract_timestamp": "2026-10-27T21:23:59Z",
+  "extract_timestamp": "2026-11-02T21:21:26Z",
   "radius_km": 10,
   "bbox": [
     12.40958,
@@ -2316,7 +2316,7 @@
         "vegan"
       ],
       "category": "amenity=fast_food",
-      "check_date": "2026-05-31"
+      "check_date": "2026-10-29"
     },
     {
       "osm_type": "node",
@@ -4036,6 +4036,22 @@
     },
     {
       "osm_type": "node",
+      "osm_id": 12752575735,
+      "name": "Max",
+      "names": {},
+      "lat": 55.663461,
+      "lng": 12.560791,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-10-28"
+    },
+    {
+      "osm_type": "node",
       "osm_id": 12797453269,
       "name": "Pho Xiu",
       "names": {},
@@ -4471,8 +4487,8 @@
       "osm_id": 8136142,
       "name": null,
       "names": {},
-      "lat": 55.674368,
-      "lng": 12.525455,
+      "lat": 55.674354,
+      "lng": 12.525441,
       "tags": {
         "dog": "leashed"
       },
@@ -4681,7 +4697,7 @@
       "name": "Solbjergvej",
       "names": {},
       "lat": 55.681071,
-      "lng": 12.533562,
+      "lng": 12.53355,
       "tags": {
         "dog": "leashed"
       },
@@ -7476,7 +7492,7 @@
       "name": "Solbjergvej",
       "names": {},
       "lat": 55.681037,
-      "lng": 12.532758,
+      "lng": 12.532746,
       "tags": {
         "dog": "leashed"
       },
@@ -13446,22 +13462,6 @@
       "names": {},
       "lat": 55.726427,
       "lng": 12.580753,
-      "tags": {
-        "dog": "leashed"
-      },
-      "themes": [
-        "dogs"
-      ],
-      "category": null,
-      "check_date": null
-    },
-    {
-      "osm_type": "way",
-      "osm_id": 1156317725,
-      "name": "Rymarksvej",
-      "names": {},
-      "lat": 55.724612,
-      "lng": 12.564476,
       "tags": {
         "dog": "leashed"
       },

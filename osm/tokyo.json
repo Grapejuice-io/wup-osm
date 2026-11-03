@@ -3,7 +3,7 @@
   "city": "tokyo",
   "country": "JP",
   "region": "asia/japan/kanto",
-  "extract_timestamp": "2026-10-27T21:23:59Z",
+  "extract_timestamp": "2026-11-02T21:21:26Z",
   "radius_km": 18,
   "bbox": [
     139.57537,
@@ -3727,6 +3727,22 @@
       "names": {},
       "lat": 35.690748,
       "lng": 139.705954,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 14340198601,
+      "name": "Indian Curry Darvish",
+      "names": {},
+      "lat": 35.677532,
+      "lng": 139.676829,
       "tags": {
         "diet:vegan": "yes"
       },

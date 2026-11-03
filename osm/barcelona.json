@@ -3,7 +3,7 @@
   "city": "barcelona",
   "country": "ES",
   "region": "europe/spain/cataluna",
-  "extract_timestamp": "2026-10-27T21:23:59Z",
+  "extract_timestamp": "2026-11-02T21:21:26Z",
   "radius_km": 10,
   "bbox": [
     2.05722,
@@ -60,22 +60,6 @@
         "vegan"
       ],
       "category": "amenity=restaurant",
-      "check_date": null
-    },
-    {
-      "osm_type": "node",
-      "osm_id": 691581816,
-      "name": "Amorino",
-      "names": {},
-      "lat": 41.384831,
-      "lng": 2.17016,
-      "tags": {
-        "diet:vegan": "yes"
-      },
-      "themes": [
-        "vegan"
-      ],
-      "category": "amenity=ice_cream",
       "check_date": null
     },
     {
@@ -6059,10 +6043,10 @@
     {
       "osm_type": "way",
       "osm_id": 293840092,
-      "name": null,
+      "name": "Correcan del Parc Nou",
       "names": {},
-      "lat": 41.315006,
-      "lng": 2.090135,
+      "lat": 41.314994,
+      "lng": 2.090122,
       "tags": {
         "leisure": "dog_park"
       },
@@ -6881,10 +6865,10 @@
     {
       "osm_type": "way",
       "osm_id": 587680184,
-      "name": null,
+      "name": "Correcan del Parc Nou",
       "names": {},
-      "lat": 41.315006,
-      "lng": 2.090135,
+      "lat": 41.314994,
+      "lng": 2.090122,
       "tags": {
         "leisure": "dog_park"
       },

@@ -3,7 +3,7 @@
   "city": "hamburg",
   "country": "DE",
   "region": "europe/germany/hamburg",
-  "extract_timestamp": "2026-10-27T21:23:59Z",
+  "extract_timestamp": "2026-11-02T21:21:26Z",
   "radius_km": 10,
   "bbox": [
     9.8488,
@@ -447,10 +447,10 @@
     {
       "osm_type": "node",
       "osm_id": 307875902,
-      "name": "Schönes Leben",
+      "name": "Schönes Hamburg",
       "names": {},
-      "lat": 53.54553,
-      "lng": 9.997617,
+      "lat": 53.545513,
+      "lng": 9.997599,
       "tags": {
         "diet:vegan": "yes"
       },
@@ -458,7 +458,7 @@
         "vegan"
       ],
       "category": "amenity=restaurant",
-      "check_date": "2024-10-21"
+      "check_date": "2026-10-29"
     },
     {
       "osm_type": "node",
@@ -2037,8 +2037,8 @@
       "osm_id": 1705687533,
       "name": "Peacetanbul auf Kampnagel",
       "names": {},
-      "lat": 53.583209,
-      "lng": 10.020997,
+      "lat": 53.583641,
+      "lng": 10.021471,
       "tags": {
         "diet:vegan": "yes"
       },
@@ -2724,6 +2724,24 @@
       ],
       "category": "amenity=fast_food",
       "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 2066068131,
+      "name": "Dragon Sauna",
+      "names": {
+        "de": "Dragon Sauna"
+      },
+      "lat": 53.553127,
+      "lng": 10.0157,
+      "tags": {
+        "lgbtq": "only"
+      },
+      "themes": [
+        "lgbtq"
+      ],
+      "category": "leisure=sauna",
+      "check_date": "2026-10-18"
     },
     {
       "osm_type": "node",
@@ -7629,6 +7647,22 @@
     },
     {
       "osm_type": "node",
+      "osm_id": 10780177312,
+      "name": "My Kebap’s",
+      "names": {},
+      "lat": 53.570093,
+      "lng": 10.026264,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-10-28"
+    },
+    {
+      "osm_type": "node",
       "osm_id": 10784368347,
       "name": "The Garden's Table",
       "names": {},
@@ -8926,6 +8960,38 @@
       ],
       "category": "amenity=cafe",
       "check_date": "2026-07-01"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 14335999601,
+      "name": null,
+      "names": {},
+      "lat": 53.578755,
+      "lng": 10.027369,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 14335999701,
+      "name": null,
+      "names": {},
+      "lat": 53.578266,
+      "lng": 10.027882,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
     },
     {
       "osm_type": "way",

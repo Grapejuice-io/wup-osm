@@ -3,7 +3,7 @@
   "city": "madrid",
   "country": "ES",
   "region": "europe/spain/madrid",
-  "extract_timestamp": "2026-10-27T21:23:59Z",
+  "extract_timestamp": "2026-11-02T21:21:26Z",
   "radius_km": 12,
   "bbox": [
     -3.84492,
@@ -42417,8 +42417,8 @@
       "osm_id": 1460478857,
       "name": null,
       "names": {},
-      "lat": 40.373584,
-      "lng": -3.650204,
+      "lat": 40.373582,
+      "lng": -3.650198,
       "tags": {
         "dog": "leashed"
       },

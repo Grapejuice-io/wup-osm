@@ -3,7 +3,7 @@
   "city": "zurich",
   "country": "CH",
   "region": "europe/switzerland",
-  "extract_timestamp": "2026-10-27T21:23:59Z",
+  "extract_timestamp": "2026-11-02T21:21:26Z",
   "radius_km": 10,
   "bbox": [
     8.40846,
@@ -410,7 +410,7 @@
         "vegan"
       ],
       "category": "amenity=fast_food",
-      "check_date": "2025-08-04"
+      "check_date": "2026-10-30"
     },
     {
       "osm_type": "node",
@@ -3516,7 +3516,7 @@
         "vegan"
       ],
       "category": "amenity=restaurant",
-      "check_date": "2026-06-15"
+      "check_date": "2026-10-31"
     },
     {
       "osm_type": "node",
@@ -4670,7 +4670,7 @@
         "vegan"
       ],
       "category": "amenity=fast_food",
-      "check_date": "2025-08-21"
+      "check_date": "2026-10-29"
     },
     {
       "osm_type": "node",
@@ -4766,7 +4766,7 @@
         "vegan"
       ],
       "category": "amenity=fast_food",
-      "check_date": "2025-07-01"
+      "check_date": "2026-10-30"
     },
     {
       "osm_type": "node",
@@ -5678,7 +5678,7 @@
         "vegan"
       ],
       "category": "amenity=restaurant",
-      "check_date": "2025-10-10"
+      "check_date": "2026-10-30"
     },
     {
       "osm_type": "node",
@@ -6638,7 +6638,7 @@
         "vegan"
       ],
       "category": "amenity=food_court",
-      "check_date": "2025-09-14"
+      "check_date": "2026-10-29"
     },
     {
       "osm_type": "node",
@@ -6978,22 +6978,6 @@
     },
     {
       "osm_type": "node",
-      "osm_id": 11889604524,
-      "name": "House of Momos",
-      "names": {},
-      "lat": 47.378425,
-      "lng": 8.540243,
-      "tags": {
-        "diet:vegan": "yes"
-      },
-      "themes": [
-        "vegan"
-      ],
-      "category": "amenity=food_court",
-      "check_date": "2025-09-14"
-    },
-    {
-      "osm_type": "node",
       "osm_id": 11965365869,
       "name": "Glückbar Café",
       "names": {},
@@ -7247,6 +7231,22 @@
       ],
       "category": "amenity=bar",
       "check_date": "2026-05-25"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 14340508374,
+      "name": "Roots",
+      "names": {},
+      "lat": 47.450188,
+      "lng": 8.562728,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
     },
     {
       "osm_type": "way",

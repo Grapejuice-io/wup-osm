@@ -3,7 +3,7 @@
   "city": "salzburg",
   "country": "AT",
   "region": "europe/austria",
-  "extract_timestamp": "2026-10-27T21:23:59Z",
+  "extract_timestamp": "2026-11-02T21:21:26Z",
   "radius_km": 10,
   "bbox": [
     12.91127,
@@ -186,7 +186,7 @@
         "vegan"
       ],
       "category": "amenity=restaurant",
-      "check_date": null
+      "check_date": "2026-11-01"
     },
     {
       "osm_type": "node",
@@ -618,7 +618,7 @@
         "vegan"
       ],
       "category": "amenity=cafe",
-      "check_date": null
+      "check_date": "2026-11-01"
     },
     {
       "osm_type": "node",
@@ -1034,7 +1034,7 @@
         "dogs"
       ],
       "category": "amenity=restaurant",
-      "check_date": null
+      "check_date": "2026-10-28"
     },
     {
       "osm_type": "node",

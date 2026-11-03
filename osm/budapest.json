@@ -3,7 +3,7 @@
   "city": "budapest",
   "country": "HU",
   "region": "europe/hungary",
-  "extract_timestamp": "2026-10-27T21:23:59Z",
+  "extract_timestamp": "2026-11-02T21:21:26Z",
   "radius_km": 10,
   "bbox": [
     18.90787,
@@ -115,6 +115,22 @@
       "names": {},
       "lat": 47.509833,
       "lng": 19.057421,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 275465165,
+      "name": "Burger King",
+      "names": {},
+      "lat": 47.500925,
+      "lng": 19.081653,
       "tags": {
         "diet:vegan": "yes"
       },
@@ -652,24 +668,6 @@
       ],
       "category": "amenity=cafe",
       "check_date": "2026-06-26"
-    },
-    {
-      "osm_type": "node",
-      "osm_id": 1315060018,
-      "name": "Tranzit by Flow",
-      "names": {},
-      "lat": 47.474112,
-      "lng": 19.039935,
-      "tags": {
-        "diet:vegan": "only",
-        "dog": "yes"
-      },
-      "themes": [
-        "vegan",
-        "dogs"
-      ],
-      "category": "amenity=restaurant",
-      "check_date": null
     },
     {
       "osm_type": "node",
@@ -2501,7 +2499,7 @@
         "dogs"
       ],
       "category": "shop=bakery",
-      "check_date": "2026-01-04"
+      "check_date": "2026-11-02"
     },
     {
       "osm_type": "node",
@@ -4948,7 +4946,7 @@
         "vegan"
       ],
       "category": "amenity=fast_food",
-      "check_date": "2024-12-04"
+      "check_date": "2026-10-28"
     },
     {
       "osm_type": "node",
@@ -5112,6 +5110,22 @@
         "vegan"
       ],
       "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4666197780,
+      "name": "Starbucks",
+      "names": {},
+      "lat": 47.500649,
+      "lng": 19.081497,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
       "check_date": null
     },
     {
@@ -5412,8 +5426,8 @@
       "osm_id": 5176383433,
       "name": "Fitzkey Kürtőskalács",
       "names": {},
-      "lat": 47.479407,
-      "lng": 19.066464,
+      "lat": 47.479402,
+      "lng": 19.06642,
       "tags": {
         "diet:vegan": "yes"
       },
@@ -6785,6 +6799,22 @@
     },
     {
       "osm_type": "node",
+      "osm_id": 7393390310,
+      "name": "Han Sai",
+      "names": {},
+      "lat": 47.532567,
+      "lng": 19.074063,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-11-01"
+    },
+    {
+      "osm_type": "node",
       "osm_id": 7521030865,
       "name": "Mokka Corner",
       "names": {},
@@ -6878,6 +6908,22 @@
       ],
       "category": "shop=laundry",
       "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7803498820,
+      "name": "Közös",
+      "names": {},
+      "lat": 47.452259,
+      "lng": 19.125969,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": "2026-10-28"
     },
     {
       "osm_type": "node",
@@ -7778,7 +7824,7 @@
         "vegan"
       ],
       "category": "amenity=restaurant",
-      "check_date": "2025-11-07"
+      "check_date": "2026-10-29"
     },
     {
       "osm_type": "node",
@@ -8414,6 +8460,22 @@
       ],
       "category": "amenity=restaurant",
       "check_date": "2026-04-04"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13734095528,
+      "name": "MONOLOG",
+      "names": {},
+      "lat": 47.492695,
+      "lng": 19.07058,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": "2026-11-02"
     },
     {
       "osm_type": "node",

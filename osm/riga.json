@@ -3,7 +3,7 @@
   "city": "riga",
   "country": "LV",
   "region": "europe/latvia",
-  "extract_timestamp": "2026-10-27T21:23:59Z",
+  "extract_timestamp": "2026-11-02T21:21:26Z",
   "radius_km": 10,
   "bbox": [
     23.94224,
@@ -462,22 +462,6 @@
     },
     {
       "osm_type": "node",
-      "osm_id": 8222536147,
-      "name": "Kebab City",
-      "names": {},
-      "lat": 56.911676,
-      "lng": 24.085656,
-      "tags": {
-        "diet:vegan": "yes"
-      },
-      "themes": [
-        "vegan"
-      ],
-      "category": "amenity=fast_food",
-      "check_date": null
-    },
-    {
-      "osm_type": "node",
       "osm_id": 9022621166,
       "name": "Kozy Eats",
       "names": {},
@@ -906,7 +890,7 @@
         "vegan"
       ],
       "category": "amenity=restaurant",
-      "check_date": "2026-08-19"
+      "check_date": "2026-10-28"
     },
     {
       "osm_type": "node",
@@ -1475,6 +1459,22 @@
       "names": {},
       "lat": 56.958654,
       "lng": 24.120637,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 14325049125,
+      "name": "Kaktuss Catering",
+      "names": {},
+      "lat": 56.963438,
+      "lng": 24.113551,
       "tags": {
         "diet:vegan": "yes"
       },

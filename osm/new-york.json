@@ -3,7 +3,7 @@
   "city": "new-york",
   "country": "US",
   "region": "north-america/us/new-york",
-  "extract_timestamp": "2026-10-27T21:23:59Z",
+  "extract_timestamp": "2026-11-02T21:21:26Z",
   "radius_km": 15,
   "bbox": [
     -74.18388,
@@ -1018,22 +1018,6 @@
         "vegan"
       ],
       "category": "amenity=fast_food",
-      "check_date": null
-    },
-    {
-      "osm_type": "node",
-      "osm_id": 2523619708,
-      "name": "Next Stop Vegan",
-      "names": {},
-      "lat": 40.691228,
-      "lng": -73.990689,
-      "tags": {
-        "diet:vegan": "only"
-      },
-      "themes": [
-        "vegan"
-      ],
-      "category": "amenity=restaurant",
       "check_date": null
     },
     {
@@ -2166,12 +2150,12 @@
     {
       "osm_type": "node",
       "osm_id": 2838706928,
-      "name": "Muz Muz CBD Lounge",
+      "name": "Muz Muz Shop & Cafe",
       "names": {},
       "lat": 40.71253,
       "lng": -73.943887,
       "tags": {
-        "diet:vegan": "yes"
+        "diet:vegan": "only"
       },
       "themes": [
         "vegan"
@@ -6295,6 +6279,22 @@
     },
     {
       "osm_type": "node",
+      "osm_id": 6883693025,
+      "name": "NSV",
+      "names": {},
+      "lat": 40.691246,
+      "lng": -73.990734,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
       "osm_id": 6886916465,
       "name": "Poke City",
       "names": {},
@@ -6904,10 +6904,10 @@
     {
       "osm_type": "node",
       "osm_id": 8501495834,
-      "name": "Somtum Der",
+      "name": "Goog Thai Cook Shop",
       "names": {},
-      "lat": 40.6771,
-      "lng": -74.013452,
+      "lat": 40.677064,
+      "lng": -74.013429,
       "tags": {
         "diet:vegan": "yes"
       },
@@ -7206,6 +7206,22 @@
         "vegan"
       ],
       "category": "amenity=ice_cream",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9193984153,
+      "name": "Yohevet Coffee",
+      "names": {},
+      "lat": 40.692683,
+      "lng": -73.987102,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
       "check_date": null
     },
     {
@@ -14776,6 +14792,22 @@
     },
     {
       "osm_type": "way",
+      "osm_id": 1573512626,
+      "name": "Landing Lights Dog Run",
+      "names": {},
+      "lat": 40.761621,
+      "lng": -73.88999,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
       "osm_id": 1657822428,
       "name": "Hampton",
       "names": {},
@@ -15655,6 +15687,22 @@
       "names": {},
       "lat": 40.678119,
       "lng": -73.904885,
+      "tags": {
+        "leisure": "dog_park"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=dog_park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 3147025252,
+      "name": "Landing Lights Dog Run",
+      "names": {},
+      "lat": 40.761621,
+      "lng": -73.88999,
       "tags": {
         "leisure": "dog_park"
       },

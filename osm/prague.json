@@ -3,7 +3,7 @@
   "city": "prague",
   "country": "CZ",
   "region": "europe/czech-republic",
-  "extract_timestamp": "2026-10-27T21:23:59Z",
+  "extract_timestamp": "2026-11-02T21:21:26Z",
   "radius_km": 10,
   "bbox": [
     14.28138,
@@ -3911,6 +3911,38 @@
       ],
       "category": "shop=hairdresser",
       "check_date": "2026-10-26"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 14325110849,
+      "name": null,
+      "names": {},
+      "lat": 50.107582,
+      "lng": 14.472619,
+      "tags": {
+        "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "amenity=drinking_water",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 14338858260,
+      "name": "Furahaa",
+      "names": {},
+      "lat": 50.083712,
+      "lng": 14.451642,
+      "tags": {
+        "diet:vegan": "only"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": "2026-11-02"
     },
     {
       "osm_type": "way",

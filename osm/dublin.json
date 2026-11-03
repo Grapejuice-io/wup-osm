@@ -3,7 +3,7 @@
   "city": "dublin",
   "country": "IE",
   "region": "europe/ireland-and-northern-ireland",
-  "extract_timestamp": "2026-10-27T21:23:59Z",
+  "extract_timestamp": "2026-11-02T21:21:26Z",
   "radius_km": 10,
   "bbox": [
     -6.41077,
@@ -59,6 +59,22 @@
       ],
       "category": "amenity=pub",
       "check_date": "2025-10-20"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 310407690,
+      "name": "Bittersweet Cafe",
+      "names": {},
+      "lat": 53.343728,
+      "lng": -6.268921,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=cafe",
+      "check_date": null
     },
     {
       "osm_type": "node",
@@ -1124,22 +1140,6 @@
     },
     {
       "osm_type": "node",
-      "osm_id": 10222405064,
-      "name": "The Jungle",
-      "names": {},
-      "lat": 53.289419,
-      "lng": -6.129813,
-      "tags": {
-        "dog": "yes"
-      },
-      "themes": [
-        "dogs"
-      ],
-      "category": null,
-      "check_date": "2025-06-17"
-    },
-    {
-      "osm_type": "node",
       "osm_id": 10275525043,
       "name": "Thomas Clarke’s",
       "names": {},
@@ -1157,7 +1157,7 @@
     {
       "osm_type": "node",
       "osm_id": 10591646425,
-      "name": "O’Brien’s",
+      "name": "O'Briens",
       "names": {},
       "lat": 53.391943,
       "lng": -6.248472,
@@ -1167,7 +1167,7 @@
       "themes": [
         "vegan"
       ],
-      "category": "amenity=restaurant",
+      "category": "amenity=cafe",
       "check_date": "2026-08-19"
     },
     {
@@ -1216,7 +1216,7 @@
         "vegan"
       ],
       "category": "amenity=bar",
-      "check_date": "2025-10-18"
+      "check_date": "2026-11-01"
     },
     {
       "osm_type": "node",
@@ -1444,6 +1444,25 @@
     },
     {
       "osm_type": "way",
+      "osm_id": 25097841,
+      "name": "People's Park",
+      "names": {
+        "en": "People's Park",
+        "ga": "Páirc an Phobail"
+      },
+      "lat": 53.290031,
+      "lng": -6.128397,
+      "tags": {
+        "dog": "leashed"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
       "osm_id": 37263931,
       "name": "St Stephen's Green",
       "names": {
@@ -1523,6 +1542,25 @@
       "lng": -6.279097,
       "tags": {
         "dog": "yes"
+      },
+      "themes": [
+        "dogs"
+      ],
+      "category": "leisure=park",
+      "check_date": null
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 50195682,
+      "name": "People's Park",
+      "names": {
+        "en": "People's Park",
+        "ga": "Páirc an Phobail"
+      },
+      "lat": 53.290031,
+      "lng": -6.128397,
+      "tags": {
+        "dog": "leashed"
       },
       "themes": [
         "dogs"

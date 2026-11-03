@@ -3,7 +3,7 @@
   "city": "florence",
   "country": "IT",
   "region": "europe/italy/centro",
-  "extract_timestamp": "2026-10-27T21:23:59Z",
+  "extract_timestamp": "2026-11-02T21:21:26Z",
   "radius_km": 10,
   "bbox": [
     11.12977,
@@ -1364,6 +1364,22 @@
       "names": {},
       "lat": 43.770811,
       "lng": 11.256149,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=fast_food",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13304328985,
+      "name": "Ravvin",
+      "names": {},
+      "lat": 43.778391,
+      "lng": 11.239235,
       "tags": {
         "diet:vegan": "yes"
       },

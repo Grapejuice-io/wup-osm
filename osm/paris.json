@@ -3,7 +3,7 @@
   "city": "paris",
   "country": "FR",
   "region": "europe/france/ile-de-france",
-  "extract_timestamp": "2026-10-27T21:23:59Z",
+  "extract_timestamp": "2026-11-02T21:21:26Z",
   "radius_km": 12,
   "bbox": [
     2.18838,
@@ -269,7 +269,7 @@
         "vegan"
       ],
       "category": "amenity=restaurant",
-      "check_date": "2025-10-03"
+      "check_date": "2026-11-01"
     },
     {
       "osm_type": "node",
@@ -962,7 +962,7 @@
         "vegan"
       ],
       "category": "amenity=cafe",
-      "check_date": null
+      "check_date": "2026-11-01"
     },
     {
       "osm_type": "node",
@@ -3554,7 +3554,7 @@
         "vegan"
       ],
       "category": "amenity=fast_food",
-      "check_date": "2025-07-10"
+      "check_date": "2026-10-30"
     },
     {
       "osm_type": "node",
@@ -3714,7 +3714,7 @@
         "vegan"
       ],
       "category": "amenity=fast_food",
-      "check_date": "2026-06-17"
+      "check_date": "2026-11-01"
     },
     {
       "osm_type": "node",
@@ -4345,22 +4345,6 @@
       ],
       "category": "amenity=restaurant",
       "check_date": null
-    },
-    {
-      "osm_type": "node",
-      "osm_id": 3672093582,
-      "name": "Tilal",
-      "names": {},
-      "lat": 48.862174,
-      "lng": 2.349668,
-      "tags": {
-        "diet:vegan": "yes"
-      },
-      "themes": [
-        "vegan"
-      ],
-      "category": "amenity=fast_food",
-      "check_date": "2025-11-28"
     },
     {
       "osm_type": "node",
@@ -6595,7 +6579,7 @@
     {
       "osm_type": "node",
       "osm_id": 5413811181,
-      "name": "Les BerthoM",
+      "name": "Les Berthom Paris",
       "names": {},
       "lat": 48.864574,
       "lng": 2.369179,
@@ -9142,7 +9126,7 @@
         "vegan"
       ],
       "category": "amenity=restaurant",
-      "check_date": null
+      "check_date": "2026-11-01"
     },
     {
       "osm_type": "node",
@@ -10283,6 +10267,22 @@
         "lgbtq"
       ],
       "category": "amenity=nightclub",
+      "check_date": null
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10210974744,
+      "name": "Manal",
+      "names": {},
+      "lat": 48.850525,
+      "lng": 2.33036,
+      "tags": {
+        "diet:vegan": "yes"
+      },
+      "themes": [
+        "vegan"
+      ],
+      "category": "amenity=restaurant",
       "check_date": null
     },
     {

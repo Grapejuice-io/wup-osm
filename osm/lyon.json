@@ -3,7 +3,7 @@
   "city": "lyon",
   "country": "FR",
   "region": "europe/france/rhone-alpes",
-  "extract_timestamp": "2026-10-27T21:23:59Z",
+  "extract_timestamp": "2026-11-02T21:21:26Z",
   "radius_km": 10,
   "bbox": [
     4.70622,
@@ -191,7 +191,7 @@
     {
       "osm_type": "node",
       "osm_id": 659634507,
-      "name": "Les Berthom",
+      "name": "Les Berthom Vieux Lyon",
       "names": {},
       "lat": 45.764819,
       "lng": 4.828659,
@@ -218,7 +218,7 @@
         "vegan"
       ],
       "category": "amenity=restaurant",
-      "check_date": "2024-04-09"
+      "check_date": "2026-10-29"
     },
     {
       "osm_type": "node",
@@ -545,7 +545,7 @@
     {
       "osm_type": "node",
       "osm_id": 2092753900,
-      "name": "Les Berthom",
+      "name": "Les Berthom Lyon Opéra",
       "names": {},
       "lat": 45.76714,
       "lng": 4.836589,
@@ -1534,7 +1534,7 @@
         "vegan"
       ],
       "category": "amenity=fast_food",
-      "check_date": "2024-09-06"
+      "check_date": "2026-10-29"
     },
     {
       "osm_type": "node",

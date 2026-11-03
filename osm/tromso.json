@@ -3,7 +3,7 @@
   "city": "tromso",
   "country": "NO",
   "region": "europe/norway",
-  "extract_timestamp": "2026-10-27T21:23:59Z",
+  "extract_timestamp": "2026-11-02T21:21:26Z",
   "radius_km": 10,
   "bbox": [
     18.6987,
@@ -108,7 +108,7 @@
         "dogs"
       ],
       "category": "amenity=cafe",
-      "check_date": "2024-12"
+      "check_date": "2026-11-01"
     },
     {
       "osm_type": "way",
