@@ -44,7 +44,10 @@ concurrency:
 jobs:
   extracts:
     runs-on: ubuntu-24.04
-    timeout-minutes: 120
+    # 330, not 120: the 3 Nov run was cancelled at 2 h with ~25 regions read --
+    # Geofabrik answered at ~1.5 MB/s that day (the 46-minute October run was
+    # ~3x faster). GitHub allows 360 for a hosted job.
+    timeout-minutes: 330
     env:
       # Geofabrik asks automated clients to say who they are. This repository
       # is the contact channel: a public repository carries no one's address.
